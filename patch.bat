@@ -1,5 +1,5 @@
 @echo off
-pushd "%~dp0tool\win-x64"  
-PatchBundledGGPK3.exe "D:\POE2\content.ggpk" "C:\Users\cielt\Desktop\modded\ModV2\Mod.zip"
+pushd "%~dp0tool\"  
+PatchBundledGGPK3.exe "D:\POE2\content.ggpk" "%~dp0Mod.zip"
 popd
 pause
