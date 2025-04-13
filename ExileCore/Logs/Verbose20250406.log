@@ -1,0 +1,511 @@
+2025-04-06 12:06:10.138 +07:00 [INF] =============== Start ExileCore2 at 4/6/2025 12:06:10 PM ===============
+2025-04-06 12:06:10.764 +07:00 [INF] PerfTimer =-> Load manual fonts (0.8209 ms) Thread #[1]
+2025-04-06 12:06:10.764 +07:00 [INF] PerfTimer =-> DX11 Load (3.8004 ms) Thread #[1]
+2025-04-06 12:06:11.109 +07:00 [INF] ExileCore2 Loaded in 1073.0624 ms.
+2025-04-06 12:06:11.150 +07:00 [INF] Pattern: Game State -> : Time: 4.2962 ms. Offset:[941011] Started searching offset with:0
+2025-04-06 12:06:11.150 +07:00 [INF] Pattern: BlackBarSize -> : Time: 3.9774 ms. Offset:[4504679] Started searching offset with:0
+2025-04-06 12:06:11.168 +07:00 [INF] Pattern: Input Mode -> : Time: 16.6232 ms. Offset:[13457491] Started searching offset with:0
+2025-04-06 12:06:11.186 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 28.8057 ms. Offset:[0] Started searching offset with:0
+2025-04-06 12:06:11.186 +07:00 [INF] Pattern: Area change -> : Time: 30.145 ms. Offset:[13474884] Started searching offset with:0
+2025-04-06 12:06:11.208 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 57.3591 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:06:11.208 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 59.0281 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:06:11.208 +07:00 [INF] Pattern: File Root -> : Time: 62.1832 ms. Offset:[29461555] Started searching offset with:0
+2025-04-06 12:06:11.214 +07:00 [VRB] FileRoot: 7ff62c27c070
+2025-04-06 12:06:11.214 +07:00 [VRB] AreaChangeCount: 7ff62b41fec0
+2025-04-06 12:06:11.214 +07:00 [VRB] GameStateOffset: 7ff62c14fcb0
+2025-04-06 12:06:11.215 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6293aff0f
+2025-04-06 12:06:11.225 +07:00 [INF] Pattern scan done: 00:00:00.0687164
+2025-04-06 12:06:11.339 +07:00 [INF] PerfTimer =-> Load files from memory (77.0138 ms) Thread #[6]
+2025-04-06 12:06:11.355 +07:00 [INF] Area refresh triggered
+2025-04-06 12:06:11.372 +07:00 [INF] Plugins from directory DevTree loaded in 11 ms.
+2025-04-06 12:06:11.375 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:06:11.375 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:06:11.375 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-06 12:06:11.375 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-06 12:06:11.376 +07:00 [WRN] 4/6/2025 12:06:11 PM not supported for menu now. Ask developers to add this type.
+2025-04-06 12:06:11.376 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:06:11.395 +07:00 [INF] PerfTimer =-> Plugin loader (38.7991 ms) Thread #[6]
+2025-04-06 12:06:11.407 +07:00 [INF] Plugins from directory PluginUpdater loaded in 5 ms.
+2025-04-06 12:06:11.407 +07:00 [INF] PluginUpdater -> Initialise time: 0.2779 ms.
+2025-04-06 12:06:11.407 +07:00 [INF] Resize from: {X=0,Y=0,Width=2560,Height=1400} to {X=0,Y=0,Width=2560,Height=1440}
+2025-04-06 12:06:11.978 +07:00 [INF] PerfTimer =-> Preload stats and mods (639.6152 ms) Thread #[11]
+2025-04-06 12:07:18.247 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-06 12:07:18.695 +07:00 [INF] Pattern: Game State -> : Time: 1.219 ms. Offset:[941011] Started searching offset with:0
+2025-04-06 12:07:18.695 +07:00 [INF] Pattern: BlackBarSize -> : Time: 2.5983 ms. Offset:[4504679] Started searching offset with:0
+2025-04-06 12:07:18.712 +07:00 [INF] Pattern: Input Mode -> : Time: 16.0138 ms. Offset:[13457491] Started searching offset with:0
+2025-04-06 12:07:18.729 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 22.9874 ms. Offset:[0] Started searching offset with:0
+2025-04-06 12:07:18.729 +07:00 [INF] Pattern: Area change -> : Time: 29.5676 ms. Offset:[13474884] Started searching offset with:0
+2025-04-06 12:07:18.741 +07:00 [VRB] FileRoot: 7ff62c27c070
+2025-04-06 12:07:18.742 +07:00 [VRB] AreaChangeCount: 7ff62b41fec0
+2025-04-06 12:07:18.742 +07:00 [VRB] GameStateOffset: 7ff62c14fcb0
+2025-04-06 12:07:18.742 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6293aff0f
+2025-04-06 12:07:18.746 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 44.7163 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:07:18.746 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 45.2473 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:07:18.746 +07:00 [INF] Pattern: File Root -> : Time: 48.7496 ms. Offset:[29461555] Started searching offset with:0
+2025-04-06 12:07:18.746 +07:00 [INF] Pattern scan done: 00:00:00.0487933
+2025-04-06 12:07:18.793 +07:00 [INF] PerfTimer =-> Load files from memory (46.6465 ms) Thread #[14]
+2025-04-06 12:07:18.799 +07:00 [INF] Area refresh triggered
+2025-04-06 12:07:18.851 +07:00 [INF] Plugins from directory DevTree loaded in 47 ms.
+2025-04-06 12:07:18.852 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:07:18.852 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:07:18.852 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-06 12:07:18.852 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-06 12:07:18.852 +07:00 [WRN] 4/6/2025 12:07:18 PM not supported for menu now. Ask developers to add this type.
+2025-04-06 12:07:18.852 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:07:18.873 +07:00 [INF] Plugins from directory PluginUpdater loaded in 10 ms.
+2025-04-06 12:07:19.310 +07:00 [INF] PerfTimer =-> Preload stats and mods (517.4716 ms) Thread #[15]
+2025-04-06 12:07:27.975 +07:00 [INF] Plugins compiled and loaded in 9124 ms.
+2025-04-06 12:07:28.026 +07:00 [INF] PerfTimer =-> Compile and load source plugins (9230.9985 ms) Thread #[11]
+2025-04-06 12:07:28.043 +07:00 [INF] HealthBars -> Initialise time: 6.5778 ms.
+2025-04-06 12:07:28.043 +07:00 [INF] PluginUpdater -> Initialise time: 0.2239 ms.
+2025-04-06 12:07:28.044 +07:00 [INF] Radar -> Initialise time: 0.3253 ms.
+2025-04-06 12:07:28.044 +07:00 [INF] ReAgent -> Initialise time: 1.5033 ms.
+2025-04-06 12:07:28.506 +07:00 [INF] PerfTimer =-> Plugin loader (9711.8129 ms) Thread #[14]
+2025-04-06 12:07:50.905 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-06 12:08:15.771 +07:00 [INF] PerfTimer =-> Load files from memory (42.5709 ms) Thread #[9]
+2025-04-06 12:08:16.438 +07:00 [INF] PerfTimer =-> Preload stats and mods (667.3711 ms) Thread #[27]
+2025-04-06 12:08:17.668 +07:00 [INF] Force area refresh triggered
+2025-04-06 12:08:29.665 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-06 12:09:03.858 +07:00 [INF] PerfTimer =-> Load files from memory (41.5016 ms) Thread #[9]
+2025-04-06 12:09:04.091 +07:00 [INF] Force area refresh triggered
+2025-04-06 12:09:04.778 +07:00 [INF] PerfTimer =-> Preload stats and mods (919.6083 ms) Thread #[11]
+2025-04-06 12:11:22.805 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:11:27.320 +07:00 [INF] Area refresh triggered
+2025-04-06 12:20:22.810 +07:00 [INF] Area refresh triggered
+2025-04-06 12:21:39.788 +07:00 [INF] Area refresh triggered
+2025-04-06 12:24:30.651 +07:00 [INF] Area refresh triggered
+2025-04-06 12:24:50.450 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-06 12:24:50.974 +07:00 [INF] Pattern: Game State -> : Time: 0.4275 ms. Offset:[941011] Started searching offset with:0
+2025-04-06 12:24:50.975 +07:00 [INF] Pattern: BlackBarSize -> : Time: 0.9767 ms. Offset:[4504679] Started searching offset with:0
+2025-04-06 12:24:50.991 +07:00 [INF] Pattern: Input Mode -> : Time: 11.0192 ms. Offset:[13457491] Started searching offset with:0
+2025-04-06 12:24:50.992 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 12.0437 ms. Offset:[0] Started searching offset with:0
+2025-04-06 12:24:50.992 +07:00 [INF] Pattern: Area change -> : Time: 19.174 ms. Offset:[13474884] Started searching offset with:0
+2025-04-06 12:24:51.008 +07:00 [INF] Pattern: File Root -> : Time: 38.7125 ms. Offset:[29461555] Started searching offset with:0
+2025-04-06 12:24:51.013 +07:00 [VRB] FileRoot: 7ff62c27c070
+2025-04-06 12:24:51.013 +07:00 [VRB] AreaChangeCount: 7ff62b41fec0
+2025-04-06 12:24:51.013 +07:00 [VRB] GameStateOffset: 7ff62c14fcb0
+2025-04-06 12:24:51.013 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6293aff0f
+2025-04-06 12:24:51.025 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 43.422 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:24:51.025 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 43.4188 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:24:51.025 +07:00 [INF] Pattern scan done: 00:00:00.0435590
+2025-04-06 12:24:51.059 +07:00 [INF] PerfTimer =-> Load files from memory (45.3795 ms) Thread #[15]
+2025-04-06 12:24:51.063 +07:00 [INF] Area refresh triggered
+2025-04-06 12:24:51.114 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:24:51.114 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:24:51.114 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-06 12:24:51.114 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-06 12:24:51.114 +07:00 [WRN] 4/6/2025 12:24:51 PM not supported for menu now. Ask developers to add this type.
+2025-04-06 12:24:51.114 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:24:51.116 +07:00 [INF] Plugins from directory DevTree loaded in 40 ms.
+2025-04-06 12:24:51.116 +07:00 [INF] Plugins from directory PluginUpdater loaded in 13 ms.
+2025-04-06 12:24:51.274 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\HealthBars\HealthBars.csproj due to full manifest match
+2025-04-06 12:24:51.274 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.csproj due to full manifest match
+2025-04-06 12:24:51.383 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-06 12:24:51.697 +07:00 [INF] PerfTimer =-> Preload stats and mods (638.3782 ms) Thread #[24]
+2025-04-06 12:24:56.374 +07:00 [INF] Found free memory region at: 7FF6283A0000
+2025-04-06 12:24:56.409 +07:00 [INF] Plugins compiled and loaded in 5347 ms.
+2025-04-06 12:24:56.480 +07:00 [INF] PerfTimer =-> Compile and load source plugins (5419.2693 ms) Thread #[11]
+2025-04-06 12:24:56.495 +07:00 [INF] HealthBars -> Initialise time: 7.8553 ms.
+2025-04-06 12:24:56.495 +07:00 [INF] PluginUpdater -> Initialise time: 0.3189 ms.
+2025-04-06 12:24:56.495 +07:00 [INF] Radar -> Initialise time: 0.2655 ms.
+2025-04-06 12:24:56.495 +07:00 [INF] ReAgent -> Initialise time: 1.292 ms.
+2025-04-06 12:24:57.050 +07:00 [INF] PerfTimer =-> Plugin loader (5989.5127 ms) Thread #[15]
+2025-04-06 12:24:58.748 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0369 ms.
+2025-04-06 12:25:43.169 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-06 12:25:43.740 +07:00 [INF] Pattern: Game State -> : Time: 0.4611 ms. Offset:[941011] Started searching offset with:0
+2025-04-06 12:25:43.740 +07:00 [INF] Pattern: BlackBarSize -> : Time: 1.0407 ms. Offset:[4504679] Started searching offset with:0
+2025-04-06 12:25:43.757 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 11.7365 ms. Offset:[0] Started searching offset with:0
+2025-04-06 12:25:43.757 +07:00 [INF] Pattern: Input Mode -> : Time: 11.3808 ms. Offset:[13457491] Started searching offset with:0
+2025-04-06 12:25:43.757 +07:00 [INF] Pattern: Area change -> : Time: 19.8202 ms. Offset:[13474884] Started searching offset with:0
+2025-04-06 12:25:43.774 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 37.2029 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:25:43.774 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 39.4948 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:25:43.776 +07:00 [VRB] FileRoot: 7ff62c27c070
+2025-04-06 12:25:43.777 +07:00 [VRB] AreaChangeCount: 7ff62b41fec0
+2025-04-06 12:25:43.777 +07:00 [VRB] GameStateOffset: 7ff62c14fcb0
+2025-04-06 12:25:43.777 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6293aff0f
+2025-04-06 12:25:43.791 +07:00 [INF] Pattern: File Root -> : Time: 46.142 ms. Offset:[29461555] Started searching offset with:0
+2025-04-06 12:25:43.791 +07:00 [INF] Pattern scan done: 00:00:00.0461999
+2025-04-06 12:25:43.834 +07:00 [INF] PerfTimer =-> Load files from memory (56.9177 ms) Thread #[16]
+2025-04-06 12:25:43.842 +07:00 [INF] Area refresh triggered
+2025-04-06 12:25:43.884 +07:00 [INF] Plugins from directory DevTree loaded in 47 ms.
+2025-04-06 12:25:43.889 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:25:43.889 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:25:43.889 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-06 12:25:43.889 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-06 12:25:43.889 +07:00 [WRN] 4/6/2025 12:25:43 PM not supported for menu now. Ask developers to add this type.
+2025-04-06 12:25:43.889 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:25:43.901 +07:00 [INF] Plugins from directory PluginUpdater loaded in 12 ms.
+2025-04-06 12:25:43.991 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\HealthBars\HealthBars.csproj due to full manifest match
+2025-04-06 12:25:44.011 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.csproj due to full manifest match
+2025-04-06 12:25:44.098 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-06 12:25:44.135 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-06 12:25:44.332 +07:00 [INF] Found free memory region at: 7FF6283A1000
+2025-04-06 12:25:44.424 +07:00 [INF] PerfTimer =-> Preload stats and mods (589.9129 ms) Thread #[13]
+2025-04-06 12:25:44.465 +07:00 [INF] Plugins compiled and loaded in 621 ms.
+2025-04-06 12:25:44.521 +07:00 [INF] PerfTimer =-> Compile and load source plugins (685.8657 ms) Thread #[26]
+2025-04-06 12:25:44.535 +07:00 [INF] HealthBars -> Initialise time: 3.8127 ms.
+2025-04-06 12:25:44.535 +07:00 [INF] PluginUpdater -> Initialise time: 0.2404 ms.
+2025-04-06 12:25:44.535 +07:00 [INF] Radar -> Initialise time: 0.2812 ms.
+2025-04-06 12:25:44.535 +07:00 [INF] ReAgent -> Initialise time: 1.3385 ms.
+2025-04-06 12:25:44.535 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0051 ms.
+2025-04-06 12:25:45.136 +07:00 [INF] PerfTimer =-> Plugin loader (1300.4731 ms) Thread #[16]
+2025-04-06 12:26:04.360 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-06 12:26:04.830 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.LoadFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.<>c__DisplayClass52_0.<<-ctor>b__1>d.MoveNext()
+2025-04-06 12:26:05.133 +07:00 [INF] Pattern: Game State -> : Time: 0.4144 ms. Offset:[941011] Started searching offset with:0
+2025-04-06 12:26:05.133 +07:00 [INF] Pattern: BlackBarSize -> : Time: 1.0283 ms. Offset:[4504679] Started searching offset with:0
+2025-04-06 12:26:05.150 +07:00 [INF] Pattern: Input Mode -> : Time: 10.3557 ms. Offset:[13457491] Started searching offset with:0
+2025-04-06 12:26:05.150 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 11.538 ms. Offset:[0] Started searching offset with:0
+2025-04-06 12:26:05.150 +07:00 [INF] Pattern: Area change -> : Time: 19.0836 ms. Offset:[13474884] Started searching offset with:0
+2025-04-06 12:26:05.167 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 38.3116 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:26:05.167 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 38.6906 ms. Offset:[25047055] Started searching offset with:0
+2025-04-06 12:26:05.168 +07:00 [VRB] FileRoot: 7ff62c27c070
+2025-04-06 12:26:05.168 +07:00 [VRB] AreaChangeCount: 7ff62b41fec0
+2025-04-06 12:26:05.168 +07:00 [VRB] GameStateOffset: 7ff62c14fcb0
+2025-04-06 12:26:05.168 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6293aff0f
+2025-04-06 12:26:05.191 +07:00 [INF] Pattern: File Root -> : Time: 40.6974 ms. Offset:[29461555] Started searching offset with:0
+2025-04-06 12:26:05.191 +07:00 [INF] Pattern scan done: 00:00:00.0407561
+2025-04-06 12:26:05.204 +07:00 [INF] PerfTimer =-> Load files from memory (35.9476 ms) Thread #[30]
+2025-04-06 12:26:05.209 +07:00 [INF] Area refresh triggered
+2025-04-06 12:26:05.245 +07:00 [INF] Plugins from directory DevTree loaded in 25 ms.
+2025-04-06 12:26:05.245 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:26:05.245 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:26:05.245 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-06 12:26:05.246 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-06 12:26:05.246 +07:00 [WRN] 4/6/2025 12:26:05 PM not supported for menu now. Ask developers to add this type.
+2025-04-06 12:26:05.246 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-06 12:26:05.266 +07:00 [INF] Plugins from directory PluginUpdater loaded in 14 ms.
+2025-04-06 12:26:05.365 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\HealthBars\HealthBars.csproj due to full manifest match
+2025-04-06 12:26:05.382 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.csproj due to full manifest match
+2025-04-06 12:26:05.472 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-06 12:26:05.495 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-06 12:26:05.713 +07:00 [INF] Found free memory region at: 7FF6283A1000
+2025-04-06 12:26:05.843 +07:00 [INF] Plugins compiled and loaded in 636 ms.
+2025-04-06 12:26:05.847 +07:00 [INF] PerfTimer =-> Preload stats and mods (643.0886 ms) Thread #[16]
+2025-04-06 12:26:05.912 +07:00 [INF] PerfTimer =-> Compile and load source plugins (705.9631 ms) Thread #[34]
+2025-04-06 12:26:05.923 +07:00 [INF] HealthBars -> Initialise time: 10.1193 ms.
+2025-04-06 12:26:05.923 +07:00 [INF] PluginUpdater -> Initialise time: 0.3172 ms.
+2025-04-06 12:26:05.952 +07:00 [INF] Radar -> Initialise time: 0.2716 ms.
+2025-04-06 12:26:05.953 +07:00 [INF] ReAgent -> Initialise time: 1.4396 ms.
+2025-04-06 12:26:05.953 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0056 ms.
+2025-04-06 12:26:06.569 +07:00 [INF] PerfTimer =-> Plugin loader (1363.5212 ms) Thread #[30]
+2025-04-06 12:31:56.184 +07:00 [INF] Area refresh triggered
+2025-04-06 12:32:39.326 +07:00 [INF] Area refresh triggered
+2025-04-06 12:34:24.215 +07:00 [INF] Area refresh triggered
+2025-04-06 12:37:04.318 +07:00 [INF] Area refresh triggered
+2025-04-06 12:37:34.917 +07:00 [INF] Area refresh triggered
+2025-04-06 12:38:48.697 +07:00 [INF] Area refresh triggered
+2025-04-06 12:41:34.661 +07:00 [INF] Area refresh triggered
+2025-04-06 12:42:40.728 +07:00 [INF] Area refresh triggered
+2025-04-06 12:46:59.144 +07:00 [INF] Area refresh triggered
+2025-04-06 12:47:25.485 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:47:43.344 +07:00 [INF] Area refresh triggered
+2025-04-06 12:49:41.283 +07:00 [INF] Area refresh triggered
+2025-04-06 12:50:39.648 +07:00 [INF] Area refresh triggered
+2025-04-06 12:51:38.378 +07:00 [INF] Area refresh triggered
+2025-04-06 12:52:32.419 +07:00 [INF] Area refresh triggered
+2025-04-06 12:55:28.459 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.459 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.459 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.462 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.463 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.463 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.463 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.463 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.463 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.463 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.463 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.463 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.464 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.464 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:28.464 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 12:55:29.772 +07:00 [INF] Area refresh triggered
+2025-04-06 12:57:40.029 +07:00 [INF] Area refresh triggered
+2025-04-06 13:03:07.173 +07:00 [INF] Area refresh triggered
+2025-04-06 13:07:04.086 +07:00 [INF] Area refresh triggered
+2025-04-06 13:08:44.011 +07:00 [INF] Area refresh triggered
+2025-04-06 13:09:02.703 +07:00 [INF] Area refresh triggered
+2025-04-06 13:11:58.849 +07:00 [INF] Area refresh triggered
+2025-04-06 13:14:13.972 +07:00 [INF] Area refresh triggered
+2025-04-06 13:15:31.545 +07:00 [INF] Area refresh triggered
+2025-04-06 13:21:04.600 +07:00 [INF] Area refresh triggered
+2025-04-06 13:24:53.168 +07:00 [INF] Area refresh triggered
+2025-04-06 13:26:15.531 +07:00 [INF] Area refresh triggered
+2025-04-06 13:27:42.710 +07:00 [INF] Area refresh triggered
+2025-04-06 13:28:46.872 +07:00 [INF] Area refresh triggered
+2025-04-06 13:30:27.832 +07:00 [INF] Area refresh triggered
+2025-04-06 13:34:00.778 +07:00 [INF] Area refresh triggered
+2025-04-06 13:56:05.215 +07:00 [INF] Area refresh triggered
+2025-04-06 14:09:44.432 +07:00 [INF] Area refresh triggered
+2025-04-06 14:10:19.290 +07:00 [INF] Area refresh triggered
+2025-04-06 14:23:54.285 +07:00 [INF] Area refresh triggered
+2025-04-06 14:27:24.528 +07:00 [INF] Area refresh triggered
+2025-04-06 14:29:13.143 +07:00 [INF] Area refresh triggered
+2025-04-06 14:30:41.662 +07:00 [INF] Area refresh triggered
+2025-04-06 14:34:22.965 +07:00 [ERR] Something wrong we parse 140 when expect 81
+2025-04-06 14:37:07.381 +07:00 [INF] Area refresh triggered
+2025-04-06 14:39:46.574 +07:00 [INF] Area refresh triggered
+2025-04-06 14:40:38.640 +07:00 [INF] Area refresh triggered
+2025-04-06 14:44:20.936 +07:00 [INF] Area refresh triggered
+2025-04-06 14:49:15.101 +07:00 [INF] Area refresh triggered
+2025-04-06 14:50:35.680 +07:00 [INF] Area refresh triggered
+2025-04-06 14:54:06.363 +07:00 [INF] Area refresh triggered
+2025-04-06 14:59:03.389 +07:00 [INF] Area refresh triggered
+2025-04-06 14:59:53.007 +07:00 [INF] Area refresh triggered
+2025-04-06 15:02:10.360 +07:00 [INF] Area refresh triggered
+2025-04-06 15:04:01.356 +07:00 [INF] Area refresh triggered
+2025-04-06 15:04:41.884 +07:00 [INF] Area refresh triggered
+2025-04-06 15:05:57.286 +07:00 [INF] Area refresh triggered
+2025-04-06 15:07:01.059 +07:00 [INF] Area refresh triggered
+2025-04-06 15:07:50.590 +07:00 [INF] Area refresh triggered
+2025-04-06 15:09:10.075 +07:00 [INF] Area refresh triggered
+2025-04-06 15:10:13.387 +07:00 [INF] Area refresh triggered
+2025-04-06 15:11:50.111 +07:00 [INF] Area refresh triggered
+2025-04-06 15:12:55.827 +07:00 [INF] Area refresh triggered
+2025-04-06 15:15:04.974 +07:00 [INF] Area refresh triggered
+2025-04-06 15:16:24.431 +07:00 [INF] Area refresh triggered
+2025-04-06 15:17:55.580 +07:00 [INF] Area refresh triggered
+2025-04-06 15:19:24.076 +07:00 [INF] Area refresh triggered
+2025-04-06 15:20:24.853 +07:00 [INF] Area refresh triggered
+2025-04-06 15:21:15.047 +07:00 [INF] Area refresh triggered
+2025-04-06 15:25:25.711 +07:00 [INF] Area refresh triggered
+2025-04-06 15:30:50.388 +07:00 [INF] Area refresh triggered
+2025-04-06 15:31:39.119 +07:00 [INF] Area refresh triggered
+2025-04-06 15:35:19.435 +07:00 [INF] Area refresh triggered
+2025-04-06 15:36:30.643 +07:00 [INF] Area refresh triggered
+2025-04-06 15:38:44.007 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 15:38:44.007 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 15:38:44.007 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 15:38:50.209 +07:00 [INF] Area refresh triggered
+2025-04-06 15:45:01.516 +07:00 [INF] Area refresh triggered
+2025-04-06 15:49:01.118 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 15:49:01.118 +07:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Index was outside the bounds of the array.)
+ ---> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Radar.PathFinder.FindPath(Vector2i start, Vector2i target) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\PathFinder.cs:line 168
+   at Radar.Radar.FindPath(PathFinder pf, Vector2 point, Action`1 callback, CancellationToken cancellationToken) in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Radar\Radar.Pathfinding.cs:line 173
+   --- End of inner exception stack trace ---
+2025-04-06 15:49:07.428 +07:00 [INF] Area refresh triggered
+2025-04-06 15:49:38.181 +07:00 [INF] Area refresh triggered
+2025-04-06 15:58:56.581 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-06 15:59:32.786 +07:00 [INF] PerfTimer =-> Load files from memory (49.7249 ms) Thread #[9]
+2025-04-06 15:59:33.239 +07:00 [INF] Force area refresh triggered
+2025-04-06 15:59:33.933 +07:00 [INF] PerfTimer =-> Preload stats and mods (1147.0081 ms) Thread #[14]
+2025-04-06 16:06:07.616 +07:00 [INF] Game not found
+2025-04-06 16:06:09.615 +07:00 [INF] Game not found
+2025-04-06 16:06:11.626 +07:00 [INF] Game not found
+2025-04-06 16:06:13.625 +07:00 [INF] Game not found
+2025-04-06 16:06:15.650 +07:00 [INF] Game not found
+2025-04-06 16:06:17.645 +07:00 [INF] Game not found
+2025-04-06 16:06:19.658 +07:00 [INF] Game not found
+2025-04-06 16:06:21.663 +07:00 [INF] Game not found
+2025-04-06 16:06:23.673 +07:00 [INF] Game not found
+2025-04-06 16:06:25.670 +07:00 [INF] Game not found
+2025-04-06 16:06:27.676 +07:00 [INF] Game not found
+2025-04-06 16:06:29.688 +07:00 [INF] Game not found
+2025-04-06 16:06:31.700 +07:00 [INF] Game not found
+2025-04-06 16:06:33.695 +07:00 [INF] Game not found
+2025-04-06 16:06:35.714 +07:00 [INF] Game not found
+2025-04-06 16:06:37.724 +07:00 [INF] Game not found
+2025-04-06 16:06:39.732 +07:00 [INF] Game not found
+2025-04-06 16:06:41.727 +07:00 [INF] Game not found
+2025-04-06 16:06:43.744 +07:00 [INF] Game not found
+2025-04-06 16:06:45.750 +07:00 [INF] Game not found
+2025-04-06 16:06:47.758 +07:00 [INF] Game not found
+2025-04-06 16:06:49.763 +07:00 [INF] Game not found
+2025-04-06 16:06:51.778 +07:00 [INF] Game not found
+2025-04-06 16:06:53.787 +07:00 [INF] Game not found
+2025-04-06 16:06:55.795 +07:00 [INF] Game not found
+2025-04-06 16:06:57.801 +07:00 [INF] Game not found
+2025-04-06 16:06:59.807 +07:00 [INF] Game not found
+2025-04-06 16:07:01.820 +07:00 [INF] Game not found
+2025-04-06 16:07:03.843 +07:00 [INF] Game not found
+2025-04-06 16:07:05.836 +07:00 [INF] Game not found
+2025-04-06 16:07:07.860 +07:00 [INF] Game not found
+2025-04-06 16:07:09.860 +07:00 [INF] Game not found
+2025-04-06 16:07:11.871 +07:00 [INF] Game not found
+2025-04-06 16:07:13.868 +07:00 [INF] Game not found
+2025-04-06 16:07:15.874 +07:00 [INF] Game not found
+2025-04-06 16:07:17.888 +07:00 [INF] Game not found
+2025-04-06 16:07:19.887 +07:00 [INF] Game not found
+2025-04-06 16:07:21.909 +07:00 [INF] Game not found
+2025-04-06 16:07:23.911 +07:00 [INF] Game not found
+2025-04-06 16:07:25.928 +07:00 [INF] Game not found
+2025-04-06 16:07:27.944 +07:00 [INF] Game not found
+2025-04-06 16:07:29.954 +07:00 [INF] Game not found
+2025-04-06 16:07:31.974 +07:00 [INF] Game not found
+2025-04-06 16:07:33.980 +07:00 [INF] Game not found
+2025-04-06 16:07:35.983 +07:00 [INF] Game not found
+2025-04-06 16:07:37.997 +07:00 [INF] Game not found
+2025-04-06 16:07:40.022 +07:00 [INF] Game not found
+2025-04-06 16:07:42.029 +07:00 [INF] Game not found
+2025-04-06 16:07:44.034 +07:00 [INF] Game not found
+2025-04-06 16:07:46.063 +07:00 [INF] Game not found
+2025-04-06 16:07:48.065 +07:00 [INF] Game not found
+2025-04-06 16:07:50.082 +07:00 [INF] Game not found
+2025-04-06 16:07:52.092 +07:00 [INF] Game not found
+2025-04-06 16:07:54.102 +07:00 [INF] Game not found
+2025-04-06 16:07:56.128 +07:00 [INF] Game not found
+2025-04-06 16:07:58.121 +07:00 [INF] Game not found
+2025-04-06 16:08:00.140 +07:00 [INF] Game not found
+2025-04-06 16:08:02.147 +07:00 [INF] Game not found
+2025-04-06 16:08:04.148 +07:00 [INF] Game not found
+2025-04-06 16:08:06.161 +07:00 [INF] Game not found
+2025-04-06 16:08:08.152 +07:00 [INF] Game not found
+2025-04-06 16:08:10.163 +07:00 [INF] Game not found
+2025-04-06 16:08:12.172 +07:00 [INF] Game not found
+2025-04-06 16:08:14.173 +07:00 [INF] Game not found
+2025-04-06 16:08:16.183 +07:00 [INF] Game not found
+2025-04-06 16:08:18.204 +07:00 [INF] Game not found
+2025-04-06 16:08:20.216 +07:00 [INF] Game not found
+2025-04-06 16:08:22.219 +07:00 [INF] Game not found
+2025-04-06 16:08:24.224 +07:00 [INF] Game not found
+2025-04-06 16:08:26.237 +07:00 [INF] Game not found
+2025-04-06 16:08:28.245 +07:00 [INF] Game not found
+2025-04-06 16:08:30.252 +07:00 [INF] Game not found
+2025-04-06 16:08:32.276 +07:00 [INF] Game not found
+2025-04-06 16:08:34.271 +07:00 [INF] Game not found
+2025-04-06 16:08:36.282 +07:00 [INF] Game not found
+2025-04-06 16:08:38.295 +07:00 [INF] Game not found
+2025-04-06 16:08:40.296 +07:00 [INF] Game not found
+2025-04-06 16:08:42.307 +07:00 [INF] Game not found
+2025-04-06 16:08:44.318 +07:00 [INF] Game not found
+2025-04-06 16:08:46.333 +07:00 [INF] Game not found
+2025-04-06 16:08:48.344 +07:00 [INF] Game not found
+2025-04-06 16:08:50.359 +07:00 [INF] Game not found
+2025-04-06 16:08:52.367 +07:00 [INF] Game not found
+2025-04-06 16:08:54.371 +07:00 [INF] Game not found
+2025-04-06 16:08:56.382 +07:00 [INF] Game not found
+2025-04-06 16:08:58.402 +07:00 [INF] Game not found
+2025-04-06 16:09:00.407 +07:00 [INF] Game not found
+2025-04-06 16:09:02.414 +07:00 [INF] Game not found
+2025-04-06 16:09:04.423 +07:00 [INF] Game not found
+2025-04-06 16:09:06.449 +07:00 [INF] Game not found
+2025-04-06 16:09:08.459 +07:00 [INF] Game not found
+2025-04-06 16:09:10.464 +07:00 [INF] Game not found
+2025-04-06 16:09:12.481 +07:00 [INF] Game not found
+2025-04-06 16:09:14.488 +07:00 [INF] Game not found
+2025-04-06 16:09:16.491 +07:00 [INF] Game not found
+2025-04-06 16:09:18.504 +07:00 [INF] Game not found
+2025-04-06 16:09:20.513 +07:00 [INF] Game not found
+2025-04-06 16:09:22.511 +07:00 [INF] Game not found
+2025-04-06 16:09:24.518 +07:00 [INF] Game not found
+2025-04-06 16:09:26.519 +07:00 [INF] Game not found
+2025-04-06 16:09:28.528 +07:00 [INF] Game not found
+2025-04-06 16:09:30.540 +07:00 [INF] Game not found
+2025-04-06 16:09:32.554 +07:00 [INF] Game not found
+2025-04-06 16:09:34.564 +07:00 [INF] Game not found
+2025-04-06 16:09:36.568 +07:00 [INF] Game not found
+2025-04-06 16:09:38.578 +07:00 [INF] Game not found
+2025-04-06 16:09:40.590 +07:00 [INF] Game not found
+2025-04-06 16:09:42.602 +07:00 [INF] Game not found
+2025-04-06 16:09:44.604 +07:00 [INF] Game not found
+2025-04-06 16:09:46.614 +07:00 [INF] Game not found
+2025-04-06 16:09:48.621 +07:00 [INF] Game not found
+2025-04-06 16:09:50.618 +07:00 [INF] Game not found
+2025-04-06 16:09:52.626 +07:00 [INF] Game not found
+2025-04-06 16:09:54.634 +07:00 [INF] Game not found
+2025-04-06 16:09:56.630 +07:00 [INF] Game not found
+2025-04-06 16:09:58.647 +07:00 [INF] Game not found
+2025-04-06 16:10:00.656 +07:00 [INF] Game not found
+2025-04-06 16:10:02.663 +07:00 [INF] Game not found
+2025-04-06 16:10:04.657 +07:00 [INF] Game not found
+2025-04-06 16:10:06.670 +07:00 [INF] Game not found
+2025-04-06 16:10:08.671 +07:00 [INF] Game not found
+2025-04-06 16:10:10.681 +07:00 [INF] Game not found
+2025-04-06 16:10:12.682 +07:00 [INF] Game not found
+2025-04-06 16:10:14.707 +07:00 [INF] Game not found
+2025-04-06 16:10:16.712 +07:00 [INF] Game not found
+2025-04-06 16:10:18.720 +07:00 [INF] Game not found
+2025-04-06 16:10:20.732 +07:00 [INF] Game not found
+2025-04-06 16:10:22.753 +07:00 [INF] Game not found
+2025-04-06 16:10:24.762 +07:00 [INF] Game not found
+2025-04-06 16:10:26.760 +07:00 [INF] Game not found
+2025-04-06 16:10:28.564 +07:00 [INF] =============== Close ExileCore2 at 4/6/2025 4:10:28 PM ===============

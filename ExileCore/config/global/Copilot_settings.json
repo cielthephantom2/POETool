@@ -1,0 +1,132 @@
+{
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "PartyElements": [
+    "LovePinkk",
+    "WeakLikeWitch",
+    null,
+    null,
+    null
+  ],
+  "TargetPlayerName": {
+    "Value": "WeakLikeWitch"
+  },
+  "FollowDistance": {
+    "Value": 202
+  },
+  "ActionCooldown": {
+    "Value": 156
+  },
+  "TogglePauseHotkey": {
+    "Value": 51
+  },
+  "IsPaused": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Additional": {
+    "UseMouse": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "FollowKey": {
+      "Value": 84
+    }
+  },
+  "Blink": {
+    "Enable": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "Range": {
+      "Value": 645
+    },
+    "Cooldown": {
+      "Value": 500
+    }
+  },
+  "Pickup": {
+    "Enable": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "UseTargetPosition": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "Range": {
+      "Value": 400
+    },
+    "Filter": {
+      "Value": "Orb,Mirror"
+    },
+    "RangeToIgnore": {
+      "Value": 1200
+    }
+  },
+  "ShockBot": {
+    "Enable": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "ActionCooldown": {
+      "Value": 1450
+    },
+    "Range": {
+      "Value": 1000
+    },
+    "BallLightningKey": {
+      "Value": 81
+    },
+    "LightningWarpKey": {
+      "Value": 87
+    },
+    "RangeToUseLightningWarp": {
+      "Value": 600
+    }
+  }
+}
