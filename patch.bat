@@ -4,6 +4,20 @@ cls
 title POE2 Mod Installer (Unicode Support)
 color 0A
 
+:: Đọc đường dẫn từ config.ini
+set "ggpk_path="
+for /f "tokens=1,* delims==" %%a in (config.ini) do (
+    if "%%a"=="ggpk_path" set "ggpk_path=%%b"
+)
+
+:: Kiểm tra xem đường dẫn có tồn tại không
+if not exist "%ggpk_path%" (
+    echo Không tìm thấy file content.ggpk tại: %ggpk_path%
+    echo Vui lòng kiểm tra lại file config.ini
+    pause
+    exit /b 1
+)
+
 :menu
 echo ==============================
 echo    MENU CÀI ĐẶT MOD POE2
@@ -27,19 +41,19 @@ goto menu
 
 :basic
 pushd "%~dp0tool\"
-PatchBundledGGPK3.exe "D:\POE2\content.ggpk" "%~dp0basic.zip"
+PatchBundledGGPK3.exe "%ggpk_path%" "%~dp0basic.zip"
 popd
 goto success
 
 :remove
 pushd "%~dp0tool\"
-PatchBundledGGPK3.exe "D:\POE2\content.ggpk" "%~dp0remove.zip"
+PatchBundledGGPK3.exe "%ggpk_path%" "%~dp0remove.zip"
 popd
 goto success
 
 :blackscreen
 pushd "%~dp0tool\"
-PatchBundledGGPK3.exe "D:\POE2\content.ggpk" "%~dp0blackscreen.zip"
+PatchBundledGGPK3.exe "%ggpk_path%" "%~dp0blackscreen.zip"
 popd
 goto success
 
