@@ -1,0 +1,99 @@
+{
+  "LevelSettings": {
+    "Enabled": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "TextColor": "ffffffff",
+    "LevelPositionX": {
+      "Value": 680
+    },
+    "LevelPositionY": {
+      "Value": 1236
+    }
+  },
+  "ResistanceSettings": {
+    "Enabled": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "FireResistanceColor": "ff5555ff",
+    "ColdResistanceColor": "4d86ffff",
+    "LightningResistanceColor": "fdf54bff",
+    "ChaosResistanceColor": "ff5bb3ff",
+    "ResistanceX": {
+      "Value": 1063
+    },
+    "ResistanceY": {
+      "Value": 1236
+    }
+  },
+  "DefenseSettings": {
+    "Enabled": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "ArmorColor": "c8c8c8ff",
+    "EvasionColor": "96c896ff",
+    "BlockColor": "c89696ff",
+    "DefenseX": {
+      "Value": 1063
+    },
+    "DefenseY": {
+      "Value": 1286
+    }
+  },
+  "BackgroundSettings": {
+    "Enabled": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "BackgroundColor": "000000c5",
+    "ResolutionLeft": {
+      "Value": 667
+    },
+    "ResolutionTop": {
+      "Value": 1230
+    },
+    "ResolutionRight": {
+      "Value": 1256
+    },
+    "ResolutionBottom": {
+      "Value": 1349
+    }
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

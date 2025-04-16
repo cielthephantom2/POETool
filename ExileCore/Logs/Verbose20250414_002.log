@@ -1,0 +1,259 @@
+2025-04-14 09:16:56.221 +07:00 [INF] =============== Start ExileCore2 at 4/14/2025 9:16:56 AM ===============
+2025-04-14 09:16:56.825 +07:00 [INF] PerfTimer =-> Load manual fonts (0.7485 ms) Thread #[1]
+2025-04-14 09:16:56.825 +07:00 [INF] PerfTimer =-> DX11 Load (5.0179 ms) Thread #[1]
+2025-04-14 09:16:57.186 +07:00 [INF] ExileCore2 Loaded in 1018.8052 ms.
+2025-04-14 09:17:06.329 +07:00 [INF] Pattern: Game State -> : Time: 5.8671 ms. Offset:[933683] Started searching offset with:0
+2025-04-14 09:17:06.329 +07:00 [INF] Pattern: BlackBarSize -> : Time: 4.3427 ms. Offset:[4497559] Started searching offset with:0
+2025-04-14 09:17:06.364 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 48.1474 ms. Offset:[0] Started searching offset with:0
+2025-04-14 09:17:06.381 +07:00 [INF] Pattern: Input Mode -> : Time: 54.9737 ms. Offset:[13452003] Started searching offset with:0
+2025-04-14 09:17:06.398 +07:00 [INF] Pattern: Area change -> : Time: 92.4606 ms. Offset:[13469396] Started searching offset with:0
+2025-04-14 09:17:06.487 +07:00 [INF] Pattern: File Root -> : Time: 173.266 ms. Offset:[29474675] Started searching offset with:0
+2025-04-14 09:17:06.519 +07:00 [VRB] FileRoot: 7ff7be1a1d58
+2025-04-14 09:17:06.519 +07:00 [VRB] AreaChangeCount: 7ff7bd346ec0
+2025-04-14 09:17:06.519 +07:00 [VRB] GameStateOffset: 7ff7be075990
+2025-04-14 09:17:06.519 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff7bb2cff0f
+2025-04-14 09:17:06.522 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 197.3741 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 09:17:06.522 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 197.5628 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 09:17:06.522 +07:00 [INF] Pattern scan done: 00:00:00.2103840
+2025-04-14 09:17:06.633 +07:00 [INF] PerfTimer =-> Load files from memory (84.584 ms) Thread #[6]
+2025-04-14 09:17:06.666 +07:00 [INF] Area refresh triggered
+2025-04-14 09:17:06.701 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 09:17:06.701 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 09:17:06.701 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-14 09:17:06.701 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-14 09:17:06.702 +07:00 [WRN] 4/14/2025 9:17:06 AM not supported for menu now. Ask developers to add this type.
+2025-04-14 09:17:06.702 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 09:17:06.702 +07:00 [INF] Plugins from directory DevTree loaded in 34 ms.
+2025-04-14 09:17:06.702 +07:00 [INF] Plugins from directory PluginUpdater loaded in 11 ms.
+2025-04-14 09:17:07.394 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-14 09:17:07.607 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-14 09:17:07.607 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-14 09:17:07.666 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-14 09:17:07.725 +07:00 [INF] PerfTimer =-> Preload stats and mods (1091.0168 ms) Thread #[17]
+2025-04-14 09:17:07.767 +07:00 [INF] Found free memory region at: 7FF7BA2C0000
+2025-04-14 09:17:07.855 +07:00 [INF] Plugins compiled and loaded in 1190 ms.
+2025-04-14 09:17:07.877 +07:00 [INF] PerfTimer =-> Compile and load source plugins (1221.7817 ms) Thread #[11]
+2025-04-14 09:17:07.895 +07:00 [INF] PerfTimer =-> Plugin loader (1242.524 ms) Thread #[6]
+2025-04-14 09:17:07.899 +07:00 [INF] Copilot -> Initialise time: 0.1523 ms.
+2025-04-14 09:17:07.899 +07:00 [INF] PluginUpdater -> Initialise time: 0.3178 ms.
+2025-04-14 09:17:07.899 +07:00 [INF] ReAgent -> Initialise time: 4.5615 ms.
+2025-04-14 09:17:07.899 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0076 ms.
+2025-04-14 09:17:12.422 +07:00 [INF] Resize from: {X=0,Y=0,Width=1054,Height=855} to {X=0,Y=23,Width=1054,Height=790}
+2025-04-14 09:18:01.053 +07:00 [INF] Area refresh triggered
+2025-04-14 09:25:19.395 +07:00 [ERR] Something wrong we parse 1384 when expect 504
+2025-04-14 09:28:22.458 +07:00 [INF] Area refresh triggered
+2025-04-14 09:28:41.530 +07:00 [INF] Area refresh triggered
+2025-04-14 09:28:47.321 +07:00 [INF] Area refresh triggered
+2025-04-14 09:52:14.572 +07:00 [INF] Area refresh triggered
+2025-04-14 09:58:54.243 +07:00 [INF] Area refresh triggered
+2025-04-14 09:59:02.387 +07:00 [INF] Area refresh triggered
+2025-04-14 09:59:06.240 +07:00 [INF] Area refresh triggered
+2025-04-14 10:03:04.723 +07:00 [INF] Area refresh triggered
+2025-04-14 10:08:06.039 +07:00 [INF] Area refresh triggered
+2025-04-14 10:08:20.049 +07:00 [INF] Area refresh triggered
+2025-04-14 17:34:06.313 +07:00 [INF] =============== Start ExileCore2 at 4/14/2025 5:34:06 PM ===============
+2025-04-14 17:34:07.072 +07:00 [INF] PerfTimer =-> Load manual fonts (2.0817 ms) Thread #[1]
+2025-04-14 17:34:07.072 +07:00 [INF] PerfTimer =-> DX11 Load (8.5739 ms) Thread #[1]
+2025-04-14 17:34:07.586 +07:00 [INF] ExileCore2 Loaded in 1319.4934 ms.
+2025-04-14 17:34:09.840 +07:00 [INF] Pattern: BlackBarSize -> : Time: 6.5982 ms. Offset:[4497559] Started searching offset with:0
+2025-04-14 17:34:09.840 +07:00 [INF] Pattern: Game State -> : Time: 6.143 ms. Offset:[933683] Started searching offset with:0
+2025-04-14 17:34:09.892 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 51.5341 ms. Offset:[0] Started searching offset with:0
+2025-04-14 17:34:09.892 +07:00 [INF] Pattern: Input Mode -> : Time: 61.7434 ms. Offset:[13452003] Started searching offset with:0
+2025-04-14 17:34:09.946 +07:00 [INF] Pattern: Area change -> : Time: 110.0403 ms. Offset:[13469396] Started searching offset with:0
+2025-04-14 17:34:10.017 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 175.9658 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 17:34:10.017 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 176.4628 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 17:34:10.017 +07:00 [INF] Pattern: File Root -> : Time: 187.6224 ms. Offset:[29474675] Started searching offset with:0
+2025-04-14 17:34:10.017 +07:00 [INF] Pattern scan done: 00:00:00.1955495
+2025-04-14 17:34:10.022 +07:00 [VRB] FileRoot: 7ff7ae951d58
+2025-04-14 17:34:10.022 +07:00 [VRB] AreaChangeCount: 7ff7adaf6ec0
+2025-04-14 17:34:10.022 +07:00 [VRB] GameStateOffset: 7ff7ae825990
+2025-04-14 17:34:10.022 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff7aba7ff0f
+2025-04-14 17:34:10.163 +07:00 [INF] PerfTimer =-> Load files from memory (83.9378 ms) Thread #[11]
+2025-04-14 17:34:10.182 +07:00 [INF] Area refresh triggered
+2025-04-14 17:34:10.236 +07:00 [INF] Plugins from directory DevTree loaded in 41 ms.
+2025-04-14 17:34:10.236 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:34:10.236 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:34:10.237 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-14 17:34:10.237 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-14 17:34:10.237 +07:00 [WRN] 4/14/2025 5:34:10 PM not supported for menu now. Ask developers to add this type.
+2025-04-14 17:34:10.237 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:34:10.241 +07:00 [INF] Plugins from directory PluginUpdater loaded in 9 ms.
+2025-04-14 17:34:10.447 +07:00 [INF] PerfTimer =-> Load files from memory (94.5878 ms) Thread #[9]
+2025-04-14 17:34:10.450 +07:00 [INF] Force area refresh triggered
+2025-04-14 17:34:11.150 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-14 17:34:11.488 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-14 17:34:11.488 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-14 17:34:11.517 +07:00 [INF] PerfTimer =-> Preload stats and mods (1354.0303 ms) Thread #[17]
+2025-04-14 17:34:11.679 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-14 17:34:11.817 +07:00 [INF] PerfTimer =-> Preload stats and mods (1370.2657 ms) Thread #[13]
+2025-04-14 17:34:11.818 +07:00 [INF] Found free memory region at: 7FF7AAA70000
+2025-04-14 17:34:11.884 +07:00 [INF] Plugins compiled and loaded in 1659 ms.
+2025-04-14 17:34:11.899 +07:00 [INF] PerfTimer =-> Compile and load source plugins (1711.7047 ms) Thread #[18]
+2025-04-14 17:34:11.902 +07:00 [INF] Copilot -> Initialise time: 0.1079 ms.
+2025-04-14 17:34:11.902 +07:00 [INF] PluginUpdater -> Initialise time: 0.3251 ms.
+2025-04-14 17:34:11.906 +07:00 [INF] PerfTimer =-> Plugin loader (1722.9363 ms) Thread #[11]
+2025-04-14 17:34:11.919 +07:00 [INF] ReAgent -> Initialise time: 2.7266 ms.
+2025-04-14 17:34:11.919 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0053 ms.
+2025-04-14 17:34:13.422 +07:00 [INF] Resize from: {X=0,Y=0,Width=1054,Height=855} to {X=0,Y=23,Width=1054,Height=790}
+2025-04-14 17:34:42.166 +07:00 [INF] Area refresh triggered
+2025-04-14 17:43:15.731 +07:00 [INF] Area refresh triggered
+2025-04-14 17:49:02.920 +07:00 [INF] Area refresh triggered
+2025-04-14 17:52:05.778 +07:00 [INF] Pattern: Game State -> : Time: 1.3181 ms. Offset:[933683] Started searching offset with:0
+2025-04-14 17:52:05.778 +07:00 [INF] Pattern: BlackBarSize -> : Time: 2.3435 ms. Offset:[4497559] Started searching offset with:0
+2025-04-14 17:52:05.796 +07:00 [INF] Pattern: Input Mode -> : Time: 11.8661 ms. Offset:[13452003] Started searching offset with:0
+2025-04-14 17:52:05.796 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 12.7158 ms. Offset:[0] Started searching offset with:0
+2025-04-14 17:52:05.796 +07:00 [INF] Pattern: Area change -> : Time: 18.9214 ms. Offset:[13469396] Started searching offset with:0
+2025-04-14 17:52:05.809 +07:00 [VRB] FileRoot: 7ff6a6dc1d58
+2025-04-14 17:52:05.809 +07:00 [VRB] AreaChangeCount: 7ff6a5f66ec0
+2025-04-14 17:52:05.809 +07:00 [VRB] GameStateOffset: 7ff6a6c95990
+2025-04-14 17:52:05.809 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6a3eeff0f
+2025-04-14 17:52:05.813 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 36.7255 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 17:52:05.813 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 36.7716 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 17:52:05.813 +07:00 [INF] Pattern: File Root -> : Time: 39.5174 ms. Offset:[29474675] Started searching offset with:0
+2025-04-14 17:52:05.814 +07:00 [INF] Pattern scan done: 00:00:00.0395702
+2025-04-14 17:52:05.846 +07:00 [INF] PerfTimer =-> Load files from memory (36.8634 ms) Thread #[6]
+2025-04-14 17:52:05.883 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:52:05.883 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:52:05.883 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-14 17:52:05.884 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-14 17:52:05.884 +07:00 [WRN] 4/14/2025 5:52:05 PM not supported for menu now. Ask developers to add this type.
+2025-04-14 17:52:05.884 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:52:06.086 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-14 17:52:06.184 +07:00 [INF] PerfTimer =-> Compile and load source plugins (335.7438 ms) Thread #[21]
+2025-04-14 17:52:06.186 +07:00 [INF] PerfTimer =-> Plugin loader (338.649 ms) Thread #[6]
+2025-04-14 17:52:06.774 +07:00 [INF] PerfTimer =-> Preload stats and mods (927.5956 ms) Thread #[11]
+2025-04-14 17:52:06.956 +07:00 [INF] Area refresh triggered
+2025-04-14 17:52:06.956 +07:00 [INF] Plugins from directory DevTree loaded in 31 ms.
+2025-04-14 17:52:06.956 +07:00 [INF] Plugins from directory PluginUpdater loaded in 4 ms.
+2025-04-14 17:52:06.956 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-14 17:52:06.956 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-14 17:52:06.956 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-14 17:52:06.956 +07:00 [INF] Found free memory region at: 7FF6A2EE0000
+2025-04-14 17:52:06.956 +07:00 [INF] Plugins compiled and loaded in 330 ms.
+2025-04-14 17:52:06.956 +07:00 [INF] Copilot -> Initialise time: 0.0865 ms.
+2025-04-14 17:52:06.956 +07:00 [INF] PluginUpdater -> Initialise time: 0.2503 ms.
+2025-04-14 17:52:06.956 +07:00 [INF] ReAgent -> Initialise time: 1.1183 ms.
+2025-04-14 17:52:06.956 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0032 ms.
+2025-04-14 17:52:08.648 +07:00 [INF] =============== Close ExileCore2 at 4/14/2025 5:52:08 PM ===============
+2025-04-14 17:54:04.184 +07:00 [INF] =============== Start ExileCore2 at 4/14/2025 5:54:04 PM ===============
+2025-04-14 17:54:04.637 +07:00 [INF] PerfTimer =-> Load manual fonts (0.544 ms) Thread #[1]
+2025-04-14 17:54:04.637 +07:00 [INF] PerfTimer =-> DX11 Load (2.9565 ms) Thread #[1]
+2025-04-14 17:54:04.916 +07:00 [INF] ExileCore2 Loaded in 764.261 ms.
+2025-04-14 17:54:11.092 +07:00 [INF] Pattern: Game State -> : Time: 5.2752 ms. Offset:[933683] Started searching offset with:0
+2025-04-14 17:54:11.093 +07:00 [INF] Pattern: BlackBarSize -> : Time: 6.3886 ms. Offset:[4497559] Started searching offset with:0
+2025-04-14 17:54:11.145 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 49.1819 ms. Offset:[0] Started searching offset with:0
+2025-04-14 17:54:11.163 +07:00 [INF] Pattern: Input Mode -> : Time: 65.672 ms. Offset:[13452003] Started searching offset with:0
+2025-04-14 17:54:11.198 +07:00 [INF] Pattern: Area change -> : Time: 111.6217 ms. Offset:[13469396] Started searching offset with:0
+2025-04-14 17:54:11.287 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 204.0091 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 17:54:11.287 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 205.9103 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 17:54:11.296 +07:00 [VRB] FileRoot: 7ff6a6dc1d58
+2025-04-14 17:54:11.296 +07:00 [VRB] AreaChangeCount: 7ff6a5f66ec0
+2025-04-14 17:54:11.296 +07:00 [VRB] GameStateOffset: 7ff6a6c95990
+2025-04-14 17:54:11.297 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6a3eeff0f
+2025-04-14 17:54:11.305 +07:00 [INF] Pattern: File Root -> : Time: 209.3151 ms. Offset:[29474675] Started searching offset with:0
+2025-04-14 17:54:11.305 +07:00 [INF] Pattern scan done: 00:00:00.2129000
+2025-04-14 17:54:11.388 +07:00 [INF] PerfTimer =-> Load files from memory (62.5139 ms) Thread #[6]
+2025-04-14 17:54:11.410 +07:00 [INF] Area refresh triggered
+2025-04-14 17:54:11.436 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:54:11.436 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:54:11.436 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-14 17:54:11.436 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-14 17:54:11.436 +07:00 [WRN] 4/14/2025 5:54:11 PM not supported for menu now. Ask developers to add this type.
+2025-04-14 17:54:11.436 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 17:54:11.439 +07:00 [INF] Plugins from directory DevTree loaded in 24 ms.
+2025-04-14 17:54:11.439 +07:00 [INF] Plugins from directory PluginUpdater loaded in 7 ms.
+2025-04-14 17:54:12.020 +07:00 [INF] PerfTimer =-> Preload stats and mods (632.0544 ms) Thread #[17]
+2025-04-14 17:54:12.026 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-14 17:54:12.128 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-14 17:54:12.145 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-14 17:54:12.159 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-14 17:54:12.213 +07:00 [INF] Found free memory region at: 7FF6A2EE0000
+2025-04-14 17:54:12.247 +07:00 [INF] Plugins compiled and loaded in 831 ms.
+2025-04-14 17:54:12.255 +07:00 [INF] PerfTimer =-> Compile and load source plugins (851.2337 ms) Thread #[16]
+2025-04-14 17:54:12.260 +07:00 [INF] PerfTimer =-> Plugin loader (858.2996 ms) Thread #[6]
+2025-04-14 17:54:12.265 +07:00 [INF] Copilot -> Initialise time: 0.0903 ms.
+2025-04-14 17:54:12.265 +07:00 [INF] PluginUpdater -> Initialise time: 0.1937 ms.
+2025-04-14 17:54:12.265 +07:00 [INF] ReAgent -> Initialise time: 1.6918 ms.
+2025-04-14 17:54:12.265 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0043 ms.
+2025-04-14 17:54:17.661 +07:00 [INF] Resize from: {X=0,Y=0,Width=1054,Height=855} to {X=0,Y=23,Width=1054,Height=790}
+2025-04-14 17:59:07.870 +07:00 [INF] Area refresh triggered
+2025-04-14 17:59:20.129 +07:00 [INF] Area refresh triggered
+2025-04-14 17:59:26.683 +07:00 [INF] Area refresh triggered
+2025-04-14 18:00:53.909 +07:00 [INF] Area refresh triggered
+2025-04-14 18:11:06.409 +07:00 [INF] Area refresh triggered
+2025-04-14 18:29:49.279 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-14 18:30:21.321 +07:00 [INF] PerfTimer =-> Load files from memory (67.5003 ms) Thread #[9]
+2025-04-14 18:30:21.326 +07:00 [INF] Force area refresh triggered
+2025-04-14 18:30:21.753 +07:00 [INF] PerfTimer =-> Preload stats and mods (431.8514 ms) Thread #[19]
+2025-04-14 19:08:18.275 +07:00 [ERR] System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.GameController.Tick()
+2025-04-14 19:08:18.276 +07:00 [ERR] Core tick -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.Core.Tick()
+2025-04-14 19:08:18.578 +07:00 [INF] Pattern: Game State -> : Time: 1.4448 ms. Offset:[933683] Started searching offset with:0
+2025-04-14 19:08:18.578 +07:00 [INF] Pattern: BlackBarSize -> : Time: 2.7971 ms. Offset:[4497559] Started searching offset with:0
+2025-04-14 19:08:18.578 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 11.8829 ms. Offset:[0] Started searching offset with:0
+2025-04-14 19:08:18.596 +07:00 [INF] Pattern: Input Mode -> : Time: 13.1471 ms. Offset:[13452003] Started searching offset with:0
+2025-04-14 19:08:18.596 +07:00 [INF] Pattern: Area change -> : Time: 23.088 ms. Offset:[13469396] Started searching offset with:0
+2025-04-14 19:08:18.608 +07:00 [VRB] FileRoot: 7ff6a6dc1d58
+2025-04-14 19:08:18.608 +07:00 [VRB] AreaChangeCount: 7ff6a5f66ec0
+2025-04-14 19:08:18.608 +07:00 [VRB] GameStateOffset: 7ff6a6c95990
+2025-04-14 19:08:18.608 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6a3eeff0f
+2025-04-14 19:08:18.614 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 37.3502 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 19:08:18.614 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 39.2946 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 19:08:18.614 +07:00 [INF] Pattern: File Root -> : Time: 43.5736 ms. Offset:[29474675] Started searching offset with:0
+2025-04-14 19:08:18.614 +07:00 [INF] Pattern scan done: 00:00:00.0437074
+2025-04-14 19:08:18.668 +07:00 [INF] PerfTimer =-> Load files from memory (59.1358 ms) Thread #[21]
+2025-04-14 19:08:18.709 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 19:08:18.709 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 19:08:18.709 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-14 19:08:18.709 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-14 19:08:18.709 +07:00 [WRN] 4/14/2025 7:08:18 PM not supported for menu now. Ask developers to add this type.
+2025-04-14 19:08:18.709 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 19:08:18.927 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-14 19:08:19.021 +07:00 [INF] PerfTimer =-> Compile and load source plugins (350.9121 ms) Thread #[19]
+2025-04-14 19:08:19.024 +07:00 [INF] PerfTimer =-> Plugin loader (354.7731 ms) Thread #[21]
+2025-04-14 19:08:19.666 +07:00 [INF] PerfTimer =-> Preload stats and mods (998.2796 ms) Thread #[16]
+2025-04-14 19:08:20.994 +07:00 [INF] =============== Close ExileCore2 at 4/14/2025 7:08:20 PM ===============
+2025-04-14 19:13:47.868 +07:00 [INF] =============== Start ExileCore2 at 4/14/2025 7:13:47 PM ===============
+2025-04-14 19:13:48.316 +07:00 [INF] PerfTimer =-> Load manual fonts (0.5235 ms) Thread #[1]
+2025-04-14 19:13:48.316 +07:00 [INF] PerfTimer =-> DX11 Load (2.8815 ms) Thread #[1]
+2025-04-14 19:13:48.592 +07:00 [INF] ExileCore2 Loaded in 756.62 ms.
+2025-04-14 19:13:51.524 +07:00 [INF] Pattern: BlackBarSize -> : Time: 6.0717 ms. Offset:[4497559] Started searching offset with:0
+2025-04-14 19:13:51.524 +07:00 [INF] Pattern: Game State -> : Time: 5.5011 ms. Offset:[933683] Started searching offset with:0
+2025-04-14 19:13:51.560 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 45.1582 ms. Offset:[0] Started searching offset with:0
+2025-04-14 19:13:51.577 +07:00 [INF] Pattern: Input Mode -> : Time: 60.2297 ms. Offset:[13452003] Started searching offset with:0
+2025-04-14 19:13:51.613 +07:00 [INF] Pattern: Area change -> : Time: 105.2661 ms. Offset:[13469396] Started searching offset with:0
+2025-04-14 19:13:51.702 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 195.1436 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 19:13:51.702 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 196.3497 ms. Offset:[25059695] Started searching offset with:0
+2025-04-14 19:13:51.708 +07:00 [VRB] FileRoot: 7ff642bf1d58
+2025-04-14 19:13:51.709 +07:00 [VRB] AreaChangeCount: 7ff641d96ec0
+2025-04-14 19:13:51.709 +07:00 [VRB] GameStateOffset: 7ff642ac5990
+2025-04-14 19:13:51.709 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff63fd1ff0f
+2025-04-14 19:13:51.720 +07:00 [INF] Pattern: File Root -> : Time: 200.3023 ms. Offset:[29474675] Started searching offset with:0
+2025-04-14 19:13:51.720 +07:00 [INF] Pattern scan done: 00:00:00.2038797
+2025-04-14 19:13:51.784 +07:00 [INF] PerfTimer =-> Load files from memory (52.4325 ms) Thread #[6]
+2025-04-14 19:13:51.807 +07:00 [INF] Area refresh triggered
+2025-04-14 19:13:51.828 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 19:13:51.828 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 19:13:51.828 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-14 19:13:51.828 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-14 19:13:51.829 +07:00 [WRN] 4/14/2025 7:13:51 PM not supported for menu now. Ask developers to add this type.
+2025-04-14 19:13:51.829 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-14 19:13:51.833 +07:00 [INF] Plugins from directory DevTree loaded in 18 ms.
+2025-04-14 19:13:51.833 +07:00 [INF] Plugins from directory PluginUpdater loaded in 11 ms.
+2025-04-14 19:13:52.380 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-14 19:13:52.414 +07:00 [INF] PerfTimer =-> Preload stats and mods (629.4183 ms) Thread #[17]
+2025-04-14 19:13:52.502 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-14 19:13:52.520 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-14 19:13:52.541 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-14 19:13:52.588 +07:00 [INF] Found free memory region at: 7FF63ED10000
+2025-04-14 19:13:52.623 +07:00 [INF] Plugins compiled and loaded in 814 ms.
+2025-04-14 19:13:52.631 +07:00 [INF] PerfTimer =-> Compile and load source plugins (832.4685 ms) Thread #[18]
+2025-04-14 19:13:52.636 +07:00 [INF] PerfTimer =-> Plugin loader (839.8043 ms) Thread #[6]
+2025-04-14 19:13:52.640 +07:00 [INF] Copilot -> Initialise time: 0.0859 ms.
+2025-04-14 19:13:52.640 +07:00 [INF] PluginUpdater -> Initialise time: 0.1856 ms.
+2025-04-14 19:13:52.640 +07:00 [INF] ReAgent -> Initialise time: 1.7244 ms.
+2025-04-14 19:13:52.640 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0042 ms.
+2025-04-14 19:13:58.165 +07:00 [INF] Resize from: {X=0,Y=0,Width=1054,Height=855} to {X=8,Y=31,Width=800,Height=600}
+2025-04-14 19:26:01.679 +07:00 [INF] Area refresh triggered
+2025-04-14 19:35:16.484 +07:00 [INF] Area refresh triggered

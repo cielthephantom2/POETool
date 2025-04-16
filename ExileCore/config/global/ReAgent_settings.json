@@ -1,0 +1,165 @@
+{
+  "Profiles": {
+    "Vyyy": {
+      "Groups": [
+        {
+          "Rules": [
+            {
+              "RuleSource": "Vitals.es.percent <= 80 &&\nFlasks[0].CanBeUsed &&\n!Flasks[0].active &&\nSinceLastActivation(2)",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "D1"
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": true,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "Autopot"
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "SinceLastActivation(30) &&\nMonsterCount(50, MonsterRarity.AtLeastRare) > 0",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "Q"
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": true,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "TimeFreeze"
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "Vitals.es.percent <= 25 &&\nSinceLastActivation(5)",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "W"
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": true,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "RollBack"
+        }
+      ]
+    }
+  },
+  "CurrentProfile": "Vyyy",
+  "ShowDebugWindow": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "InspectState": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "GlobalKeyPressCooldown": {
+    "Value": 200
+  },
+  "MaximumMonsterRange": {
+    "Value": 200
+  },
+  "HistorySecondsToKeep": {
+    "Value": 60
+  },
+  "ImageDirectory": {
+    "Value": "textures/ReAgent"
+  },
+  "PluginSettings": {
+    "GlobalKeyPressCooldown": {
+      "Value": 200
+    },
+    "MaximumMonsterRange": {
+      "Value": 200
+    },
+    "HistorySecondsToKeep": {
+      "Value": 60
+    },
+    "EnableInEscapeState": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "KeepEnableTogglesOnASingleLine": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "ColorEnableToggles": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "EnableVerticalGroupTabs": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "VerticalTabContainerWidth": {
+      "Value": 150
+    }
+  },
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

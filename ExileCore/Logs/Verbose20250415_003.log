@@ -1,0 +1,1668 @@
+2025-04-15 22:03:31.984 +07:00 [INF] =============== Start ExileCore2 at 4/15/2025 10:03:31 PM ===============
+2025-04-15 22:03:32.437 +07:00 [INF] PerfTimer =-> Load manual fonts (0.5809 ms) Thread #[1]
+2025-04-15 22:03:32.437 +07:00 [INF] PerfTimer =-> DX11 Load (3.096 ms) Thread #[1]
+2025-04-15 22:03:32.707 +07:00 [INF] ExileCore2 Loaded in 761.781 ms.
+2025-04-15 22:03:39.801 +07:00 [INF] Pattern: Game State -> : Time: 4.9155 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 22:03:39.801 +07:00 [INF] Pattern: BlackBarSize -> : Time: 6.4611 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 22:03:39.836 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 44.5595 ms. Offset:[0] Started searching offset with:0
+2025-04-15 22:03:39.871 +07:00 [INF] Pattern: Input Mode -> : Time: 63.6865 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 22:03:39.906 +07:00 [INF] Pattern: Area change -> : Time: 108.4066 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 22:03:39.995 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 193.0377 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:03:39.995 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 197.0961 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:03:39.995 +07:00 [INF] Pattern: File Root -> : Time: 200.9108 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 22:03:39.995 +07:00 [INF] Pattern scan done: 00:00:00.2056142
+2025-04-15 22:03:39.998 +07:00 [VRB] FileRoot: 7ff6d9d01d58
+2025-04-15 22:03:39.998 +07:00 [VRB] AreaChangeCount: 7ff6d8ea6ec0
+2025-04-15 22:03:39.998 +07:00 [VRB] GameStateOffset: 7ff6d9bd5990
+2025-04-15 22:03:39.999 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6d6e2ff0f
+2025-04-15 22:03:40.076 +07:00 [INF] PerfTimer =-> Load files from memory (59.2486 ms) Thread #[6]
+2025-04-15 22:03:40.099 +07:00 [INF] Area refresh triggered
+2025-04-15 22:03:40.124 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:03:40.124 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:03:40.124 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 22:03:40.125 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 22:03:40.125 +07:00 [WRN] 4/15/2025 10:03:40 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 22:03:40.125 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:03:40.126 +07:00 [INF] Plugins from directory DevTree loaded in 25 ms.
+2025-04-15 22:03:40.126 +07:00 [INF] Plugins from directory PluginUpdater loaded in 7 ms.
+2025-04-15 22:03:40.651 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 22:03:40.774 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 22:03:40.794 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 22:03:40.804 +07:00 [INF] PerfTimer =-> Preload stats and mods (727.5494 ms) Thread #[19]
+2025-04-15 22:03:40.805 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 22:03:40.846 +07:00 [INF] Found free memory region at: 7FF6D5E20000
+2025-04-15 22:03:40.899 +07:00 [INF] Plugins compiled and loaded in 798 ms.
+2025-04-15 22:03:40.911 +07:00 [INF] PerfTimer =-> Compile and load source plugins (818.7518 ms) Thread #[16]
+2025-04-15 22:03:40.916 +07:00 [INF] PerfTimer =-> Plugin loader (826.0424 ms) Thread #[6]
+2025-04-15 22:03:40.917 +07:00 [INF] Copilot -> Initialise time: 0.0926 ms.
+2025-04-15 22:03:40.917 +07:00 [INF] PluginUpdater -> Initialise time: 0.2083 ms.
+2025-04-15 22:03:40.917 +07:00 [INF] ReAgent -> Initialise time: 1.6684 ms.
+2025-04-15 22:03:40.917 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0043 ms.
+2025-04-15 22:03:49.945 +07:00 [INF] Resize from: {X=0,Y=0,Width=1054,Height=855} to {X=0,Y=23,Width=1054,Height=790}
+2025-04-15 22:03:57.042 +07:00 [INF] Area refresh triggered
+2025-04-15 22:06:03.593 +07:00 [INF] Area refresh triggered
+2025-04-15 22:18:38.582 +07:00 [INF] Area refresh triggered
+2025-04-15 22:22:08.524 +07:00 [INF] Area refresh triggered
+2025-04-15 22:37:09.543 +07:00 [INF] Area refresh triggered
+2025-04-15 22:37:35.598 +07:00 [INF] Pattern: Game State -> : Time: 1.2303 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 22:37:35.598 +07:00 [INF] Pattern: BlackBarSize -> : Time: 2.4308 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 22:37:35.615 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 11.8667 ms. Offset:[0] Started searching offset with:0
+2025-04-15 22:37:35.615 +07:00 [INF] Pattern: Input Mode -> : Time: 12.9658 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 22:37:35.615 +07:00 [INF] Pattern: Area change -> : Time: 22.88 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 22:37:35.631 +07:00 [VRB] FileRoot: 7ff6d9d01d58
+2025-04-15 22:37:35.631 +07:00 [VRB] AreaChangeCount: 7ff6d8ea6ec0
+2025-04-15 22:37:35.631 +07:00 [VRB] GameStateOffset: 7ff6d9bd5990
+2025-04-15 22:37:35.631 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff6d6e2ff0f
+2025-04-15 22:37:35.632 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 35.5046 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:37:35.632 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 37.7959 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:37:35.633 +07:00 [INF] Pattern: File Root -> : Time: 38.7064 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 22:37:35.633 +07:00 [INF] Pattern scan done: 00:00:00.0387434
+2025-04-15 22:37:35.687 +07:00 [INF] PerfTimer =-> Load files from memory (55.1377 ms) Thread #[17]
+2025-04-15 22:37:35.689 +07:00 [INF] Area refresh triggered
+2025-04-15 22:37:35.736 +07:00 [INF] Plugins from directory DevTree loaded in 33 ms.
+2025-04-15 22:37:35.740 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:37:35.740 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:37:35.740 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 22:37:35.740 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 22:37:35.741 +07:00 [WRN] 4/15/2025 10:37:35 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 22:37:35.741 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:37:35.760 +07:00 [INF] Plugins from directory PluginUpdater loaded in 18 ms.
+2025-04-15 22:37:35.831 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 22:37:35.943 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 22:37:35.986 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 22:37:36.020 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 22:37:36.103 +07:00 [INF] Found free memory region at: 7FF6D5E21000
+2025-04-15 22:37:36.156 +07:00 [INF] PerfTimer =-> Preload stats and mods (469.1791 ms) Thread #[13]
+2025-04-15 22:37:36.185 +07:00 [INF] PerfTimer =-> Compile and load source plugins (496.5409 ms) Thread #[22]
+2025-04-15 22:37:36.188 +07:00 [INF] PerfTimer =-> Plugin loader (500.2299 ms) Thread #[17]
+2025-04-15 22:37:36.189 +07:00 [INF] Plugins compiled and loaded in 487 ms.
+2025-04-15 22:37:36.189 +07:00 [INF] Copilot -> Initialise time: 0.113 ms.
+2025-04-15 22:37:36.189 +07:00 [INF] PluginUpdater -> Initialise time: 0.2297 ms.
+2025-04-15 22:37:36.189 +07:00 [INF] ReAgent -> Initialise time: 1.6166 ms.
+2025-04-15 22:37:36.189 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0061 ms.
+2025-04-15 22:37:54.227 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-15 22:37:54.614 +07:00 [INF] Game not found
+2025-04-15 22:37:56.610 +07:00 [INF] Game not found
+2025-04-15 22:37:58.623 +07:00 [INF] Game not found
+2025-04-15 22:38:00.649 +07:00 [INF] Pattern: Game State -> : Time: 0.4493 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 22:38:00.649 +07:00 [INF] Pattern: BlackBarSize -> : Time: 0.7852 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 22:38:00.667 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 9.901 ms. Offset:[0] Started searching offset with:0
+2025-04-15 22:38:00.667 +07:00 [INF] Pattern: Input Mode -> : Time: 12.423 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 22:38:00.667 +07:00 [INF] Pattern: Area change -> : Time: 19.0609 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 22:38:00.677 +07:00 [VRB] FileRoot: 7ff63ebe1d58
+2025-04-15 22:38:00.677 +07:00 [VRB] AreaChangeCount: 7ff63dd86ec0
+2025-04-15 22:38:00.677 +07:00 [VRB] GameStateOffset: 7ff63eab5990
+2025-04-15 22:38:00.677 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff63bd0ff0f
+2025-04-15 22:38:00.677 +07:00 [INF] PerfTimer =-> Load files from memory (0.1055 ms) Thread #[19]
+2025-04-15 22:38:00.684 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 33.223 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:38:00.684 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 34.5977 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:38:00.684 +07:00 [INF] Pattern: File Root -> : Time: 35.3781 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 22:38:00.684 +07:00 [INF] Pattern scan done: 00:00:00.0354015
+2025-04-15 22:38:00.684 +07:00 [ERR] Game address was 0, procAddress: 7FF63AD10000, gameStateOffset: 3DA5990
+2025-04-15 22:38:00.684 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:38:00.684 +07:00 [ERR] Inject -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:38:02.681 +07:00 [INF] PerfTimer =-> Load files from memory (0.046 ms) Thread #[19]
+2025-04-15 22:38:04.681 +07:00 [INF] PerfTimer =-> Load files from memory (0.2093 ms) Thread #[19]
+2025-04-15 22:38:04.682 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.3704 ms) Thread #[17]
+2025-04-15 22:38:04.689 +07:00 [ERR] System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:38:04.689 +07:00 [ERR] Inject -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:38:06.681 +07:00 [INF] PerfTimer =-> Load files from memory (0.1457 ms) Thread #[29]
+2025-04-15 22:38:06.682 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2754 ms) Thread #[17]
+2025-04-15 22:38:08.694 +07:00 [INF] PerfTimer =-> Load files from memory (6.586 ms) Thread #[17]
+2025-04-15 22:38:09.802 +07:00 [INF] PerfTimer =-> Preload stats and mods (1108.1909 ms) Thread #[17]
+2025-04-15 22:38:10.696 +07:00 [INF] PerfTimer =-> Load files from memory (1.173 ms) Thread #[17]
+2025-04-15 22:38:11.800 +07:00 [INF] PerfTimer =-> Preload stats and mods (1104.3769 ms) Thread #[10]
+2025-04-15 22:38:12.698 +07:00 [INF] PerfTimer =-> Load files from memory (1.344 ms) Thread #[10]
+2025-04-15 22:38:13.632 +07:00 [INF] PerfTimer =-> Preload stats and mods (933.8096 ms) Thread #[29]
+2025-04-15 22:38:14.701 +07:00 [INF] PerfTimer =-> Load files from memory (1.2388 ms) Thread #[19]
+2025-04-15 22:38:15.581 +07:00 [INF] PerfTimer =-> Preload stats and mods (880.0747 ms) Thread #[28]
+2025-04-15 22:38:16.702 +07:00 [INF] PerfTimer =-> Load files from memory (1.2671 ms) Thread #[30]
+2025-04-15 22:38:17.599 +07:00 [INF] PerfTimer =-> Preload stats and mods (896.5458 ms) Thread #[17]
+2025-04-15 22:38:18.704 +07:00 [INF] PerfTimer =-> Load files from memory (1.2812 ms) Thread #[19]
+2025-04-15 22:38:19.622 +07:00 [INF] PerfTimer =-> Preload stats and mods (917.7183 ms) Thread #[18]
+2025-04-15 22:38:20.707 +07:00 [INF] PerfTimer =-> Load files from memory (2.4919 ms) Thread #[10]
+2025-04-15 22:38:21.766 +07:00 [INF] PerfTimer =-> Preload stats and mods (1059.0078 ms) Thread #[29]
+2025-04-15 22:38:22.710 +07:00 [INF] PerfTimer =-> Load files from memory (2.2247 ms) Thread #[29]
+2025-04-15 22:38:23.946 +07:00 [INF] PerfTimer =-> Preload stats and mods (1236.3916 ms) Thread #[18]
+2025-04-15 22:38:24.713 +07:00 [INF] PerfTimer =-> Load files from memory (2.2753 ms) Thread #[18]
+2025-04-15 22:38:26.103 +07:00 [INF] PerfTimer =-> Preload stats and mods (1389.6907 ms) Thread #[27]
+2025-04-15 22:38:26.723 +07:00 [INF] PerfTimer =-> Load files from memory (9.4464 ms) Thread #[27]
+2025-04-15 22:38:27.922 +07:00 [INF] PerfTimer =-> Preload stats and mods (1199.0577 ms) Thread #[18]
+2025-04-15 22:38:28.782 +07:00 [INF] PerfTimer =-> Load files from memory (57.6739 ms) Thread #[18]
+2025-04-15 22:38:30.337 +07:00 [INF] PerfTimer =-> Preload stats and mods (1554.7472 ms) Thread #[18]
+2025-04-15 22:38:30.804 +07:00 [INF] PerfTimer =-> Load files from memory (21.8119 ms) Thread #[18]
+2025-04-15 22:38:32.359 +07:00 [INF] PerfTimer =-> Preload stats and mods (1555.1888 ms) Thread #[32]
+2025-04-15 22:38:32.830 +07:00 [INF] PerfTimer =-> Load files from memory (24.3938 ms) Thread #[10]
+2025-04-15 22:38:34.925 +07:00 [INF] PerfTimer =-> Load files from memory (91.2651 ms) Thread #[22]
+2025-04-15 22:38:35.300 +07:00 [INF] PerfTimer =-> Preload stats and mods (2470.4353 ms) Thread #[32]
+2025-04-15 22:38:36.961 +07:00 [INF] PerfTimer =-> Load files from memory (35.1093 ms) Thread #[31]
+2025-04-15 22:38:38.195 +07:00 [INF] PerfTimer =-> Preload stats and mods (3269.1436 ms) Thread #[22]
+2025-04-15 22:38:39.151 +07:00 [INF] PerfTimer =-> Load files from memory (153.8331 ms) Thread #[29]
+2025-04-15 22:38:39.293 +07:00 [INF] PerfTimer =-> Preload stats and mods (2332.2095 ms) Thread #[31]
+2025-04-15 22:38:40.780 +07:00 [INF] PerfTimer =-> Preload stats and mods (1628.0759 ms) Thread #[29]
+2025-04-15 22:38:41.174 +07:00 [INF] PerfTimer =-> Load files from memory (22.0504 ms) Thread #[22]
+2025-04-15 22:38:42.303 +07:00 [INF] PerfTimer =-> Preload stats and mods (1129.3146 ms) Thread #[13]
+2025-04-15 22:38:43.197 +07:00 [INF] PerfTimer =-> Load files from memory (21.7322 ms) Thread #[28]
+2025-04-15 22:38:44.275 +07:00 [INF] PerfTimer =-> Preload stats and mods (1078.2699 ms) Thread #[23]
+2025-04-15 22:38:45.223 +07:00 [INF] PerfTimer =-> Load files from memory (21.7304 ms) Thread #[27]
+2025-04-15 22:38:46.324 +07:00 [INF] PerfTimer =-> Preload stats and mods (1101.7411 ms) Thread #[13]
+2025-04-15 22:38:47.291 +07:00 [INF] PerfTimer =-> Load files from memory (65.6308 ms) Thread #[3]
+2025-04-15 22:38:48.416 +07:00 [INF] PerfTimer =-> Preload stats and mods (1125.1523 ms) Thread #[31]
+2025-04-15 22:38:49.314 +07:00 [INF] PerfTimer =-> Load files from memory (22.161 ms) Thread #[19]
+2025-04-15 22:38:51.574 +07:00 [INF] PerfTimer =-> Load files from memory (161.6348 ms) Thread #[22]
+2025-04-15 22:38:52.052 +07:00 [INF] PerfTimer =-> Preload stats and mods (477.6097 ms) Thread #[22]
+2025-04-15 22:38:52.691 +07:00 [INF] PerfTimer =-> Preload stats and mods (3376.7897 ms) Thread #[32]
+2025-04-15 22:38:53.727 +07:00 [INF] PerfTimer =-> Load files from memory (152.2779 ms) Thread #[17]
+2025-04-15 22:38:53.727 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.244 ms) Thread #[28]
+2025-04-15 22:38:55.844 +07:00 [INF] PerfTimer =-> Load files from memory (116.2873 ms) Thread #[3]
+2025-04-15 22:38:55.845 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2226 ms) Thread #[28]
+2025-04-15 22:38:58.007 +07:00 [INF] PerfTimer =-> Load files from memory (162.6266 ms) Thread #[27]
+2025-04-15 22:38:58.008 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2208 ms) Thread #[29]
+2025-04-15 22:39:00.139 +07:00 [INF] PerfTimer =-> Load files from memory (131.1955 ms) Thread #[27]
+2025-04-15 22:39:00.142 +07:00 [INF] PerfTimer =-> Preload stats and mods (2.7357 ms) Thread #[30]
+2025-04-15 22:39:02.248 +07:00 [INF] PerfTimer =-> Load files from memory (108.0023 ms) Thread #[17]
+2025-04-15 22:39:02.250 +07:00 [INF] PerfTimer =-> Preload stats and mods (2.0103 ms) Thread #[29]
+2025-04-15 22:39:04.354 +07:00 [INF] PerfTimer =-> Load files from memory (104.5455 ms) Thread #[13]
+2025-04-15 22:39:04.376 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:39:04.376 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:39:04.377 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 22:39:04.377 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 22:39:04.377 +07:00 [WRN] 4/15/2025 10:39:04 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 22:39:04.377 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:39:04.413 +07:00 [INF] PerfTimer =-> Preload stats and mods (58.999 ms) Thread #[17]
+2025-04-15 22:39:04.571 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 22:39:04.694 +07:00 [INF] PerfTimer =-> Compile and load source plugins (317.014 ms) Thread #[13]
+2025-04-15 22:39:04.696 +07:00 [INF] PerfTimer =-> Plugin loader (341.585 ms) Thread #[13]
+2025-04-15 22:39:05.465 +07:00 [INF] Plugins from directory DevTree loaded in 18 ms.
+2025-04-15 22:39:05.465 +07:00 [INF] Plugins from directory PluginUpdater loaded in 3 ms.
+2025-04-15 22:39:05.465 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 22:39:05.465 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 22:39:05.465 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 22:39:05.465 +07:00 [ERR] Failed to find a free memory region.
+2025-04-15 22:39:05.465 +07:00 [ERR] WheresMyZoomAt, Onload -> System.ComponentModel.Win32Exception (299): Only part of a ReadProcessMemory or WriteProcessMemory request was completed.
+   at System.Diagnostics.NtProcessManager.EnumProcessModulesUntilSuccess(SafeProcessHandle processHandle, IntPtr[] modules, Int32 size, Int32& needed, Int32 filterFlag)
+   at System.Diagnostics.NtProcessManager.GetModules(Int32 processId, Boolean firstModuleOnly)
+   at System.Diagnostics.Process.get_Modules()
+   at WheresMyZoomAt.WheresMyZoomAt.InitializeProcess() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 133
+   at WheresMyZoomAt.WheresMyZoomAt.OnLoad() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 835
+   at ExileCore2.Shared.PluginWrapper.Onload()
+2025-04-15 22:39:05.466 +07:00 [INF] Plugins compiled and loaded in 312 ms.
+2025-04-15 22:39:05.466 +07:00 [INF] Copilot -> Initialise time: 0.0918 ms.
+2025-04-15 22:39:05.466 +07:00 [INF] PluginUpdater -> Initialise time: 0.1895 ms.
+2025-04-15 22:39:05.466 +07:00 [INF] ReAgent -> Initialise time: 1.0153 ms.
+2025-04-15 22:39:05.466 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.003 ms.
+2025-04-15 22:39:05.733 +07:00 [INF] Game not found
+2025-04-15 22:39:07.774 +07:00 [INF] Pattern: Game State -> : Time: 0.4523 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 22:39:07.774 +07:00 [INF] Pattern: BlackBarSize -> : Time: 0.874 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 22:39:07.792 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 7.9626 ms. Offset:[0] Started searching offset with:0
+2025-04-15 22:39:07.792 +07:00 [INF] Pattern: Input Mode -> : Time: 10.0704 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 22:39:07.792 +07:00 [INF] Pattern: Area change -> : Time: 17.6873 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 22:39:07.803 +07:00 [VRB] FileRoot: 7ff63ebe1d58
+2025-04-15 22:39:07.803 +07:00 [VRB] AreaChangeCount: 7ff63dd86ec0
+2025-04-15 22:39:07.803 +07:00 [VRB] GameStateOffset: 7ff63eab5990
+2025-04-15 22:39:07.803 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff63bd0ff0f
+2025-04-15 22:39:07.803 +07:00 [INF] PerfTimer =-> Load files from memory (0.0421 ms) Thread #[17]
+2025-04-15 22:39:07.809 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 33.2041 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:39:07.809 +07:00 [INF] Pattern: File Root -> : Time: 34.1457 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 22:39:07.809 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 34.2071 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:39:07.809 +07:00 [INF] Pattern scan done: 00:00:00.0343998
+2025-04-15 22:39:07.809 +07:00 [ERR] Game address was 0, procAddress: 7FF63AD10000, gameStateOffset: 3DA5990
+2025-04-15 22:39:07.809 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:39:07.809 +07:00 [ERR] Inject -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:39:08.236 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.LoadFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.<>c__DisplayClass52_0.<<-ctor>b__1>d.MoveNext()
+2025-04-15 22:39:09.804 +07:00 [INF] PerfTimer =-> Load files from memory (0.0533 ms) Thread #[3]
+2025-04-15 22:39:11.803 +07:00 [INF] PerfTimer =-> Load files from memory (0.1442 ms) Thread #[30]
+2025-04-15 22:39:11.804 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.5412 ms) Thread #[29]
+2025-04-15 22:39:11.805 +07:00 [ERR] System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:39:11.805 +07:00 [ERR] Inject -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:39:13.805 +07:00 [INF] PerfTimer =-> Load files from memory (0.1217 ms) Thread #[18]
+2025-04-15 22:39:13.805 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2087 ms) Thread #[13]
+2025-04-15 22:39:15.806 +07:00 [INF] PerfTimer =-> Load files from memory (0.1447 ms) Thread #[31]
+2025-04-15 22:39:15.806 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.267 ms) Thread #[19]
+2025-04-15 22:39:17.810 +07:00 [INF] PerfTimer =-> Load files from memory (1.6509 ms) Thread #[27]
+2025-04-15 22:39:18.914 +07:00 [INF] PerfTimer =-> Preload stats and mods (1104.0313 ms) Thread #[28]
+2025-04-15 22:39:19.812 +07:00 [INF] PerfTimer =-> Load files from memory (1.1728 ms) Thread #[10]
+2025-04-15 22:39:20.821 +07:00 [INF] PerfTimer =-> Preload stats and mods (1009.5499 ms) Thread #[30]
+2025-04-15 22:39:21.814 +07:00 [INF] PerfTimer =-> Load files from memory (1.2673 ms) Thread #[30]
+2025-04-15 22:39:22.757 +07:00 [INF] PerfTimer =-> Preload stats and mods (942.8992 ms) Thread #[22]
+2025-04-15 22:39:23.815 +07:00 [INF] PerfTimer =-> Load files from memory (1.1266 ms) Thread #[17]
+2025-04-15 22:39:24.647 +07:00 [INF] PerfTimer =-> Preload stats and mods (831.7877 ms) Thread #[29]
+2025-04-15 22:39:25.817 +07:00 [INF] PerfTimer =-> Load files from memory (1.15 ms) Thread #[30]
+2025-04-15 22:39:27.238 +07:00 [INF] PerfTimer =-> Preload stats and mods (1420.935 ms) Thread #[31]
+2025-04-15 22:39:27.819 +07:00 [INF] PerfTimer =-> Load files from memory (1.2004 ms) Thread #[31]
+2025-04-15 22:39:28.894 +07:00 [INF] PerfTimer =-> Preload stats and mods (1074.2671 ms) Thread #[32]
+2025-04-15 22:39:29.825 +07:00 [INF] PerfTimer =-> Load files from memory (2.6278 ms) Thread #[27]
+2025-04-15 22:39:30.807 +07:00 [INF] PerfTimer =-> Preload stats and mods (981.6396 ms) Thread #[32]
+2025-04-15 22:39:31.829 +07:00 [INF] PerfTimer =-> Load files from memory (3.801 ms) Thread #[32]
+2025-04-15 22:39:33.440 +07:00 [INF] PerfTimer =-> Preload stats and mods (1611.3692 ms) Thread #[14]
+2025-04-15 22:39:33.837 +07:00 [INF] PerfTimer =-> Load files from memory (5.4707 ms) Thread #[19]
+2025-04-15 22:39:35.306 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.LoadFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.<>c__DisplayClass52_0.<<-ctor>b__1>d.MoveNext()
+2025-04-15 22:39:35.388 +07:00 [INF] PerfTimer =-> Preload stats and mods (1550.588 ms) Thread #[23]
+2025-04-15 22:39:35.842 +07:00 [INF] PerfTimer =-> Load files from memory (3.3378 ms) Thread #[18]
+2025-04-15 22:39:36.930 +07:00 [INF] PerfTimer =-> Preload stats and mods (1088.4341 ms) Thread #[23]
+2025-04-15 22:39:37.884 +07:00 [INF] PerfTimer =-> Load files from memory (41.265 ms) Thread #[23]
+2025-04-15 22:39:39.437 +07:00 [INF] PerfTimer =-> Preload stats and mods (1552.9587 ms) Thread #[19]
+2025-04-15 22:39:39.905 +07:00 [INF] PerfTimer =-> Load files from memory (19.8122 ms) Thread #[32]
+2025-04-15 22:39:41.737 +07:00 [INF] PerfTimer =-> Preload stats and mods (1832.1335 ms) Thread #[28]
+2025-04-15 22:39:41.950 +07:00 [INF] PerfTimer =-> Load files from memory (44.4205 ms) Thread #[28]
+2025-04-15 22:39:44.188 +07:00 [INF] PerfTimer =-> Load files from memory (234.5429 ms) Thread #[17]
+2025-04-15 22:39:44.274 +07:00 [INF] PerfTimer =-> Preload stats and mods (2323.6952 ms) Thread #[28]
+2025-04-15 22:39:46.339 +07:00 [INF] PerfTimer =-> Load files from memory (115.2591 ms) Thread #[8]
+2025-04-15 22:39:48.385 +07:00 [INF] PerfTimer =-> Load files from memory (41.9774 ms) Thread #[19]
+2025-04-15 22:39:50.485 +07:00 [INF] PerfTimer =-> Load files from memory (99.9518 ms) Thread #[14]
+2025-04-15 22:39:51.058 +07:00 [INF] PerfTimer =-> Preload stats and mods (6869.3735 ms) Thread #[17]
+2025-04-15 22:39:52.599 +07:00 [INF] PerfTimer =-> Load files from memory (110.5343 ms) Thread #[20]
+2025-04-15 22:39:53.769 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.LoadFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.<>c__DisplayClass52_0.<<-ctor>b__1>d.MoveNext()
+2025-04-15 22:39:53.869 +07:00 [INF] PerfTimer =-> Preload stats and mods (5484.3106 ms) Thread #[19]
+2025-04-15 22:39:54.683 +07:00 [INF] PerfTimer =-> Load files from memory (80.7859 ms) Thread #[10]
+2025-04-15 22:39:56.350 +07:00 [INF] PerfTimer =-> Preload stats and mods (10009.8133 ms) Thread #[8]
+2025-04-15 22:39:56.928 +07:00 [INF] PerfTimer =-> Load files from memory (242.9449 ms) Thread #[13]
+2025-04-15 22:39:57.137 +07:00 [INF] PerfTimer =-> Preload stats and mods (4537.5592 ms) Thread #[20]
+2025-04-15 22:39:57.723 +07:00 [INF] PerfTimer =-> Preload stats and mods (7237.3393 ms) Thread #[14]
+2025-04-15 22:39:59.010 +07:00 [INF] PerfTimer =-> Load files from memory (75.8066 ms) Thread #[14]
+2025-04-15 22:39:59.755 +07:00 [INF] PerfTimer =-> Preload stats and mods (5072.0027 ms) Thread #[10]
+2025-04-15 22:40:01.266 +07:00 [INF] PerfTimer =-> Load files from memory (227.4818 ms) Thread #[8]
+2025-04-15 22:40:01.329 +07:00 [INF] PerfTimer =-> Preload stats and mods (4400.7607 ms) Thread #[13]
+2025-04-15 22:40:03.395 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.LoadFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.<>c__DisplayClass52_0.<<-ctor>b__1>d.MoveNext()
+2025-04-15 22:40:03.585 +07:00 [INF] PerfTimer =-> Load files from memory (260.7899 ms) Thread #[28]
+2025-04-15 22:40:03.922 +07:00 [INF] PerfTimer =-> Preload stats and mods (4911.5626 ms) Thread #[37]
+2025-04-15 22:40:05.617 +07:00 [INF] PerfTimer =-> Preload stats and mods (4349.128 ms) Thread #[19]
+2025-04-15 22:40:05.640 +07:00 [INF] PerfTimer =-> Load files from memory (54.9769 ms) Thread #[33]
+2025-04-15 22:40:07.294 +07:00 [INF] PerfTimer =-> Preload stats and mods (3708.6762 ms) Thread #[28]
+2025-04-15 22:40:07.708 +07:00 [INF] PerfTimer =-> Load files from memory (66.71 ms) Thread #[36]
+2025-04-15 22:40:08.662 +07:00 [INF] PerfTimer =-> Preload stats and mods (3022.2061 ms) Thread #[20]
+2025-04-15 22:40:10.179 +07:00 [INF] PerfTimer =-> Load files from memory (468.2006 ms) Thread #[33]
+2025-04-15 22:40:10.211 +07:00 [INF] Area refresh triggered
+2025-04-15 22:40:10.242 +07:00 [INF] Plugins from directory DevTree loaded in 48 ms.
+2025-04-15 22:40:10.259 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:40:10.259 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:40:10.259 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 22:40:10.259 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 22:40:10.260 +07:00 [WRN] 4/15/2025 10:40:10 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 22:40:10.260 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:40:10.265 +07:00 [INF] Plugins from directory PluginUpdater loaded in 20 ms.
+2025-04-15 22:40:10.404 +07:00 [INF] PerfTimer =-> Preload stats and mods (2694.9618 ms) Thread #[36]
+2025-04-15 22:40:10.509 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 22:40:10.900 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 22:40:11.052 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 22:40:11.095 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 22:40:11.277 +07:00 [INF] Found free memory region at: 7FF63AD00000
+2025-04-15 22:40:11.349 +07:00 [INF] PerfTimer =-> Compile and load source plugins (1138.9565 ms) Thread #[39]
+2025-04-15 22:40:11.377 +07:00 [INF] PerfTimer =-> Plugin loader (1185.8894 ms) Thread #[33]
+2025-04-15 22:40:11.480 +07:00 [INF] Plugins compiled and loaded in 1125 ms.
+2025-04-15 22:40:11.480 +07:00 [INF] Copilot -> Initialise time: 0.1561 ms.
+2025-04-15 22:40:11.480 +07:00 [INF] PluginUpdater -> Initialise time: 0.3169 ms.
+2025-04-15 22:40:11.480 +07:00 [INF] ReAgent -> Initialise time: 22.2826 ms.
+2025-04-15 22:40:11.480 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0067 ms.
+2025-04-15 22:40:11.594 +07:00 [INF] PerfTimer =-> Preload stats and mods (1403.99 ms) Thread #[20]
+2025-04-15 22:40:19.351 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.LoadFiles(Boolean log)
+   at ExileCore2.PoEMemory.FilesContainer.<>c__DisplayClass52_0.<<-ctor>b__1>d.MoveNext()
+2025-04-15 22:40:23.573 +07:00 [INF] PerfTimer =-> Load files from memory (147.2473 ms) Thread #[9]
+2025-04-15 22:40:23.591 +07:00 [INF] Force area refresh triggered
+2025-04-15 22:40:25.311 +07:00 [INF] PerfTimer =-> Preload stats and mods (1737.0886 ms) Thread #[11]
+2025-04-15 22:42:30.158 +07:00 [ERR] EntityList -> Address is 0;
+2025-04-15 22:42:32.852 +07:00 [INF] Game not found
+2025-04-15 22:42:34.867 +07:00 [INF] Game not found
+2025-04-15 22:42:36.879 +07:00 [INF] Game not found
+2025-04-15 22:42:38.881 +07:00 [INF] Game not found
+2025-04-15 22:42:40.895 +07:00 [INF] Game not found
+2025-04-15 22:42:42.909 +07:00 [INF] Game not found
+2025-04-15 22:42:44.917 +07:00 [INF] Game not found
+2025-04-15 22:42:46.925 +07:00 [INF] Game not found
+2025-04-15 22:42:48.921 +07:00 [INF] Game not found
+2025-04-15 22:42:50.926 +07:00 [INF] Game not found
+2025-04-15 22:42:52.929 +07:00 [INF] Game not found
+2025-04-15 22:42:54.946 +07:00 [INF] Game not found
+2025-04-15 22:42:56.965 +07:00 [INF] Game not found
+2025-04-15 22:42:58.964 +07:00 [INF] Game not found
+2025-04-15 22:43:00.970 +07:00 [INF] Game not found
+2025-04-15 22:43:02.971 +07:00 [INF] Game not found
+2025-04-15 22:43:04.980 +07:00 [INF] Game not found
+2025-04-15 22:43:06.995 +07:00 [INF] Game not found
+2025-04-15 22:43:09.009 +07:00 [INF] Game not found
+2025-04-15 22:43:11.017 +07:00 [INF] Game not found
+2025-04-15 22:43:13.021 +07:00 [INF] Game not found
+2025-04-15 22:43:15.030 +07:00 [INF] Game not found
+2025-04-15 22:43:17.038 +07:00 [INF] Game not found
+2025-04-15 22:43:19.054 +07:00 [INF] Game not found
+2025-04-15 22:43:21.058 +07:00 [INF] Game not found
+2025-04-15 22:43:23.059 +07:00 [INF] Game not found
+2025-04-15 22:43:25.064 +07:00 [INF] Game not found
+2025-04-15 22:43:27.079 +07:00 [INF] Game not found
+2025-04-15 22:43:29.085 +07:00 [INF] Game not found
+2025-04-15 22:43:31.129 +07:00 [INF] Pattern: Game State -> : Time: 0.5532 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 22:43:31.129 +07:00 [INF] Pattern: BlackBarSize -> : Time: 0.9294 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 22:43:31.146 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 12.7393 ms. Offset:[0] Started searching offset with:0
+2025-04-15 22:43:31.146 +07:00 [INF] Pattern: Input Mode -> : Time: 17.7588 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 22:43:31.164 +07:00 [INF] Pattern: Area change -> : Time: 25.4624 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 22:43:31.175 +07:00 [VRB] FileRoot: 7ff63ebe1d58
+2025-04-15 22:43:31.175 +07:00 [VRB] AreaChangeCount: 7ff63dd86ec0
+2025-04-15 22:43:31.175 +07:00 [VRB] GameStateOffset: 7ff63eab5990
+2025-04-15 22:43:31.175 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff63bd0ff0f
+2025-04-15 22:43:31.175 +07:00 [INF] PerfTimer =-> Load files from memory (0.0456 ms) Thread #[13]
+2025-04-15 22:43:31.181 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 47.7292 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:43:31.181 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 48.9739 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:43:31.181 +07:00 [INF] Pattern: File Root -> : Time: 53.4187 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 22:43:31.181 +07:00 [INF] Pattern scan done: 00:00:00.0534685
+2025-04-15 22:43:31.181 +07:00 [ERR] Game address was 0, procAddress: 7FF63AD10000, gameStateOffset: 3DA5990
+2025-04-15 22:43:31.181 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:43:31.182 +07:00 [ERR] Inject -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:43:33.176 +07:00 [INF] PerfTimer =-> Load files from memory (0.0412 ms) Thread #[38]
+2025-04-15 22:43:35.176 +07:00 [INF] PerfTimer =-> Load files from memory (0.1391 ms) Thread #[39]
+2025-04-15 22:43:35.177 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.4818 ms) Thread #[13]
+2025-04-15 22:43:35.186 +07:00 [ERR] System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:43:35.186 +07:00 [ERR] Inject -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:43:37.177 +07:00 [INF] PerfTimer =-> Load files from memory (0.1286 ms) Thread #[42]
+2025-04-15 22:43:37.177 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.1988 ms) Thread #[44]
+2025-04-15 22:43:39.179 +07:00 [INF] PerfTimer =-> Load files from memory (1.4958 ms) Thread #[8]
+2025-04-15 22:43:40.513 +07:00 [INF] PerfTimer =-> Preload stats and mods (1333.8275 ms) Thread #[13]
+2025-04-15 22:43:41.182 +07:00 [INF] PerfTimer =-> Load files from memory (1.45 ms) Thread #[53]
+2025-04-15 22:43:42.294 +07:00 [INF] PerfTimer =-> Preload stats and mods (1111.9265 ms) Thread #[53]
+2025-04-15 22:43:43.188 +07:00 [INF] PerfTimer =-> Load files from memory (1.6573 ms) Thread #[53]
+2025-04-15 22:43:44.672 +07:00 [INF] PerfTimer =-> Preload stats and mods (1484.0844 ms) Thread #[43]
+2025-04-15 22:43:45.192 +07:00 [INF] PerfTimer =-> Load files from memory (2.676 ms) Thread #[39]
+2025-04-15 22:43:46.618 +07:00 [INF] PerfTimer =-> Preload stats and mods (1426.8747 ms) Thread #[43]
+2025-04-15 22:43:47.199 +07:00 [INF] PerfTimer =-> Load files from memory (3.4265 ms) Thread #[43]
+2025-04-15 22:43:48.836 +07:00 [INF] PerfTimer =-> Preload stats and mods (1637.354 ms) Thread #[43]
+2025-04-15 22:43:49.267 +07:00 [INF] PerfTimer =-> Load files from memory (6.4595 ms) Thread #[50]
+2025-04-15 22:43:51.276 +07:00 [INF] PerfTimer =-> Load files from memory (7.3902 ms) Thread #[28]
+2025-04-15 22:43:51.380 +07:00 [INF] PerfTimer =-> Preload stats and mods (2112.7724 ms) Thread #[50]
+2025-04-15 22:43:52.760 +07:00 [INF] PerfTimer =-> Preload stats and mods (1483.685 ms) Thread #[28]
+2025-04-15 22:43:53.279 +07:00 [INF] PerfTimer =-> Load files from memory (2.8104 ms) Thread #[25]
+2025-04-15 22:43:54.626 +07:00 [INF] PerfTimer =-> Preload stats and mods (1346.3096 ms) Thread #[39]
+2025-04-15 22:43:55.298 +07:00 [INF] PerfTimer =-> Load files from memory (18.1413 ms) Thread #[38]
+2025-04-15 22:43:56.895 +07:00 [INF] PerfTimer =-> Preload stats and mods (1597.1034 ms) Thread #[39]
+2025-04-15 22:43:57.342 +07:00 [INF] PerfTimer =-> Load files from memory (43.3989 ms) Thread #[28]
+2025-04-15 22:43:59.209 +07:00 [INF] PerfTimer =-> Preload stats and mods (1866.9147 ms) Thread #[53]
+2025-04-15 22:43:59.369 +07:00 [INF] PerfTimer =-> Load files from memory (25.8544 ms) Thread #[42]
+2025-04-15 22:44:01.633 +07:00 [INF] PerfTimer =-> Load files from memory (256.8398 ms) Thread #[40]
+2025-04-15 22:44:01.989 +07:00 [INF] PerfTimer =-> Preload stats and mods (2619.9991 ms) Thread #[53]
+2025-04-15 22:44:03.696 +07:00 [INF] PerfTimer =-> Load files from memory (59.2184 ms) Thread #[56]
+2025-04-15 22:44:04.140 +07:00 [INF] PerfTimer =-> Preload stats and mods (2506.7449 ms) Thread #[40]
+2025-04-15 22:44:05.795 +07:00 [INF] PerfTimer =-> Load files from memory (75.5277 ms) Thread #[13]
+2025-04-15 22:44:05.906 +07:00 [INF] PerfTimer =-> Preload stats and mods (2209.5945 ms) Thread #[56]
+2025-04-15 22:44:07.879 +07:00 [INF] PerfTimer =-> Load files from memory (54.3258 ms) Thread #[57]
+2025-04-15 22:44:07.932 +07:00 [INF] PerfTimer =-> Preload stats and mods (2136.9466 ms) Thread #[13]
+2025-04-15 22:44:10.028 +07:00 [INF] PerfTimer =-> Load files from memory (99.9944 ms) Thread #[17]
+2025-04-15 22:44:11.230 +07:00 [INF] PerfTimer =-> Preload stats and mods (3350.3298 ms) Thread #[57]
+2025-04-15 22:44:12.100 +07:00 [INF] PerfTimer =-> Load files from memory (52.5683 ms) Thread #[57]
+2025-04-15 22:44:14.298 +07:00 [INF] PerfTimer =-> Load files from memory (176.1668 ms) Thread #[56]
+2025-04-15 22:44:14.368 +07:00 [INF] PerfTimer =-> Preload stats and mods (4333.3609 ms) Thread #[17]
+2025-04-15 22:44:15.119 +07:00 [INF] PerfTimer =-> Preload stats and mods (3019.2447 ms) Thread #[57]
+2025-04-15 22:44:16.416 +07:00 [INF] PerfTimer =-> Load files from memory (65.5138 ms) Thread #[28]
+2025-04-15 22:44:16.565 +07:00 [INF] PerfTimer =-> Preload stats and mods (2267.3084 ms) Thread #[56]
+2025-04-15 22:44:18.009 +07:00 [INF] PerfTimer =-> Preload stats and mods (1575.232 ms) Thread #[50]
+2025-04-15 22:44:18.451 +07:00 [INF] PerfTimer =-> Load files from memory (33.8686 ms) Thread #[50]
+2025-04-15 22:44:20.243 +07:00 [INF] PerfTimer =-> Preload stats and mods (1791.6756 ms) Thread #[37]
+2025-04-15 22:44:20.499 +07:00 [INF] PerfTimer =-> Load files from memory (44.3029 ms) Thread #[38]
+2025-04-15 22:44:22.094 +07:00 [INF] PerfTimer =-> Preload stats and mods (1594.5993 ms) Thread #[32]
+2025-04-15 22:44:22.645 +07:00 [INF] PerfTimer =-> Load files from memory (135.5998 ms) Thread #[47]
+2025-04-15 22:44:22.672 +07:00 [INF] Area refresh triggered
+2025-04-15 22:44:22.672 +07:00 [INF] Plugins from directory DevTree loaded in 23 ms.
+2025-04-15 22:44:22.693 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:44:22.693 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:44:22.693 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 22:44:22.693 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 22:44:22.693 +07:00 [WRN] 4/15/2025 10:44:22 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 22:44:22.693 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:44:22.824 +07:00 [INF] Plugins from directory PluginUpdater loaded in 22 ms.
+2025-04-15 22:44:23.040 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 22:44:23.278 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 22:44:23.439 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 22:44:23.544 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 22:44:23.599 +07:00 [INF] Found free memory region at: 7FF63AD00000
+2025-04-15 22:44:23.724 +07:00 [INF] PerfTimer =-> Compile and load source plugins (1070.5709 ms) Thread #[55]
+2025-04-15 22:44:23.758 +07:00 [INF] PerfTimer =-> Plugin loader (1110.9425 ms) Thread #[47]
+2025-04-15 22:44:23.957 +07:00 [INF] Plugins compiled and loaded in 1055 ms.
+2025-04-15 22:44:23.957 +07:00 [INF] Copilot -> Initialise time: 0.1128 ms.
+2025-04-15 22:44:23.957 +07:00 [INF] PluginUpdater -> Initialise time: 0.2337 ms.
+2025-04-15 22:44:23.957 +07:00 [INF] ReAgent -> Initialise time: 1.3926 ms.
+2025-04-15 22:44:23.957 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0041 ms.
+2025-04-15 22:44:24.081 +07:00 [INF] PerfTimer =-> Preload stats and mods (1428.4138 ms) Thread #[44]
+2025-04-15 22:44:32.653 +07:00 [INF] PerfTimer =-> Load files from memory (55.4438 ms) Thread #[9]
+2025-04-15 22:44:32.665 +07:00 [INF] Force area refresh triggered
+2025-04-15 22:44:34.764 +07:00 [INF] PerfTimer =-> Preload stats and mods (2110.9076 ms) Thread #[16]
+2025-04-15 22:45:07.029 +07:00 [INF] Area refresh triggered
+2025-04-15 22:45:26.633 +07:00 [INF] Area refresh triggered
+2025-04-15 22:48:39.677 +07:00 [INF] Area refresh triggered
+2025-04-15 22:48:52.414 +07:00 [INF] Game not found
+2025-04-15 22:48:54.421 +07:00 [INF] Game not found
+2025-04-15 22:48:56.436 +07:00 [INF] Game not found
+2025-04-15 22:48:58.436 +07:00 [INF] Game not found
+2025-04-15 22:49:00.456 +07:00 [INF] Game not found
+2025-04-15 22:49:02.455 +07:00 [INF] Game not found
+2025-04-15 22:49:04.462 +07:00 [INF] Game not found
+2025-04-15 22:49:06.473 +07:00 [INF] Game not found
+2025-04-15 22:49:08.477 +07:00 [INF] Game not found
+2025-04-15 22:49:10.474 +07:00 [INF] Game not found
+2025-04-15 22:49:12.482 +07:00 [INF] Game not found
+2025-04-15 22:49:14.497 +07:00 [INF] Game not found
+2025-04-15 22:49:16.507 +07:00 [INF] Game not found
+2025-04-15 22:49:18.502 +07:00 [INF] Game not found
+2025-04-15 22:49:20.511 +07:00 [INF] Game not found
+2025-04-15 22:49:22.528 +07:00 [INF] Game not found
+2025-04-15 22:49:24.541 +07:00 [INF] Game not found
+2025-04-15 22:49:26.552 +07:00 [INF] Game not found
+2025-04-15 22:49:28.550 +07:00 [INF] Game not found
+2025-04-15 22:49:30.560 +07:00 [INF] Game not found
+2025-04-15 22:49:32.582 +07:00 [INF] Game not found
+2025-04-15 22:49:34.588 +07:00 [INF] Game not found
+2025-04-15 22:49:36.599 +07:00 [INF] Game not found
+2025-04-15 22:49:38.615 +07:00 [INF] Game not found
+2025-04-15 22:49:40.610 +07:00 [INF] Game not found
+2025-04-15 22:49:42.626 +07:00 [INF] Game not found
+2025-04-15 22:49:44.631 +07:00 [INF] Game not found
+2025-04-15 22:49:46.660 +07:00 [INF] Game not found
+2025-04-15 22:49:48.675 +07:00 [INF] Game not found
+2025-04-15 22:49:50.688 +07:00 [INF] Game not found
+2025-04-15 22:49:52.700 +07:00 [INF] Game not found
+2025-04-15 22:49:54.701 +07:00 [INF] Game not found
+2025-04-15 22:49:56.709 +07:00 [INF] Game not found
+2025-04-15 22:49:58.731 +07:00 [INF] Game not found
+2025-04-15 22:50:00.733 +07:00 [INF] Game not found
+2025-04-15 22:50:02.741 +07:00 [INF] Game not found
+2025-04-15 22:50:04.767 +07:00 [INF] Game not found
+2025-04-15 22:50:06.772 +07:00 [INF] Game not found
+2025-04-15 22:50:08.785 +07:00 [INF] Game not found
+2025-04-15 22:50:10.801 +07:00 [INF] Game not found
+2025-04-15 22:50:12.826 +07:00 [INF] Game not found
+2025-04-15 22:50:14.837 +07:00 [INF] Game not found
+2025-04-15 22:50:16.842 +07:00 [INF] Game not found
+2025-04-15 22:50:18.843 +07:00 [INF] Game not found
+2025-04-15 22:50:20.867 +07:00 [INF] Game not found
+2025-04-15 22:50:22.883 +07:00 [INF] Game not found
+2025-04-15 22:50:24.894 +07:00 [INF] Game not found
+2025-04-15 22:50:26.900 +07:00 [INF] Game not found
+2025-04-15 22:50:28.898 +07:00 [INF] Game not found
+2025-04-15 22:50:30.914 +07:00 [INF] Game not found
+2025-04-15 22:50:32.925 +07:00 [INF] Game not found
+2025-04-15 22:50:34.934 +07:00 [INF] Game not found
+2025-04-15 22:50:36.937 +07:00 [INF] Game not found
+2025-04-15 22:50:38.942 +07:00 [INF] Game not found
+2025-04-15 22:50:40.950 +07:00 [INF] Game not found
+2025-04-15 22:50:42.969 +07:00 [INF] Game not found
+2025-04-15 22:50:44.978 +07:00 [INF] Game not found
+2025-04-15 22:50:46.979 +07:00 [INF] Game not found
+2025-04-15 22:50:48.994 +07:00 [INF] Game not found
+2025-04-15 22:50:51.005 +07:00 [INF] Game not found
+2025-04-15 22:50:53.017 +07:00 [INF] Game not found
+2025-04-15 22:50:55.031 +07:00 [INF] Game not found
+2025-04-15 22:50:57.024 +07:00 [INF] Game not found
+2025-04-15 22:50:59.041 +07:00 [INF] Game not found
+2025-04-15 22:51:01.048 +07:00 [INF] Game not found
+2025-04-15 22:51:03.069 +07:00 [INF] Game not found
+2025-04-15 22:51:05.076 +07:00 [INF] Game not found
+2025-04-15 22:51:07.072 +07:00 [INF] Game not found
+2025-04-15 22:51:09.087 +07:00 [INF] Game not found
+2025-04-15 22:51:11.094 +07:00 [INF] Game not found
+2025-04-15 22:51:13.105 +07:00 [INF] Game not found
+2025-04-15 22:51:15.116 +07:00 [INF] Game not found
+2025-04-15 22:51:17.114 +07:00 [INF] Game not found
+2025-04-15 22:51:19.122 +07:00 [INF] Game not found
+2025-04-15 22:51:21.137 +07:00 [INF] Game not found
+2025-04-15 22:51:23.143 +07:00 [INF] Game not found
+2025-04-15 22:51:25.166 +07:00 [INF] Game not found
+2025-04-15 22:51:27.172 +07:00 [INF] Game not found
+2025-04-15 22:51:29.183 +07:00 [INF] Game not found
+2025-04-15 22:51:31.202 +07:00 [INF] Game not found
+2025-04-15 22:51:33.204 +07:00 [INF] Game not found
+2025-04-15 22:51:35.207 +07:00 [INF] Game not found
+2025-04-15 22:51:37.227 +07:00 [INF] Game not found
+2025-04-15 22:51:39.243 +07:00 [INF] Game not found
+2025-04-15 22:51:41.247 +07:00 [INF] Game not found
+2025-04-15 22:51:43.250 +07:00 [INF] Game not found
+2025-04-15 22:51:45.274 +07:00 [INF] Game not found
+2025-04-15 22:51:47.274 +07:00 [INF] Game not found
+2025-04-15 22:51:49.291 +07:00 [INF] Game not found
+2025-04-15 22:51:51.289 +07:00 [INF] Game not found
+2025-04-15 22:51:53.307 +07:00 [INF] Game not found
+2025-04-15 22:51:55.328 +07:00 [INF] Game not found
+2025-04-15 22:51:57.336 +07:00 [INF] Game not found
+2025-04-15 22:51:59.347 +07:00 [INF] Game not found
+2025-04-15 22:52:01.359 +07:00 [INF] Game not found
+2025-04-15 22:52:03.366 +07:00 [INF] Game not found
+2025-04-15 22:52:05.369 +07:00 [INF] Game not found
+2025-04-15 22:52:07.375 +07:00 [INF] Game not found
+2025-04-15 22:52:09.383 +07:00 [INF] Game not found
+2025-04-15 22:52:11.388 +07:00 [INF] Game not found
+2025-04-15 22:52:13.392 +07:00 [INF] Game not found
+2025-04-15 22:52:15.397 +07:00 [INF] Game not found
+2025-04-15 22:52:17.410 +07:00 [INF] Game not found
+2025-04-15 22:52:19.412 +07:00 [INF] Game not found
+2025-04-15 22:52:21.438 +07:00 [INF] Game not found
+2025-04-15 22:52:23.454 +07:00 [INF] Game not found
+2025-04-15 22:52:25.461 +07:00 [INF] Game not found
+2025-04-15 22:52:27.461 +07:00 [INF] Game not found
+2025-04-15 22:52:29.474 +07:00 [INF] Game not found
+2025-04-15 22:52:31.470 +07:00 [INF] Game not found
+2025-04-15 22:52:33.495 +07:00 [INF] Game not found
+2025-04-15 22:52:35.485 +07:00 [INF] Game not found
+2025-04-15 22:52:37.509 +07:00 [INF] Game not found
+2025-04-15 22:52:39.509 +07:00 [INF] Game not found
+2025-04-15 22:52:41.525 +07:00 [INF] Game not found
+2025-04-15 22:52:43.530 +07:00 [INF] Game not found
+2025-04-15 22:52:45.537 +07:00 [INF] Game not found
+2025-04-15 22:52:47.551 +07:00 [INF] Game not found
+2025-04-15 22:52:49.551 +07:00 [INF] Game not found
+2025-04-15 22:52:51.567 +07:00 [INF] Game not found
+2025-04-15 22:52:53.586 +07:00 [INF] Game not found
+2025-04-15 22:52:55.592 +07:00 [INF] Game not found
+2025-04-15 22:52:57.598 +07:00 [INF] Game not found
+2025-04-15 22:52:59.608 +07:00 [INF] Game not found
+2025-04-15 22:53:01.615 +07:00 [INF] Game not found
+2025-04-15 22:53:03.623 +07:00 [INF] Game not found
+2025-04-15 22:53:05.626 +07:00 [INF] Game not found
+2025-04-15 22:53:07.639 +07:00 [INF] Game not found
+2025-04-15 22:53:09.643 +07:00 [INF] Game not found
+2025-04-15 22:53:11.654 +07:00 [INF] Game not found
+2025-04-15 22:53:13.663 +07:00 [INF] Game not found
+2025-04-15 22:53:15.664 +07:00 [INF] Game not found
+2025-04-15 22:53:17.670 +07:00 [INF] Game not found
+2025-04-15 22:53:19.693 +07:00 [INF] Game not found
+2025-04-15 22:53:21.692 +07:00 [INF] Game not found
+2025-04-15 22:53:23.695 +07:00 [INF] Game not found
+2025-04-15 22:53:25.707 +07:00 [INF] Game not found
+2025-04-15 22:53:27.728 +07:00 [INF] Game not found
+2025-04-15 22:53:29.729 +07:00 [INF] Game not found
+2025-04-15 22:53:31.736 +07:00 [INF] Game not found
+2025-04-15 22:53:33.747 +07:00 [INF] Game not found
+2025-04-15 22:53:35.753 +07:00 [INF] Game not found
+2025-04-15 22:53:37.768 +07:00 [INF] Game not found
+2025-04-15 22:53:39.772 +07:00 [INF] Game not found
+2025-04-15 22:53:41.795 +07:00 [INF] Game not found
+2025-04-15 22:53:43.794 +07:00 [INF] Game not found
+2025-04-15 22:53:45.812 +07:00 [INF] Game not found
+2025-04-15 22:53:47.820 +07:00 [INF] Game not found
+2025-04-15 22:53:49.826 +07:00 [INF] Game not found
+2025-04-15 22:53:51.848 +07:00 [INF] Game not found
+2025-04-15 22:53:53.858 +07:00 [INF] Game not found
+2025-04-15 22:53:55.864 +07:00 [INF] Game not found
+2025-04-15 22:53:57.869 +07:00 [INF] Game not found
+2025-04-15 22:53:59.885 +07:00 [INF] Game not found
+2025-04-15 22:54:01.892 +07:00 [INF] Game not found
+2025-04-15 22:54:03.914 +07:00 [INF] Game not found
+2025-04-15 22:54:05.918 +07:00 [INF] Game not found
+2025-04-15 22:54:07.932 +07:00 [INF] Game not found
+2025-04-15 22:54:09.936 +07:00 [INF] Game not found
+2025-04-15 22:54:11.961 +07:00 [INF] Game not found
+2025-04-15 22:54:13.974 +07:00 [INF] Game not found
+2025-04-15 22:54:15.988 +07:00 [INF] Game not found
+2025-04-15 22:54:17.993 +07:00 [INF] Game not found
+2025-04-15 22:54:19.999 +07:00 [INF] Game not found
+2025-04-15 22:54:22.006 +07:00 [INF] Game not found
+2025-04-15 22:54:24.026 +07:00 [INF] Game not found
+2025-04-15 22:54:26.034 +07:00 [INF] Game not found
+2025-04-15 22:54:28.042 +07:00 [INF] Game not found
+2025-04-15 22:54:30.052 +07:00 [INF] Game not found
+2025-04-15 22:54:32.058 +07:00 [INF] Game not found
+2025-04-15 22:54:34.071 +07:00 [INF] Game not found
+2025-04-15 22:54:36.090 +07:00 [INF] Game not found
+2025-04-15 22:54:38.097 +07:00 [INF] Game not found
+2025-04-15 22:54:40.097 +07:00 [INF] Game not found
+2025-04-15 22:54:42.111 +07:00 [INF] Game not found
+2025-04-15 22:54:44.125 +07:00 [INF] Game not found
+2025-04-15 22:54:46.116 +07:00 [INF] Game not found
+2025-04-15 22:54:48.133 +07:00 [INF] Game not found
+2025-04-15 22:54:50.147 +07:00 [INF] Game not found
+2025-04-15 22:54:52.141 +07:00 [INF] Game not found
+2025-04-15 22:54:54.163 +07:00 [INF] Game not found
+2025-04-15 22:54:56.181 +07:00 [INF] Game not found
+2025-04-15 22:54:58.192 +07:00 [INF] Game not found
+2025-04-15 22:55:00.211 +07:00 [INF] Game not found
+2025-04-15 22:55:02.217 +07:00 [INF] Game not found
+2025-04-15 22:55:04.226 +07:00 [INF] Game not found
+2025-04-15 22:55:06.232 +07:00 [INF] Game not found
+2025-04-15 22:55:08.247 +07:00 [INF] Game not found
+2025-04-15 22:55:10.252 +07:00 [INF] Game not found
+2025-04-15 22:55:12.263 +07:00 [INF] Game not found
+2025-04-15 22:55:14.260 +07:00 [INF] Game not found
+2025-04-15 22:55:16.268 +07:00 [INF] Game not found
+2025-04-15 22:55:18.292 +07:00 [INF] Game not found
+2025-04-15 22:55:20.284 +07:00 [INF] Game not found
+2025-04-15 22:55:22.299 +07:00 [INF] Game not found
+2025-04-15 22:55:24.310 +07:00 [INF] Game not found
+2025-04-15 22:55:26.314 +07:00 [INF] Game not found
+2025-04-15 22:55:28.311 +07:00 [INF] Game not found
+2025-04-15 22:55:30.335 +07:00 [INF] Game not found
+2025-04-15 22:55:32.341 +07:00 [INF] Game not found
+2025-04-15 22:55:34.340 +07:00 [INF] Game not found
+2025-04-15 22:55:36.352 +07:00 [INF] Game not found
+2025-04-15 22:55:38.364 +07:00 [INF] Game not found
+2025-04-15 22:55:40.378 +07:00 [INF] Game not found
+2025-04-15 22:55:42.395 +07:00 [INF] Game not found
+2025-04-15 22:55:44.405 +07:00 [INF] Game not found
+2025-04-15 22:55:46.416 +07:00 [INF] Game not found
+2025-04-15 22:55:48.412 +07:00 [INF] Game not found
+2025-04-15 22:55:50.438 +07:00 [INF] Game not found
+2025-04-15 22:55:52.466 +07:00 [INF] Game not found
+2025-04-15 22:55:54.473 +07:00 [INF] Game not found
+2025-04-15 22:55:56.478 +07:00 [INF] Game not found
+2025-04-15 22:55:58.486 +07:00 [INF] Game not found
+2025-04-15 22:56:00.490 +07:00 [INF] Game not found
+2025-04-15 22:56:02.504 +07:00 [INF] Game not found
+2025-04-15 22:56:04.510 +07:00 [INF] Game not found
+2025-04-15 22:56:06.510 +07:00 [INF] Game not found
+2025-04-15 22:56:08.531 +07:00 [INF] Game not found
+2025-04-15 22:56:10.541 +07:00 [INF] Game not found
+2025-04-15 22:56:12.551 +07:00 [INF] Game not found
+2025-04-15 22:56:14.554 +07:00 [INF] Game not found
+2025-04-15 22:56:16.581 +07:00 [INF] Game not found
+2025-04-15 22:56:18.602 +07:00 [INF] Game not found
+2025-04-15 22:56:20.601 +07:00 [INF] Game not found
+2025-04-15 22:56:22.613 +07:00 [INF] Game not found
+2025-04-15 22:56:24.618 +07:00 [INF] Game not found
+2025-04-15 22:56:26.796 +07:00 [INF] Pattern: BlackBarSize -> : Time: 0.9889 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 22:56:26.796 +07:00 [INF] Pattern: Game State -> : Time: 1.245 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 22:56:26.814 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 11.1325 ms. Offset:[0] Started searching offset with:0
+2025-04-15 22:56:26.814 +07:00 [INF] Pattern: Input Mode -> : Time: 11.3561 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 22:56:26.832 +07:00 [INF] Pattern: Area change -> : Time: 21.6214 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 22:56:26.839 +07:00 [VRB] FileRoot: 7ff7ee281d58
+2025-04-15 22:56:26.840 +07:00 [VRB] AreaChangeCount: 7ff7ed426ec0
+2025-04-15 22:56:26.840 +07:00 [VRB] GameStateOffset: 7ff7ee155990
+2025-04-15 22:56:26.840 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff7eb3aff0f
+2025-04-15 22:56:26.840 +07:00 [INF] PerfTimer =-> Load files from memory (0.0456 ms) Thread #[21]
+2025-04-15 22:56:26.850 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 40.1145 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:56:26.850 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 41.9904 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:56:26.850 +07:00 [INF] Pattern: File Root -> : Time: 46.3836 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 22:56:26.850 +07:00 [INF] Pattern scan done: 00:00:00.0464208
+2025-04-15 22:56:26.850 +07:00 [ERR] Game address was 0, procAddress: 7FF7EA3B0000, gameStateOffset: 3DA5990
+2025-04-15 22:56:26.850 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:56:26.850 +07:00 [ERR] Inject -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:56:28.841 +07:00 [INF] PerfTimer =-> Load files from memory (0.1523 ms) Thread #[52]
+2025-04-15 22:56:28.841 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2503 ms) Thread #[14]
+2025-04-15 22:56:28.841 +07:00 [ERR] System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:56:28.841 +07:00 [ERR] Inject -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:56:30.840 +07:00 [INF] PerfTimer =-> Load files from memory (0.1502 ms) Thread #[51]
+2025-04-15 22:56:30.840 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.1875 ms) Thread #[36]
+2025-04-15 22:56:32.841 +07:00 [INF] PerfTimer =-> Load files from memory (0.8597 ms) Thread #[14]
+2025-04-15 22:56:34.852 +07:00 [INF] PerfTimer =-> Load files from memory (9.0221 ms) Thread #[38]
+2025-04-15 22:56:35.128 +07:00 [INF] PerfTimer =-> Preload stats and mods (2286.8433 ms) Thread #[46]
+2025-04-15 22:56:35.770 +07:00 [INF] PerfTimer =-> Preload stats and mods (918.7558 ms) Thread #[21]
+2025-04-15 22:56:36.896 +07:00 [INF] PerfTimer =-> Load files from memory (44.2482 ms) Thread #[43]
+2025-04-15 22:56:36.897 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.3018 ms) Thread #[50]
+2025-04-15 22:56:36.925 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:56:36.925 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:56:36.925 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 22:56:36.925 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 22:56:36.925 +07:00 [WRN] 4/15/2025 10:56:36 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 22:56:36.925 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:56:36.939 +07:00 [INF] Plugins from directory DevTree loaded in 23 ms.
+2025-04-15 22:56:36.939 +07:00 [INF] Plugins from directory PluginUpdater loaded in 4 ms.
+2025-04-15 22:56:37.101 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 22:56:37.226 +07:00 [INF] PerfTimer =-> Compile and load source plugins (329.4344 ms) Thread #[50]
+2025-04-15 22:56:37.229 +07:00 [INF] PerfTimer =-> Plugin loader (331.9745 ms) Thread #[43]
+2025-04-15 22:56:38.462 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 22:56:38.462 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 22:56:38.462 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 22:56:38.462 +07:00 [ERR] Failed to find a free memory region.
+2025-04-15 22:56:38.462 +07:00 [ERR] WheresMyZoomAt, Onload -> System.ComponentModel.Win32Exception (299): Only part of a ReadProcessMemory or WriteProcessMemory request was completed.
+   at System.Diagnostics.NtProcessManager.EnumProcessModulesUntilSuccess(SafeProcessHandle processHandle, IntPtr[] modules, Int32 size, Int32& needed, Int32 filterFlag)
+   at System.Diagnostics.NtProcessManager.GetModules(Int32 processId, Boolean firstModuleOnly)
+   at System.Diagnostics.Process.get_Modules()
+   at WheresMyZoomAt.WheresMyZoomAt.InitializeProcess() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 133
+   at WheresMyZoomAt.WheresMyZoomAt.OnLoad() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 835
+   at ExileCore2.Shared.PluginWrapper.Onload()
+2025-04-15 22:56:38.462 +07:00 [INF] Plugins compiled and loaded in 322 ms.
+2025-04-15 22:56:38.462 +07:00 [INF] Copilot -> Initialise time: 0.0958 ms.
+2025-04-15 22:56:38.462 +07:00 [INF] PluginUpdater -> Initialise time: 0.2011 ms.
+2025-04-15 22:56:38.462 +07:00 [INF] ReAgent -> Initialise time: 1.0647 ms.
+2025-04-15 22:56:38.462 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0045 ms.
+2025-04-15 22:56:38.708 +07:00 [INF] Game not found
+2025-04-15 22:56:40.723 +07:00 [INF] Game not found
+2025-04-15 22:56:42.730 +07:00 [INF] Game not found
+2025-04-15 22:56:44.730 +07:00 [INF] Game not found
+2025-04-15 22:56:46.752 +07:00 [INF] Game not found
+2025-04-15 22:56:48.759 +07:00 [INF] Game not found
+2025-04-15 22:56:50.777 +07:00 [INF] Game not found
+2025-04-15 22:56:52.787 +07:00 [INF] Game not found
+2025-04-15 22:56:54.791 +07:00 [INF] Game not found
+2025-04-15 22:56:56.794 +07:00 [INF] Game not found
+2025-04-15 22:56:58.861 +07:00 [INF] Pattern: Game State -> : Time: 0.4723 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 22:56:58.861 +07:00 [INF] Pattern: BlackBarSize -> : Time: 1.1155 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 22:56:58.862 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 9.9599 ms. Offset:[0] Started searching offset with:0
+2025-04-15 22:56:58.879 +07:00 [INF] Pattern: Input Mode -> : Time: 12.8706 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 22:56:58.879 +07:00 [INF] Pattern: Area change -> : Time: 21.955 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 22:56:58.896 +07:00 [VRB] FileRoot: 7ff7ee281d58
+2025-04-15 22:56:58.896 +07:00 [VRB] AreaChangeCount: 7ff7ed426ec0
+2025-04-15 22:56:58.896 +07:00 [VRB] GameStateOffset: 7ff7ee155990
+2025-04-15 22:56:58.896 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff7eb3aff0f
+2025-04-15 22:56:58.896 +07:00 [INF] PerfTimer =-> Load files from memory (0.0449 ms) Thread #[3]
+2025-04-15 22:56:58.897 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 39.7953 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:56:58.897 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 40.188 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:56:58.897 +07:00 [INF] Pattern: File Root -> : Time: 46.8888 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 22:56:58.897 +07:00 [INF] Pattern scan done: 00:00:00.0469231
+2025-04-15 22:56:58.897 +07:00 [ERR] Game address was 0, procAddress: 7FF7EA3B0000, gameStateOffset: 3DA5990
+2025-04-15 22:56:58.897 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:56:58.897 +07:00 [ERR] Inject -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:57:00.897 +07:00 [INF] PerfTimer =-> Load files from memory (0.1447 ms) Thread #[43]
+2025-04-15 22:57:00.897 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.6942 ms) Thread #[28]
+2025-04-15 22:57:00.908 +07:00 [ERR] System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 22:57:00.908 +07:00 [ERR] Inject -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 22:57:02.896 +07:00 [INF] PerfTimer =-> Load files from memory (0.1307 ms) Thread #[43]
+2025-04-15 22:57:02.897 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.7117 ms) Thread #[51]
+2025-04-15 22:57:04.900 +07:00 [INF] PerfTimer =-> Load files from memory (3.7008 ms) Thread #[38]
+2025-04-15 22:57:06.043 +07:00 [INF] PerfTimer =-> Preload stats and mods (1143.1369 ms) Thread #[38]
+2025-04-15 22:57:06.902 +07:00 [INF] PerfTimer =-> Load files from memory (1.7627 ms) Thread #[21]
+2025-04-15 22:57:08.024 +07:00 [INF] PerfTimer =-> Preload stats and mods (1122.1229 ms) Thread #[50]
+2025-04-15 22:57:08.909 +07:00 [INF] PerfTimer =-> Load files from memory (6.8493 ms) Thread #[29]
+2025-04-15 22:57:09.906 +07:00 [INF] PerfTimer =-> Preload stats and mods (996.6731 ms) Thread #[46]
+2025-04-15 22:57:10.936 +07:00 [INF] PerfTimer =-> Load files from memory (26.9613 ms) Thread #[43]
+2025-04-15 22:57:12.211 +07:00 [INF] PerfTimer =-> Preload stats and mods (1275.1574 ms) Thread #[46]
+2025-04-15 22:57:12.954 +07:00 [INF] PerfTimer =-> Load files from memory (17.9782 ms) Thread #[3]
+2025-04-15 22:57:14.412 +07:00 [INF] PerfTimer =-> Preload stats and mods (1458.4638 ms) Thread #[53]
+2025-04-15 22:57:14.971 +07:00 [INF] PerfTimer =-> Load files from memory (17.8308 ms) Thread #[44]
+2025-04-15 22:57:16.208 +07:00 [INF] PerfTimer =-> Preload stats and mods (1236.5905 ms) Thread #[43]
+2025-04-15 22:57:16.999 +07:00 [INF] PerfTimer =-> Load files from memory (26.1125 ms) Thread #[35]
+2025-04-15 22:57:18.233 +07:00 [INF] PerfTimer =-> Preload stats and mods (1234.7927 ms) Thread #[33]
+2025-04-15 22:57:19.020 +07:00 [INF] PerfTimer =-> Load files from memory (19.6008 ms) Thread #[13]
+2025-04-15 22:57:20.216 +07:00 [INF] PerfTimer =-> Preload stats and mods (1196.7287 ms) Thread #[28]
+2025-04-15 22:57:21.044 +07:00 [INF] PerfTimer =-> Load files from memory (23.0394 ms) Thread #[38]
+2025-04-15 22:57:23.039 +07:00 [INF] PerfTimer =-> Preload stats and mods (1995.6935 ms) Thread #[33]
+2025-04-15 22:57:23.068 +07:00 [INF] PerfTimer =-> Load files from memory (23.8111 ms) Thread #[50]
+2025-04-15 22:57:24.007 +07:00 [INF] PerfTimer =-> Preload stats and mods (938.2049 ms) Thread #[35]
+2025-04-15 22:57:25.103 +07:00 [INF] PerfTimer =-> Load files from memory (32.3614 ms) Thread #[46]
+2025-04-15 22:57:25.103 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.3863 ms) Thread #[11]
+2025-04-15 22:57:27.135 +07:00 [INF] PerfTimer =-> Load files from memory (30.9454 ms) Thread #[35]
+2025-04-15 22:57:27.136 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.6712 ms) Thread #[38]
+2025-04-15 22:57:29.213 +07:00 [INF] PerfTimer =-> Load files from memory (76.4803 ms) Thread #[38]
+2025-04-15 22:57:29.214 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2753 ms) Thread #[51]
+2025-04-15 22:57:31.234 +07:00 [INF] PerfTimer =-> Load files from memory (19.0052 ms) Thread #[11]
+2025-04-15 22:57:31.234 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2542 ms) Thread #[46]
+2025-04-15 22:57:31.259 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:31.259 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:31.259 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:31.259 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:31.259 +07:00 [WRN] 4/15/2025 10:57:31 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:31.259 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:31.430 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:31.549 +07:00 [INF] PerfTimer =-> Compile and load source plugins (315.0306 ms) Thread #[44]
+2025-04-15 22:57:31.554 +07:00 [INF] PerfTimer =-> Plugin loader (320.1234 ms) Thread #[11]
+2025-04-15 22:57:33.063 +07:00 [INF] Plugins from directory DevTree loaded in 19 ms.
+2025-04-15 22:57:33.063 +07:00 [INF] Plugins from directory PluginUpdater loaded in 5 ms.
+2025-04-15 22:57:33.063 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 22:57:33.063 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 22:57:33.063 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 22:57:33.063 +07:00 [ERR] Failed to find a free memory region.
+2025-04-15 22:57:33.063 +07:00 [ERR] WheresMyZoomAt, Onload -> System.ComponentModel.Win32Exception (299): Only part of a ReadProcessMemory or WriteProcessMemory request was completed.
+   at System.Diagnostics.NtProcessManager.EnumProcessModulesUntilSuccess(SafeProcessHandle processHandle, IntPtr[] modules, Int32 size, Int32& needed, Int32 filterFlag)
+   at System.Diagnostics.NtProcessManager.GetModules(Int32 processId, Boolean firstModuleOnly)
+   at System.Diagnostics.Process.get_Modules()
+   at WheresMyZoomAt.WheresMyZoomAt.InitializeProcess() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 133
+   at WheresMyZoomAt.WheresMyZoomAt.OnLoad() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 835
+   at ExileCore2.Shared.PluginWrapper.Onload()
+2025-04-15 22:57:33.063 +07:00 [INF] Plugins compiled and loaded in 299 ms.
+2025-04-15 22:57:33.063 +07:00 [INF] Copilot -> Initialise time: 0.2275 ms.
+2025-04-15 22:57:33.063 +07:00 [INF] PluginUpdater -> Initialise time: 0.2702 ms.
+2025-04-15 22:57:33.063 +07:00 [INF] ReAgent -> Initialise time: 2.2917 ms.
+2025-04-15 22:57:33.063 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0079 ms.
+2025-04-15 22:57:33.348 +07:00 [INF] Pattern: Game State -> : Time: 0.5573 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 22:57:33.348 +07:00 [INF] Pattern: BlackBarSize -> : Time: 0.9039 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 22:57:33.366 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 10.4131 ms. Offset:[0] Started searching offset with:0
+2025-04-15 22:57:33.366 +07:00 [INF] Pattern: Input Mode -> : Time: 11.588 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 22:57:33.366 +07:00 [INF] Pattern: Area change -> : Time: 20.4134 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 22:57:33.384 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 39.1456 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:57:33.384 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 41.6499 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 22:57:33.385 +07:00 [VRB] FileRoot: 7ff7ee281d58
+2025-04-15 22:57:33.385 +07:00 [VRB] AreaChangeCount: 7ff7ed426ec0
+2025-04-15 22:57:33.385 +07:00 [VRB] GameStateOffset: 7ff7ee155990
+2025-04-15 22:57:33.385 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff7eb3aff0f
+2025-04-15 22:57:33.386 +07:00 [INF] PerfTimer =-> Load files from memory (0.3706 ms) Thread #[29]
+2025-04-15 22:57:33.402 +07:00 [INF] Pattern: File Root -> : Time: 43.1637 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 22:57:33.402 +07:00 [INF] Pattern scan done: 00:00:00.0431871
+2025-04-15 22:57:34.413 +07:00 [INF] PerfTimer =-> Preload stats and mods (1027.4252 ms) Thread #[40]
+2025-04-15 22:57:35.388 +07:00 [INF] PerfTimer =-> Load files from memory (1.1154 ms) Thread #[40]
+2025-04-15 22:57:36.436 +07:00 [INF] PerfTimer =-> Preload stats and mods (1047.9728 ms) Thread #[28]
+2025-04-15 22:57:37.391 +07:00 [INF] PerfTimer =-> Load files from memory (2.0287 ms) Thread #[43]
+2025-04-15 22:57:38.434 +07:00 [INF] PerfTimer =-> Preload stats and mods (1043.3115 ms) Thread #[50]
+2025-04-15 22:57:39.393 +07:00 [INF] PerfTimer =-> Load files from memory (2.053 ms) Thread #[33]
+2025-04-15 22:57:40.624 +07:00 [INF] PerfTimer =-> Preload stats and mods (1230.95 ms) Thread #[53]
+2025-04-15 22:57:41.418 +07:00 [INF] PerfTimer =-> Load files from memory (25.6417 ms) Thread #[43]
+2025-04-15 22:57:42.779 +07:00 [INF] PerfTimer =-> Preload stats and mods (1360.4091 ms) Thread #[40]
+2025-04-15 22:57:43.442 +07:00 [INF] PerfTimer =-> Load files from memory (23.4012 ms) Thread #[40]
+2025-04-15 22:57:44.659 +07:00 [INF] PerfTimer =-> Preload stats and mods (1216.4873 ms) Thread #[33]
+2025-04-15 22:57:45.480 +07:00 [INF] PerfTimer =-> Load files from memory (34.3432 ms) Thread #[21]
+2025-04-15 22:57:47.046 +07:00 [INF] PerfTimer =-> Preload stats and mods (1566.1904 ms) Thread #[52]
+2025-04-15 22:57:47.509 +07:00 [INF] PerfTimer =-> Load files from memory (28.0783 ms) Thread #[52]
+2025-04-15 22:57:49.593 +07:00 [INF] PerfTimer =-> Load files from memory (39.7359 ms) Thread #[50]
+2025-04-15 22:57:49.624 +07:00 [INF] PerfTimer =-> Preload stats and mods (2115.2177 ms) Thread #[33]
+2025-04-15 22:57:50.445 +07:00 [INF] PerfTimer =-> Preload stats and mods (852.3504 ms) Thread #[36]
+2025-04-15 22:57:51.620 +07:00 [INF] PerfTimer =-> Load files from memory (27.7459 ms) Thread #[40]
+2025-04-15 22:57:51.621 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2662 ms) Thread #[36]
+2025-04-15 22:57:53.652 +07:00 [INF] PerfTimer =-> Load files from memory (30.3037 ms) Thread #[52]
+2025-04-15 22:57:53.652 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2178 ms) Thread #[28]
+2025-04-15 22:57:55.685 +07:00 [INF] PerfTimer =-> Load files from memory (28.5325 ms) Thread #[40]
+2025-04-15 22:57:55.754 +07:00 [INF] PerfTimer =-> Preload stats and mods (68.8251 ms) Thread #[40]
+2025-04-15 22:57:57.735 +07:00 [INF] PerfTimer =-> Load files from memory (50.0258 ms) Thread #[46]
+2025-04-15 22:57:57.735 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2316 ms) Thread #[53]
+2025-04-15 22:57:59.816 +07:00 [INF] PerfTimer =-> Load files from memory (79.956 ms) Thread #[28]
+2025-04-15 22:57:59.816 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.3673 ms) Thread #[11]
+2025-04-15 22:57:59.846 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:59.846 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:59.847 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:59.847 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:59.847 +07:00 [WRN] 4/15/2025 10:57:59 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 22:57:59.847 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 22:58:00.004 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 22:58:00.132 +07:00 [INF] PerfTimer =-> Compile and load source plugins (315.5632 ms) Thread #[52]
+2025-04-15 22:58:00.134 +07:00 [INF] PerfTimer =-> Plugin loader (317.9517 ms) Thread #[28]
+2025-04-15 22:58:01.868 +07:00 [INF] Plugins from directory DevTree loaded in 24 ms.
+2025-04-15 22:58:01.868 +07:00 [INF] Plugins from directory PluginUpdater loaded in 5 ms.
+2025-04-15 22:58:01.868 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 22:58:01.868 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 22:58:01.868 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 22:58:01.868 +07:00 [ERR] Failed to find a free memory region.
+2025-04-15 22:58:01.868 +07:00 [ERR] WheresMyZoomAt, Onload -> System.ComponentModel.Win32Exception (299): Only part of a ReadProcessMemory or WriteProcessMemory request was completed.
+   at System.Diagnostics.NtProcessManager.EnumProcessModulesUntilSuccess(SafeProcessHandle processHandle, IntPtr[] modules, Int32 size, Int32& needed, Int32 filterFlag)
+   at System.Diagnostics.NtProcessManager.GetModules(Int32 processId, Boolean firstModuleOnly)
+   at System.Diagnostics.Process.get_Modules()
+   at WheresMyZoomAt.WheresMyZoomAt.InitializeProcess() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 133
+   at WheresMyZoomAt.WheresMyZoomAt.OnLoad() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 835
+   at ExileCore2.Shared.PluginWrapper.Onload()
+2025-04-15 22:58:01.868 +07:00 [INF] Plugins compiled and loaded in 308 ms.
+2025-04-15 22:58:01.868 +07:00 [INF] Copilot -> Initialise time: 0.0905 ms.
+2025-04-15 22:58:01.868 +07:00 [INF] PluginUpdater -> Initialise time: 0.2048 ms.
+2025-04-15 22:58:01.868 +07:00 [INF] ReAgent -> Initialise time: 1.0232 ms.
+2025-04-15 22:58:01.868 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0051 ms.
+2025-04-15 22:58:02.120 +07:00 [INF] Game not found
+2025-04-15 22:58:04.126 +07:00 [INF] Game not found
+2025-04-15 22:58:06.139 +07:00 [INF] Game not found
+2025-04-15 22:58:08.149 +07:00 [INF] Game not found
+2025-04-15 22:58:10.178 +07:00 [INF] Game not found
+2025-04-15 22:58:12.184 +07:00 [INF] Game not found
+2025-04-15 22:58:14.201 +07:00 [INF] Game not found
+2025-04-15 22:58:16.206 +07:00 [INF] Game not found
+2025-04-15 22:58:18.234 +07:00 [INF] Game not found
+2025-04-15 22:58:20.252 +07:00 [INF] Game not found
+2025-04-15 22:58:22.257 +07:00 [INF] Game not found
+2025-04-15 22:58:24.266 +07:00 [INF] Game not found
+2025-04-15 22:58:26.273 +07:00 [INF] Game not found
+2025-04-15 22:58:28.276 +07:00 [INF] Game not found
+2025-04-15 22:58:30.274 +07:00 [INF] Game not found
+2025-04-15 22:58:32.301 +07:00 [INF] Game not found
+2025-04-15 22:58:34.301 +07:00 [INF] Game not found
+2025-04-15 22:58:36.310 +07:00 [INF] Game not found
+2025-04-15 22:58:38.313 +07:00 [INF] Game not found
+2025-04-15 22:58:40.318 +07:00 [INF] Game not found
+2025-04-15 22:58:42.337 +07:00 [INF] Game not found
+2025-04-15 22:58:44.336 +07:00 [INF] Game not found
+2025-04-15 22:58:46.355 +07:00 [INF] Game not found
+2025-04-15 22:58:48.362 +07:00 [INF] Game not found
+2025-04-15 22:58:50.370 +07:00 [INF] Game not found
+2025-04-15 22:58:52.383 +07:00 [INF] Game not found
+2025-04-15 22:58:54.384 +07:00 [INF] Game not found
+2025-04-15 22:58:56.392 +07:00 [INF] Game not found
+2025-04-15 22:58:58.406 +07:00 [INF] Game not found
+2025-04-15 22:59:00.430 +07:00 [INF] Game not found
+2025-04-15 22:59:02.443 +07:00 [INF] Game not found
+2025-04-15 22:59:04.442 +07:00 [INF] Game not found
+2025-04-15 22:59:06.452 +07:00 [INF] Game not found
+2025-04-15 22:59:08.462 +07:00 [INF] Game not found
+2025-04-15 22:59:10.468 +07:00 [INF] Game not found
+2025-04-15 22:59:12.471 +07:00 [INF] Game not found
+2025-04-15 22:59:14.491 +07:00 [INF] Game not found
+2025-04-15 22:59:16.492 +07:00 [INF] Game not found
+2025-04-15 22:59:18.504 +07:00 [INF] Game not found
+2025-04-15 22:59:20.518 +07:00 [INF] Game not found
+2025-04-15 22:59:22.513 +07:00 [INF] Game not found
+2025-04-15 22:59:24.520 +07:00 [INF] Game not found
+2025-04-15 22:59:26.546 +07:00 [INF] Game not found
+2025-04-15 22:59:28.544 +07:00 [INF] Game not found
+2025-04-15 22:59:30.564 +07:00 [INF] Game not found
+2025-04-15 22:59:32.562 +07:00 [INF] Game not found
+2025-04-15 22:59:34.573 +07:00 [INF] Game not found
+2025-04-15 22:59:36.596 +07:00 [INF] Game not found
+2025-04-15 22:59:38.605 +07:00 [INF] Game not found
+2025-04-15 22:59:40.598 +07:00 [INF] Game not found
+2025-04-15 22:59:42.618 +07:00 [INF] Game not found
+2025-04-15 22:59:44.616 +07:00 [INF] Game not found
+2025-04-15 22:59:46.626 +07:00 [INF] Game not found
+2025-04-15 22:59:48.635 +07:00 [INF] Game not found
+2025-04-15 22:59:50.646 +07:00 [INF] Game not found
+2025-04-15 22:59:52.654 +07:00 [INF] Game not found
+2025-04-15 22:59:54.652 +07:00 [INF] Game not found
+2025-04-15 22:59:56.654 +07:00 [INF] Game not found
+2025-04-15 22:59:58.667 +07:00 [INF] Game not found
+2025-04-15 23:00:00.684 +07:00 [INF] Game not found
+2025-04-15 23:00:02.694 +07:00 [INF] Game not found
+2025-04-15 23:00:04.716 +07:00 [INF] Game not found
+2025-04-15 23:00:06.726 +07:00 [INF] Game not found
+2025-04-15 23:00:08.738 +07:00 [INF] Game not found
+2025-04-15 23:00:10.752 +07:00 [INF] Game not found
+2025-04-15 23:00:12.764 +07:00 [INF] Game not found
+2025-04-15 23:00:14.788 +07:00 [INF] Game not found
+2025-04-15 23:00:16.797 +07:00 [INF] Game not found
+2025-04-15 23:00:18.798 +07:00 [INF] Game not found
+2025-04-15 23:00:20.809 +07:00 [INF] Game not found
+2025-04-15 23:00:22.821 +07:00 [INF] Game not found
+2025-04-15 23:00:24.843 +07:00 [INF] Game not found
+2025-04-15 23:00:26.847 +07:00 [INF] Game not found
+2025-04-15 23:00:28.878 +07:00 [INF] Game not found
+2025-04-15 23:00:30.875 +07:00 [INF] Game not found
+2025-04-15 23:00:32.904 +07:00 [INF] Game not found
+2025-04-15 23:00:34.922 +07:00 [INF] Game not found
+2025-04-15 23:00:36.921 +07:00 [INF] Game not found
+2025-04-15 23:00:38.961 +07:00 [INF] Game not found
+2025-04-15 23:00:40.981 +07:00 [INF] Game not found
+2025-04-15 23:00:42.985 +07:00 [INF] Game not found
+2025-04-15 23:00:45.008 +07:00 [INF] Game not found
+2025-04-15 23:00:47.010 +07:00 [INF] Game not found
+2025-04-15 23:00:49.027 +07:00 [INF] Game not found
+2025-04-15 23:00:51.034 +07:00 [INF] Game not found
+2025-04-15 23:00:53.073 +07:00 [INF] Pattern: Game State -> : Time: 0.4817 ms. Offset:[933683] Started searching offset with:0
+2025-04-15 23:00:53.073 +07:00 [INF] Pattern: BlackBarSize -> : Time: 0.9602 ms. Offset:[4497559] Started searching offset with:0
+2025-04-15 23:00:53.073 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 9.9153 ms. Offset:[0] Started searching offset with:0
+2025-04-15 23:00:53.091 +07:00 [INF] Pattern: Input Mode -> : Time: 12.4018 ms. Offset:[13452003] Started searching offset with:0
+2025-04-15 23:00:53.091 +07:00 [INF] Pattern: Area change -> : Time: 23.7789 ms. Offset:[13469396] Started searching offset with:0
+2025-04-15 23:00:53.115 +07:00 [VRB] FileRoot: 7ff7ee281d58
+2025-04-15 23:00:53.116 +07:00 [VRB] AreaChangeCount: 7ff7ed426ec0
+2025-04-15 23:00:53.116 +07:00 [VRB] GameStateOffset: 7ff7ee155990
+2025-04-15 23:00:53.116 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff7eb3aff0f
+2025-04-15 23:00:53.116 +07:00 [INF] PerfTimer =-> Load files from memory (0.0766 ms) Thread #[50]
+2025-04-15 23:00:53.127 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 52.8628 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 23:00:53.127 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 53.2508 ms. Offset:[25059695] Started searching offset with:0
+2025-04-15 23:00:53.127 +07:00 [INF] Pattern: File Root -> : Time: 54.5897 ms. Offset:[29474675] Started searching offset with:0
+2025-04-15 23:00:53.127 +07:00 [INF] Pattern scan done: 00:00:00.0546541
+2025-04-15 23:00:53.127 +07:00 [ERR] Game address was 0, procAddress: 7FF7EA3B0000, gameStateOffset: 3DA5990
+2025-04-15 23:00:53.127 +07:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 23:00:53.127 +07:00 [ERR] Inject -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore2.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore2.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore2.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 23:00:55.116 +07:00 [INF] PerfTimer =-> Load files from memory (0.0911 ms) Thread #[13]
+2025-04-15 23:00:57.117 +07:00 [INF] PerfTimer =-> Load files from memory (0.1627 ms) Thread #[50]
+2025-04-15 23:00:57.117 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.3215 ms) Thread #[44]
+2025-04-15 23:00:57.125 +07:00 [ERR] System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+2025-04-15 23:00:57.125 +07:00 [ERR] Inject -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore2.EntityListWrapper..ctor(GameController gameController, CoreSettings settings)
+   at ExileCore2.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings)
+   at ExileCore2.Core.Inject()
+2025-04-15 23:00:59.117 +07:00 [INF] PerfTimer =-> Load files from memory (0.1261 ms) Thread #[31]
+2025-04-15 23:00:59.117 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.2217 ms) Thread #[44]
+2025-04-15 23:01:01.118 +07:00 [INF] PerfTimer =-> Load files from memory (1.1055 ms) Thread #[28]
+2025-04-15 23:01:03.125 +07:00 [INF] PerfTimer =-> Load files from memory (6.9772 ms) Thread #[33]
+2025-04-15 23:01:03.195 +07:00 [INF] PerfTimer =-> Preload stats and mods (2077.0027 ms) Thread #[20]
+2025-04-15 23:01:03.886 +07:00 [INF] PerfTimer =-> Preload stats and mods (759.9179 ms) Thread #[11]
+2025-04-15 23:01:05.127 +07:00 [INF] PerfTimer =-> Load files from memory (0.0958 ms) Thread #[13]
+2025-04-15 23:01:05.128 +07:00 [INF] PerfTimer =-> Preload stats and mods (0.5104 ms) Thread #[51]
+2025-04-15 23:01:05.165 +07:00 [INF] Plugins from directory DevTree loaded in 33 ms.
+2025-04-15 23:01:05.166 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 23:01:05.166 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 23:01:05.167 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-15 23:01:05.167 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-15 23:01:05.167 +07:00 [WRN] 4/15/2025 11:01:05 PM not supported for menu now. Ask developers to add this type.
+2025-04-15 23:01:05.167 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-15 23:01:05.183 +07:00 [INF] Plugins from directory PluginUpdater loaded in 5 ms.
+2025-04-15 23:01:05.350 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-15 23:01:05.474 +07:00 [INF] PerfTimer =-> Compile and load source plugins (345.5261 ms) Thread #[51]
+2025-04-15 23:01:05.476 +07:00 [INF] PerfTimer =-> Plugin loader (348.1636 ms) Thread #[13]
+2025-04-15 23:01:07.069 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\Copilot\Copilot.csproj due to full manifest match
+2025-04-15 23:01:07.069 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\ReAgent\ReAgent.csproj due to full manifest match
+2025-04-15 23:01:07.069 +07:00 [INF] Skipping compilation of D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.csproj due to full manifest match
+2025-04-15 23:01:07.069 +07:00 [ERR] Failed to find a free memory region.
+2025-04-15 23:01:07.069 +07:00 [ERR] WheresMyZoomAt, Onload -> System.ComponentModel.Win32Exception (299): Only part of a ReadProcessMemory or WriteProcessMemory request was completed.
+   at System.Diagnostics.NtProcessManager.EnumProcessModulesUntilSuccess(SafeProcessHandle processHandle, IntPtr[] modules, Int32 size, Int32& needed, Int32 filterFlag)
+   at System.Diagnostics.NtProcessManager.GetModules(Int32 processId, Boolean firstModuleOnly)
+   at System.Diagnostics.Process.get_Modules()
+   at WheresMyZoomAt.WheresMyZoomAt.InitializeProcess() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 133
+   at WheresMyZoomAt.WheresMyZoomAt.OnLoad() in D:\Exclusion\ExileCore2-13\ExileCore2-13\Plugins\Source\WheresMyZoomAt-PoE2\WheresMyZoomAt.cs:line 835
+   at ExileCore2.Shared.PluginWrapper.Onload()
+2025-04-15 23:01:07.069 +07:00 [INF] Plugins compiled and loaded in 337 ms.
+2025-04-15 23:01:07.069 +07:00 [INF] Copilot -> Initialise time: 0.0917 ms.
+2025-04-15 23:01:07.069 +07:00 [INF] PluginUpdater -> Initialise time: 0.1873 ms.
+2025-04-15 23:01:07.069 +07:00 [INF] ReAgent -> Initialise time: 1.0567 ms.
+2025-04-15 23:01:07.069 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.0037 ms.
+2025-04-15 23:01:07.318 +07:00 [INF] Game not found
+2025-04-15 23:01:09.339 +07:00 [INF] Game not found
+2025-04-15 23:01:11.361 +07:00 [INF] Game not found
+2025-04-15 23:01:13.375 +07:00 [INF] Game not found
+2025-04-15 23:01:15.387 +07:00 [INF] Game not found
+2025-04-15 23:01:17.397 +07:00 [INF] Game not found
+2025-04-15 23:01:19.406 +07:00 [INF] Game not found
+2025-04-15 23:01:21.405 +07:00 [INF] Game not found
+2025-04-15 23:01:23.416 +07:00 [INF] Game not found
+2025-04-15 23:01:25.437 +07:00 [INF] Game not found
+2025-04-15 23:01:27.434 +07:00 [INF] Game not found
+2025-04-15 23:01:29.443 +07:00 [INF] Game not found
+2025-04-15 23:01:31.461 +07:00 [INF] Game not found
+2025-04-15 23:01:33.467 +07:00 [INF] Game not found
+2025-04-15 23:01:35.478 +07:00 [INF] Game not found
+2025-04-15 23:01:37.487 +07:00 [INF] Game not found
+2025-04-15 23:01:39.494 +07:00 [INF] Game not found
+2025-04-15 23:01:41.513 +07:00 [INF] Game not found
+2025-04-15 23:01:43.512 +07:00 [INF] Game not found
+2025-04-15 23:01:45.521 +07:00 [INF] Game not found
+2025-04-15 23:01:47.539 +07:00 [INF] Game not found
+2025-04-15 23:01:49.554 +07:00 [INF] Game not found
+2025-04-15 23:01:51.568 +07:00 [INF] Game not found
+2025-04-15 23:01:53.576 +07:00 [INF] Game not found
+2025-04-15 23:01:55.581 +07:00 [INF] Game not found
+2025-04-15 23:01:57.591 +07:00 [INF] Game not found
+2025-04-15 23:01:59.602 +07:00 [INF] Game not found
+2025-04-15 23:02:01.616 +07:00 [INF] Game not found
+2025-04-15 23:02:03.622 +07:00 [INF] Game not found
+2025-04-15 23:02:05.634 +07:00 [INF] Game not found
+2025-04-15 23:02:07.649 +07:00 [INF] Game not found
+2025-04-15 23:02:09.656 +07:00 [INF] Game not found
+2025-04-15 23:02:11.660 +07:00 [INF] Game not found
+2025-04-15 23:02:13.670 +07:00 [INF] Game not found
+2025-04-15 23:02:15.675 +07:00 [INF] Game not found
+2025-04-15 23:02:17.691 +07:00 [INF] Game not found
+2025-04-15 23:02:19.688 +07:00 [INF] Game not found
+2025-04-15 23:02:21.713 +07:00 [INF] Game not found
+2025-04-15 23:02:23.715 +07:00 [INF] Game not found
+2025-04-15 23:02:25.714 +07:00 [INF] Game not found
+2025-04-15 23:02:27.738 +07:00 [INF] Game not found
+2025-04-15 23:02:29.745 +07:00 [INF] Game not found
+2025-04-15 23:02:31.747 +07:00 [INF] Game not found
+2025-04-15 23:02:33.755 +07:00 [INF] Game not found
+2025-04-15 23:02:35.770 +07:00 [INF] Game not found
+2025-04-15 23:02:37.779 +07:00 [INF] Game not found
+2025-04-15 23:02:39.788 +07:00 [INF] Game not found
+2025-04-15 23:02:41.797 +07:00 [INF] Game not found
+2025-04-15 23:02:43.806 +07:00 [INF] Game not found
+2025-04-15 23:02:45.802 +07:00 [INF] Game not found
+2025-04-15 23:02:47.818 +07:00 [INF] Game not found
+2025-04-15 23:02:49.826 +07:00 [INF] Game not found
+2025-04-15 23:02:51.838 +07:00 [INF] Game not found
+2025-04-15 23:02:53.839 +07:00 [INF] Game not found
+2025-04-15 23:02:55.845 +07:00 [INF] Game not found
+2025-04-15 23:02:57.853 +07:00 [INF] Game not found
+2025-04-15 23:02:59.862 +07:00 [INF] Game not found
+2025-04-15 23:03:01.874 +07:00 [INF] Game not found
+2025-04-15 23:03:03.902 +07:00 [INF] Game not found
+2025-04-15 23:03:05.898 +07:00 [INF] Game not found
+2025-04-15 23:03:07.917 +07:00 [INF] Game not found
+2025-04-15 23:03:09.917 +07:00 [INF] Game not found
+2025-04-15 23:03:11.923 +07:00 [INF] Game not found
+2025-04-15 23:03:13.940 +07:00 [INF] Game not found
+2025-04-15 23:03:15.948 +07:00 [INF] Game not found
+2025-04-15 23:03:17.964 +07:00 [INF] Game not found
+2025-04-15 23:03:19.958 +07:00 [INF] Game not found
+2025-04-15 23:03:21.973 +07:00 [INF] Game not found
+2025-04-15 23:03:23.973 +07:00 [INF] Game not found
+2025-04-15 23:03:25.990 +07:00 [INF] Game not found
+2025-04-15 23:03:27.995 +07:00 [INF] Game not found
+2025-04-15 23:03:30.009 +07:00 [INF] Game not found
+2025-04-15 23:03:32.009 +07:00 [INF] Game not found
+2025-04-15 23:03:34.015 +07:00 [INF] Game not found
+2025-04-15 23:03:36.031 +07:00 [INF] Game not found
+2025-04-15 23:03:38.046 +07:00 [INF] Game not found
+2025-04-15 23:03:40.065 +07:00 [INF] Game not found
+2025-04-15 23:03:42.062 +07:00 [INF] Game not found
+2025-04-15 23:03:44.068 +07:00 [INF] Game not found
+2025-04-15 23:03:46.084 +07:00 [INF] Game not found
+2025-04-15 23:03:48.087 +07:00 [INF] Game not found
+2025-04-15 23:03:50.103 +07:00 [INF] Game not found
+2025-04-15 23:03:52.112 +07:00 [INF] Game not found
+2025-04-15 23:03:54.143 +07:00 [INF] Game not found
+2025-04-15 23:03:56.162 +07:00 [INF] Game not found
+2025-04-15 23:03:58.167 +07:00 [INF] Game not found
+2025-04-15 23:04:00.175 +07:00 [INF] Game not found
+2025-04-15 23:04:02.183 +07:00 [INF] Game not found
+2025-04-15 23:04:04.193 +07:00 [INF] Game not found
+2025-04-15 23:04:06.209 +07:00 [INF] Game not found
+2025-04-15 23:04:08.217 +07:00 [INF] Game not found
+2025-04-15 23:04:10.216 +07:00 [INF] Game not found
+2025-04-15 23:04:12.230 +07:00 [INF] Game not found
+2025-04-15 23:04:14.233 +07:00 [INF] Game not found
+2025-04-15 23:04:16.245 +07:00 [INF] Game not found
+2025-04-15 23:04:18.256 +07:00 [INF] Game not found
+2025-04-15 23:04:20.264 +07:00 [INF] Game not found
+2025-04-15 23:04:22.257 +07:00 [INF] Game not found
+2025-04-15 23:04:24.268 +07:00 [INF] Game not found
+2025-04-15 23:04:26.277 +07:00 [INF] Game not found
+2025-04-15 23:04:28.289 +07:00 [INF] Game not found
+2025-04-15 23:04:30.304 +07:00 [INF] Game not found
+2025-04-15 23:04:32.315 +07:00 [INF] Game not found
+2025-04-15 23:04:34.310 +07:00 [INF] Game not found
+2025-04-15 23:04:36.318 +07:00 [INF] Game not found
+2025-04-15 23:04:38.334 +07:00 [INF] Game not found
+2025-04-15 23:04:40.327 +07:00 [INF] Game not found
+2025-04-15 23:04:42.342 +07:00 [INF] Game not found
+2025-04-15 23:04:44.345 +07:00 [INF] Game not found
+2025-04-15 23:04:46.366 +07:00 [INF] Game not found
+2025-04-15 23:04:48.374 +07:00 [INF] Game not found
+2025-04-15 23:04:50.391 +07:00 [INF] Game not found
+2025-04-15 23:04:52.387 +07:00 [INF] Game not found
+2025-04-15 23:04:54.407 +07:00 [INF] Game not found
+2025-04-15 23:04:56.416 +07:00 [INF] Game not found
+2025-04-15 23:04:58.427 +07:00 [INF] Game not found
+2025-04-15 23:05:00.426 +07:00 [INF] Game not found
+2025-04-15 23:05:02.435 +07:00 [INF] Game not found
+2025-04-15 23:05:04.446 +07:00 [INF] Game not found
+2025-04-15 23:05:06.447 +07:00 [INF] Game not found
+2025-04-15 23:05:08.464 +07:00 [INF] Game not found
+2025-04-15 23:05:10.457 +07:00 [INF] Game not found
+2025-04-15 23:05:12.487 +07:00 [INF] Game not found
+2025-04-15 23:05:14.489 +07:00 [INF] Game not found
+2025-04-15 23:05:16.498 +07:00 [INF] Game not found
+2025-04-15 23:05:18.509 +07:00 [INF] Game not found
+2025-04-15 23:05:20.513 +07:00 [INF] Game not found
+2025-04-15 23:05:22.531 +07:00 [INF] Game not found
+2025-04-15 23:05:24.527 +07:00 [INF] Game not found
+2025-04-15 23:05:26.541 +07:00 [INF] Game not found
+2025-04-15 23:05:28.556 +07:00 [INF] Game not found
+2025-04-15 23:05:30.565 +07:00 [INF] Game not found
+2025-04-15 23:05:32.578 +07:00 [INF] Game not found
+2025-04-15 23:05:34.582 +07:00 [INF] Game not found
+2025-04-15 23:05:36.590 +07:00 [INF] Game not found
+2025-04-15 23:05:38.606 +07:00 [INF] Game not found
+2025-04-15 23:05:40.606 +07:00 [INF] Game not found
+2025-04-15 23:05:42.615 +07:00 [INF] Game not found
+2025-04-15 23:05:44.631 +07:00 [INF] Game not found
+2025-04-15 23:05:46.630 +07:00 [INF] Game not found
+2025-04-15 23:05:48.656 +07:00 [INF] Game not found
+2025-04-15 23:05:50.649 +07:00 [INF] Game not found
+2025-04-15 23:05:52.676 +07:00 [INF] Game not found
+2025-04-15 23:05:54.684 +07:00 [INF] Game not found
+2025-04-15 23:05:56.689 +07:00 [INF] Game not found
+2025-04-15 23:05:58.696 +07:00 [INF] Game not found
+2025-04-15 23:06:00.716 +07:00 [INF] Game not found
+2025-04-15 23:06:02.716 +07:00 [INF] Game not found
+2025-04-15 23:06:04.734 +07:00 [INF] Game not found
+2025-04-15 23:06:06.746 +07:00 [INF] Game not found
+2025-04-15 23:06:08.755 +07:00 [INF] Game not found
+2025-04-15 23:06:10.756 +07:00 [INF] Game not found
+2025-04-15 23:06:12.775 +07:00 [INF] Game not found
+2025-04-15 23:06:14.773 +07:00 [INF] Game not found
+2025-04-15 23:06:16.777 +07:00 [INF] Game not found
+2025-04-15 23:06:18.800 +07:00 [INF] Game not found
+2025-04-15 23:06:20.804 +07:00 [INF] Game not found
+2025-04-15 23:06:22.810 +07:00 [INF] Game not found
+2025-04-15 23:06:24.828 +07:00 [INF] Game not found
+2025-04-15 23:06:26.831 +07:00 [INF] Game not found
+2025-04-15 23:06:28.847 +07:00 [INF] Game not found
+2025-04-15 23:06:30.855 +07:00 [INF] Game not found
+2025-04-15 23:06:32.868 +07:00 [INF] Game not found
+2025-04-15 23:06:34.877 +07:00 [INF] Game not found
+2025-04-15 23:06:36.882 +07:00 [INF] Game not found
+2025-04-15 23:06:38.881 +07:00 [INF] Game not found
+2025-04-15 23:06:40.898 +07:00 [INF] Game not found
+2025-04-15 23:06:42.912 +07:00 [INF] Game not found
+2025-04-15 23:06:44.924 +07:00 [INF] Game not found
+2025-04-15 23:06:46.933 +07:00 [INF] Game not found
+2025-04-15 23:06:48.929 +07:00 [INF] Game not found
+2025-04-15 23:06:50.940 +07:00 [INF] Game not found
+2025-04-15 23:06:52.955 +07:00 [INF] Game not found
+2025-04-15 23:06:54.966 +07:00 [INF] Game not found
+2025-04-15 23:06:56.972 +07:00 [INF] Game not found
+2025-04-15 23:06:58.992 +07:00 [INF] Game not found
+2025-04-15 23:07:01.001 +07:00 [INF] Game not found
+2025-04-15 23:07:02.999 +07:00 [INF] Game not found
+2025-04-15 23:07:05.005 +07:00 [INF] Game not found
+2025-04-15 23:07:07.026 +07:00 [INF] Game not found
+2025-04-15 23:07:09.024 +07:00 [INF] Game not found
+2025-04-15 23:07:11.046 +07:00 [INF] Game not found
+2025-04-15 23:07:13.045 +07:00 [INF] Game not found
+2025-04-15 23:07:15.053 +07:00 [INF] Game not found
+2025-04-15 23:07:17.066 +07:00 [INF] Game not found
+2025-04-15 23:07:19.071 +07:00 [INF] Game not found
+2025-04-15 23:07:21.078 +07:00 [INF] Game not found
+2025-04-15 23:07:23.087 +07:00 [INF] Game not found
+2025-04-15 23:07:25.093 +07:00 [INF] Game not found
+2025-04-15 23:07:27.114 +07:00 [INF] Game not found
+2025-04-15 23:07:29.125 +07:00 [INF] Game not found
+2025-04-15 23:07:31.127 +07:00 [INF] Game not found
+2025-04-15 23:07:33.141 +07:00 [INF] Game not found
+2025-04-15 23:07:35.142 +07:00 [INF] Game not found
+2025-04-15 23:07:37.147 +07:00 [INF] Game not found
+2025-04-15 23:07:39.161 +07:00 [INF] Game not found
+2025-04-15 23:07:41.165 +07:00 [INF] Game not found
+2025-04-15 23:07:43.178 +07:00 [INF] Game not found
+2025-04-15 23:07:45.186 +07:00 [INF] Game not found
+2025-04-15 23:07:47.189 +07:00 [INF] Game not found
+2025-04-15 23:07:49.210 +07:00 [INF] Game not found
+2025-04-15 23:07:51.214 +07:00 [INF] Game not found
+2025-04-15 23:07:53.212 +07:00 [INF] Game not found
+2025-04-15 23:07:55.231 +07:00 [INF] Game not found
+2025-04-15 23:07:57.230 +07:00 [INF] Game not found
+2025-04-15 23:07:59.245 +07:00 [INF] Game not found
+2025-04-15 23:08:01.250 +07:00 [INF] Game not found
+2025-04-15 23:08:03.268 +07:00 [INF] Game not found
+2025-04-15 23:08:05.277 +07:00 [INF] Game not found
+2025-04-15 23:08:07.279 +07:00 [INF] Game not found
+2025-04-15 23:08:09.283 +07:00 [INF] Game not found
+2025-04-15 23:08:11.302 +07:00 [INF] Game not found
+2025-04-15 23:08:13.306 +07:00 [INF] Game not found
+2025-04-15 23:08:15.323 +07:00 [INF] Game not found
+2025-04-15 23:08:17.319 +07:00 [INF] Game not found
+2025-04-15 23:08:19.334 +07:00 [INF] Game not found
+2025-04-15 23:08:21.349 +07:00 [INF] Game not found
+2025-04-15 23:08:23.354 +07:00 [INF] Game not found
+2025-04-15 23:08:25.353 +07:00 [INF] Game not found
+2025-04-15 23:08:27.359 +07:00 [INF] Game not found
+2025-04-15 23:08:29.370 +07:00 [INF] Game not found
+2025-04-15 23:08:31.378 +07:00 [INF] Game not found
+2025-04-15 23:08:33.399 +07:00 [INF] Game not found
+2025-04-15 23:08:35.406 +07:00 [INF] Game not found
+2025-04-15 23:08:37.404 +07:00 [INF] Game not found
+2025-04-15 23:08:39.415 +07:00 [INF] Game not found
+2025-04-15 23:08:41.423 +07:00 [INF] Game not found
+2025-04-15 23:08:43.440 +07:00 [INF] Game not found
+2025-04-15 23:08:45.442 +07:00 [INF] Game not found
+2025-04-15 23:08:47.446 +07:00 [INF] Game not found
+2025-04-15 23:08:49.468 +07:00 [INF] Game not found
+2025-04-15 23:08:51.467 +07:00 [INF] Game not found
+2025-04-15 23:08:53.482 +07:00 [INF] Game not found
+2025-04-15 23:08:55.498 +07:00 [INF] Game not found
+2025-04-15 23:08:57.495 +07:00 [INF] Game not found
+2025-04-15 23:08:59.513 +07:00 [INF] Game not found
+2025-04-15 23:09:01.513 +07:00 [INF] Game not found
+2025-04-15 23:09:03.517 +07:00 [INF] Game not found
+2025-04-15 23:09:05.539 +07:00 [INF] Game not found
+2025-04-15 23:09:07.548 +07:00 [INF] Game not found
+2025-04-15 23:09:09.554 +07:00 [INF] Game not found
+2025-04-15 23:09:11.567 +07:00 [INF] Game not found
+2025-04-15 23:09:13.603 +07:00 [INF] Game not found
+2025-04-15 23:09:15.604 +07:00 [INF] Game not found
+2025-04-15 23:09:17.626 +07:00 [INF] Game not found
+2025-04-15 23:09:19.647 +07:00 [INF] Game not found
+2025-04-15 23:09:21.658 +07:00 [INF] Game not found
+2025-04-15 23:09:23.693 +07:00 [INF] Game not found
+2025-04-15 23:09:25.696 +07:00 [INF] Game not found
+2025-04-15 23:09:27.716 +07:00 [INF] Game not found
+2025-04-15 23:09:29.732 +07:00 [INF] Game not found
+2025-04-15 23:09:31.758 +07:00 [INF] Game not found
+2025-04-15 23:09:33.781 +07:00 [INF] Game not found
+2025-04-15 23:09:35.796 +07:00 [INF] Game not found
+2025-04-15 23:09:37.820 +07:00 [INF] Game not found
+2025-04-15 23:09:39.816 +07:00 [INF] Game not found
+2025-04-15 23:09:41.838 +07:00 [INF] Game not found
+2025-04-15 23:09:43.842 +07:00 [INF] Game not found
+2025-04-15 23:09:45.853 +07:00 [INF] Game not found
+2025-04-15 23:09:47.875 +07:00 [INF] Game not found
+2025-04-15 23:09:49.896 +07:00 [INF] Game not found
+2025-04-15 23:09:51.920 +07:00 [INF] Game not found
+2025-04-15 23:09:53.924 +07:00 [INF] Game not found
+2025-04-15 23:09:55.933 +07:00 [INF] Game not found
+2025-04-15 23:09:57.931 +07:00 [INF] Game not found
+2025-04-15 23:09:59.935 +07:00 [INF] Game not found
+2025-04-15 23:10:01.950 +07:00 [INF] Game not found
+2025-04-15 23:10:03.965 +07:00 [INF] Game not found
+2025-04-15 23:10:05.967 +07:00 [INF] Game not found
+2025-04-15 23:10:07.980 +07:00 [INF] Game not found
+2025-04-15 23:10:09.978 +07:00 [INF] Game not found
+2025-04-15 23:10:11.996 +07:00 [INF] Game not found
+2025-04-15 23:10:14.005 +07:00 [INF] Game not found
+2025-04-15 23:10:16.004 +07:00 [INF] Game not found
+2025-04-15 23:10:18.012 +07:00 [INF] Game not found
+2025-04-15 23:10:20.018 +07:00 [INF] Game not found
+2025-04-15 23:10:22.034 +07:00 [INF] Game not found
+2025-04-15 23:10:24.038 +07:00 [INF] Game not found
+2025-04-15 23:10:26.046 +07:00 [INF] Game not found
+2025-04-15 23:10:28.052 +07:00 [INF] Game not found
+2025-04-15 23:10:30.058 +07:00 [INF] Game not found
+2025-04-15 23:10:32.067 +07:00 [INF] Game not found
+2025-04-15 23:10:34.076 +07:00 [INF] Game not found
+2025-04-15 23:10:36.091 +07:00 [INF] Game not found
+2025-04-15 23:10:38.102 +07:00 [INF] Game not found
+2025-04-15 23:10:40.100 +07:00 [INF] Game not found
+2025-04-15 23:10:42.115 +07:00 [INF] Game not found
+2025-04-15 23:10:44.127 +07:00 [INF] Game not found
+2025-04-15 23:10:46.125 +07:00 [INF] Game not found
+2025-04-15 23:10:48.129 +07:00 [INF] Game not found
+2025-04-15 23:10:50.143 +07:00 [INF] Game not found
+2025-04-15 23:10:52.152 +07:00 [INF] Game not found
+2025-04-15 23:10:54.159 +07:00 [INF] Game not found
+2025-04-15 23:10:56.172 +07:00 [INF] Game not found
+2025-04-15 23:10:58.176 +07:00 [INF] Game not found
+2025-04-15 23:11:00.180 +07:00 [INF] Game not found
+2025-04-15 23:11:02.202 +07:00 [INF] Game not found
+2025-04-15 23:11:04.208 +07:00 [INF] Game not found
+2025-04-15 23:11:06.212 +07:00 [INF] Game not found
+2025-04-15 23:11:08.216 +07:00 [INF] Game not found
+2025-04-15 23:11:10.230 +07:00 [INF] Game not found
+2025-04-15 23:11:12.235 +07:00 [INF] Game not found
+2025-04-15 23:11:14.247 +07:00 [INF] Game not found
+2025-04-15 23:11:16.251 +07:00 [INF] Game not found
+2025-04-15 23:11:18.263 +07:00 [INF] Game not found
+2025-04-15 23:11:20.267 +07:00 [INF] Game not found
+2025-04-15 23:11:22.288 +07:00 [INF] Game not found
+2025-04-15 23:11:24.294 +07:00 [INF] Game not found
+2025-04-15 23:11:26.308 +07:00 [INF] Game not found
+2025-04-15 23:11:28.300 +07:00 [INF] Game not found
+2025-04-15 23:11:30.313 +07:00 [INF] Game not found
+2025-04-15 23:11:32.317 +07:00 [INF] Game not found
+2025-04-15 23:11:34.325 +07:00 [INF] Game not found
+2025-04-15 23:11:36.333 +07:00 [INF] Game not found
+2025-04-15 23:11:38.344 +07:00 [INF] Game not found
+2025-04-15 23:11:40.354 +07:00 [INF] Game not found
+2025-04-15 23:11:42.372 +07:00 [INF] Game not found
+2025-04-15 23:11:44.384 +07:00 [INF] Game not found
+2025-04-15 23:11:46.392 +07:00 [INF] Game not found
+2025-04-15 23:11:48.409 +07:00 [INF] Game not found
+2025-04-15 23:11:50.443 +07:00 [INF] Game not found
+2025-04-15 23:11:52.468 +07:00 [INF] Game not found
+2025-04-15 23:11:54.470 +07:00 [INF] Game not found
+2025-04-15 23:11:56.482 +07:00 [INF] Game not found
+2025-04-15 23:11:58.484 +07:00 [INF] Game not found
+2025-04-15 23:12:00.495 +07:00 [INF] Game not found
+2025-04-15 23:12:02.500 +07:00 [INF] Game not found
+2025-04-15 23:12:04.514 +07:00 [INF] Game not found
+2025-04-15 23:12:06.526 +07:00 [INF] Game not found
+2025-04-15 23:12:08.540 +07:00 [INF] Game not found
+2025-04-15 23:12:10.547 +07:00 [INF] Game not found
+2025-04-15 23:12:12.541 +07:00 [INF] Game not found
+2025-04-15 23:12:14.560 +07:00 [INF] Game not found
+2025-04-15 23:12:16.561 +07:00 [INF] Game not found
+2025-04-15 23:12:18.576 +07:00 [INF] Game not found
+2025-04-15 23:12:20.589 +07:00 [INF] Game not found
+2025-04-15 23:12:22.597 +07:00 [INF] Game not found
+2025-04-15 23:12:24.614 +07:00 [INF] Game not found
+2025-04-15 23:12:26.616 +07:00 [INF] Game not found
+2025-04-15 23:12:28.620 +07:00 [INF] Game not found
+2025-04-15 23:12:30.627 +07:00 [INF] Game not found
+2025-04-15 23:12:32.640 +07:00 [INF] Game not found
+2025-04-15 23:12:34.658 +07:00 [INF] Game not found
+2025-04-15 23:12:36.660 +07:00 [INF] Game not found
+2025-04-15 23:12:38.671 +07:00 [INF] Game not found
+2025-04-15 23:12:40.678 +07:00 [INF] Game not found
+2025-04-15 23:12:42.693 +07:00 [INF] Game not found
+2025-04-15 23:12:44.701 +07:00 [INF] Game not found
+2025-04-15 23:12:46.709 +07:00 [INF] Game not found
+2025-04-15 23:12:48.724 +07:00 [INF] Game not found
+2025-04-15 23:12:50.723 +07:00 [INF] Game not found
+2025-04-15 23:12:52.726 +07:00 [INF] Game not found
+2025-04-15 23:12:54.750 +07:00 [INF] Game not found
+2025-04-15 23:12:56.749 +07:00 [INF] Game not found
+2025-04-15 23:12:58.758 +07:00 [INF] Game not found
+2025-04-15 23:13:00.782 +07:00 [INF] Game not found
+2025-04-15 23:13:02.790 +07:00 [INF] Game not found
+2025-04-15 23:13:04.798 +07:00 [INF] Game not found
+2025-04-15 23:13:06.804 +07:00 [INF] Game not found
+2025-04-15 23:13:08.812 +07:00 [INF] Game not found
+2025-04-15 23:13:10.816 +07:00 [INF] Game not found
+2025-04-15 23:13:12.825 +07:00 [INF] Game not found
+2025-04-15 23:13:14.834 +07:00 [INF] Game not found
+2025-04-15 23:13:16.844 +07:00 [INF] Game not found
+2025-04-15 23:13:18.849 +07:00 [INF] Game not found
+2025-04-15 23:13:20.867 +07:00 [INF] Game not found
+2025-04-15 23:13:22.863 +07:00 [INF] Game not found
+2025-04-15 23:13:24.887 +07:00 [INF] Game not found
+2025-04-15 23:13:26.900 +07:00 [INF] Game not found
+2025-04-15 23:13:28.901 +07:00 [INF] Game not found
+2025-04-15 23:13:30.920 +07:00 [INF] Game not found
+2025-04-15 23:13:32.927 +07:00 [INF] Game not found
+2025-04-15 23:13:34.939 +07:00 [INF] Game not found
+2025-04-15 23:13:36.959 +07:00 [INF] Game not found
+2025-04-15 23:13:38.984 +07:00 [INF] Game not found
+2025-04-15 23:13:40.993 +07:00 [INF] Game not found
+2025-04-15 23:13:43.034 +07:00 [INF] Game not found
+2025-04-15 23:13:45.043 +07:00 [INF] Game not found
+2025-04-15 23:13:47.070 +07:00 [INF] Game not found
+2025-04-15 23:13:49.089 +07:00 [INF] Game not found
+2025-04-15 23:13:51.107 +07:00 [INF] Game not found
+2025-04-15 23:13:53.127 +07:00 [INF] Game not found
+2025-04-15 23:13:55.151 +07:00 [INF] Game not found
+2025-04-15 23:13:57.170 +07:00 [INF] Game not found
+2025-04-15 23:13:59.179 +07:00 [INF] Game not found
+2025-04-15 23:14:01.202 +07:00 [INF] Game not found
+2025-04-15 23:14:03.214 +07:00 [INF] Game not found
+2025-04-15 23:14:05.240 +07:00 [INF] Game not found
+2025-04-15 23:14:07.255 +07:00 [INF] Game not found
+2025-04-15 23:14:09.276 +07:00 [INF] Game not found
+2025-04-15 23:14:11.280 +07:00 [INF] Game not found
+2025-04-15 23:14:13.287 +07:00 [INF] Game not found
+2025-04-15 23:14:15.314 +07:00 [INF] Game not found
+2025-04-15 23:14:17.327 +07:00 [INF] Game not found
+2025-04-15 23:14:19.319 +07:00 [INF] Game not found
+2025-04-15 23:14:21.337 +07:00 [INF] Game not found
+2025-04-15 23:14:23.350 +07:00 [INF] Game not found
+2025-04-15 23:14:25.341 +07:00 [INF] Game not found
+2025-04-15 23:14:27.350 +07:00 [INF] Game not found
+2025-04-15 23:14:29.362 +07:00 [INF] Game not found
+2025-04-15 23:14:31.373 +07:00 [INF] Game not found
+2025-04-15 23:14:33.403 +07:00 [INF] Game not found
+2025-04-15 23:14:35.431 +07:00 [INF] Game not found
+2025-04-15 23:14:37.425 +07:00 [INF] Game not found
+2025-04-15 23:14:39.434 +07:00 [INF] Game not found
+2025-04-15 23:14:41.441 +07:00 [INF] Game not found
+2025-04-15 23:14:43.449 +07:00 [INF] Game not found
+2025-04-15 23:14:45.475 +07:00 [INF] Game not found
+2025-04-15 23:14:47.483 +07:00 [INF] Game not found
+2025-04-15 23:14:49.492 +07:00 [INF] Game not found
+2025-04-15 23:14:51.505 +07:00 [INF] Game not found
+2025-04-15 23:14:53.546 +07:00 [INF] Game not found
+2025-04-15 23:14:55.550 +07:00 [INF] Game not found
+2025-04-15 23:14:57.562 +07:00 [INF] Game not found
+2025-04-15 23:14:59.563 +07:00 [INF] Game not found
+2025-04-15 23:15:01.573 +07:00 [INF] Game not found
+2025-04-15 23:15:03.590 +07:00 [INF] Game not found
+2025-04-15 23:15:05.602 +07:00 [INF] Game not found
+2025-04-15 23:15:07.614 +07:00 [INF] Game not found
+2025-04-15 23:15:09.633 +07:00 [INF] Game not found
+2025-04-15 23:15:11.639 +07:00 [INF] Game not found
+2025-04-15 23:15:13.644 +07:00 [INF] Game not found
+2025-04-15 23:15:15.666 +07:00 [INF] Game not found
+2025-04-15 23:15:17.674 +07:00 [INF] Game not found
+2025-04-15 23:15:19.674 +07:00 [INF] Game not found
+2025-04-15 23:15:21.685 +07:00 [INF] Game not found
+2025-04-15 23:15:23.706 +07:00 [INF] Game not found
+2025-04-15 23:15:25.715 +07:00 [INF] Game not found
+2025-04-15 23:15:27.718 +07:00 [INF] Game not found
+2025-04-15 23:15:29.738 +07:00 [INF] Game not found
+2025-04-15 23:15:31.749 +07:00 [INF] Game not found
+2025-04-15 23:15:33.743 +07:00 [INF] Game not found
+2025-04-15 23:15:35.764 +07:00 [INF] Game not found
+2025-04-15 23:15:37.774 +07:00 [INF] Game not found
+2025-04-15 23:15:39.783 +07:00 [INF] Game not found
+2025-04-15 23:15:41.791 +07:00 [INF] Game not found
+2025-04-15 23:15:43.802 +07:00 [INF] Game not found
+2025-04-15 23:15:45.801 +07:00 [INF] Game not found
+2025-04-15 23:15:47.820 +07:00 [INF] Game not found
+2025-04-15 23:15:49.828 +07:00 [INF] Game not found
+2025-04-15 23:15:51.825 +07:00 [INF] Game not found
+2025-04-15 23:15:53.845 +07:00 [INF] Game not found
+2025-04-15 23:15:55.858 +07:00 [INF] Game not found
+2025-04-15 23:15:57.859 +07:00 [INF] Game not found
+2025-04-15 23:15:59.877 +07:00 [INF] Game not found
+2025-04-15 23:16:01.885 +07:00 [INF] Game not found
+2025-04-15 23:16:03.883 +07:00 [INF] Game not found
+2025-04-15 23:16:05.900 +07:00 [INF] Game not found
+2025-04-15 23:16:07.909 +07:00 [INF] Game not found
+2025-04-15 23:16:09.917 +07:00 [INF] Game not found
+2025-04-15 23:16:11.928 +07:00 [INF] Game not found
+2025-04-15 23:16:13.933 +07:00 [INF] Game not found
+2025-04-15 23:16:15.948 +07:00 [INF] Game not found
+2025-04-15 23:16:17.948 +07:00 [INF] Game not found
+2025-04-15 23:16:19.964 +07:00 [INF] Game not found
+2025-04-15 23:16:21.964 +07:00 [INF] Game not found
+2025-04-15 23:16:23.976 +07:00 [INF] Game not found
+2025-04-15 23:16:25.995 +07:00 [INF] Game not found
+2025-04-15 23:16:28.000 +07:00 [INF] Game not found
+2025-04-15 23:16:30.008 +07:00 [INF] Game not found
+2025-04-15 23:16:32.013 +07:00 [INF] Game not found
+2025-04-15 23:16:34.018 +07:00 [INF] Game not found
+2025-04-15 23:16:36.037 +07:00 [INF] Game not found
+2025-04-15 23:16:38.048 +07:00 [INF] Game not found
+2025-04-15 23:16:40.048 +07:00 [INF] Game not found
+2025-04-15 23:16:42.060 +07:00 [INF] Game not found
+2025-04-15 23:16:44.076 +07:00 [INF] Game not found
+2025-04-15 23:16:46.082 +07:00 [INF] Game not found
+2025-04-15 23:16:48.097 +07:00 [INF] Game not found
+2025-04-15 23:16:50.108 +07:00 [INF] Game not found
+2025-04-15 23:16:52.104 +07:00 [INF] Game not found
+2025-04-15 23:16:54.125 +07:00 [INF] Game not found
+2025-04-15 23:16:56.129 +07:00 [INF] Game not found
+2025-04-15 23:16:58.129 +07:00 [INF] Game not found
+2025-04-15 23:17:00.143 +07:00 [INF] Game not found
+2025-04-15 23:17:02.160 +07:00 [INF] Game not found
+2025-04-15 23:17:04.157 +07:00 [INF] Game not found
+2025-04-15 23:17:06.174 +07:00 [INF] Game not found
+2025-04-15 23:17:08.181 +07:00 [INF] Game not found
+2025-04-15 23:17:10.184 +07:00 [INF] Game not found
+2025-04-15 23:17:12.202 +07:00 [INF] Game not found
+2025-04-15 23:17:14.201 +07:00 [INF] Game not found
+2025-04-15 23:17:16.220 +07:00 [INF] Game not found
+2025-04-15 23:17:18.217 +07:00 [INF] Game not found
+2025-04-15 23:17:20.238 +07:00 [INF] Game not found
+2025-04-15 23:17:22.241 +07:00 [INF] Game not found
+2025-04-15 23:17:24.254 +07:00 [INF] Game not found
+2025-04-15 23:17:26.272 +07:00 [INF] Game not found
+2025-04-15 23:17:28.270 +07:00 [INF] Game not found
+2025-04-15 23:17:30.287 +07:00 [INF] Game not found
+2025-04-15 23:17:32.297 +07:00 [INF] Game not found
+2025-04-15 23:17:34.294 +07:00 [INF] Game not found
+2025-04-15 23:17:36.306 +07:00 [INF] Game not found
+2025-04-15 23:17:38.322 +07:00 [INF] Game not found
+2025-04-15 23:17:40.324 +07:00 [INF] Game not found
+2025-04-15 23:17:42.338 +07:00 [INF] Game not found
+2025-04-15 23:17:44.347 +07:00 [INF] Game not found
+2025-04-15 23:17:46.357 +07:00 [INF] Game not found
+2025-04-15 23:17:48.354 +07:00 [INF] Game not found
+2025-04-15 23:17:50.364 +07:00 [INF] Game not found
+2025-04-15 23:17:52.373 +07:00 [INF] Game not found
+2025-04-15 23:17:54.398 +07:00 [INF] Game not found
+2025-04-15 23:17:56.409 +07:00 [INF] Game not found
+2025-04-15 23:17:58.432 +07:00 [INF] Game not found
+2025-04-15 23:18:00.449 +07:00 [INF] Game not found
+2025-04-15 23:18:02.472 +07:00 [INF] Game not found
+2025-04-15 23:18:04.503 +07:00 [INF] Game not found
+2025-04-15 23:18:06.511 +07:00 [INF] Game not found
+2025-04-15 23:18:08.512 +07:00 [INF] Game not found
+2025-04-15 23:18:10.521 +07:00 [INF] Game not found
+2025-04-15 23:18:12.541 +07:00 [INF] Game not found
+2025-04-15 23:18:14.542 +07:00 [INF] Game not found
+2025-04-15 23:18:16.554 +07:00 [INF] Game not found
+2025-04-15 23:18:18.568 +07:00 [INF] Game not found
+2025-04-15 23:18:20.580 +07:00 [INF] Game not found
+2025-04-15 23:18:22.590 +07:00 [INF] Game not found
+2025-04-15 23:18:24.589 +07:00 [INF] Game not found
+2025-04-15 23:18:26.595 +07:00 [INF] Game not found
+2025-04-15 23:18:28.606 +07:00 [INF] Game not found
+2025-04-15 23:18:30.617 +07:00 [INF] Game not found
+2025-04-15 23:18:32.623 +07:00 [INF] Game not found
+2025-04-15 23:18:34.627 +07:00 [INF] Game not found
+2025-04-15 23:18:36.633 +07:00 [INF] Game not found
+2025-04-15 23:18:38.651 +07:00 [INF] Game not found
+2025-04-15 23:18:40.652 +07:00 [INF] Game not found
+2025-04-15 23:18:42.673 +07:00 [INF] Game not found
+2025-04-15 23:18:44.671 +07:00 [INF] Game not found
+2025-04-15 23:18:46.688 +07:00 [INF] Game not found
+2025-04-15 23:18:48.684 +07:00 [INF] Game not found
+2025-04-15 23:18:50.699 +07:00 [INF] Game not found
+2025-04-15 23:18:52.719 +07:00 [INF] Game not found
+2025-04-15 23:18:54.715 +07:00 [INF] Game not found
+2025-04-15 23:18:56.733 +07:00 [INF] Game not found
+2025-04-15 23:18:58.731 +07:00 [INF] Game not found
+2025-04-15 23:19:00.750 +07:00 [INF] Game not found
+2025-04-15 23:19:02.762 +07:00 [INF] Game not found
+2025-04-15 23:19:04.752 +07:00 [INF] Game not found
+2025-04-15 23:19:06.775 +07:00 [INF] Game not found
+2025-04-15 23:19:08.784 +07:00 [INF] Game not found
+2025-04-15 23:19:10.790 +07:00 [INF] Game not found
+2025-04-15 23:19:12.795 +07:00 [INF] Game not found

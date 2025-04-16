@@ -1,0 +1,57 @@
+2025-04-16 14:15:42.871 +07:00 [INF] =============== Start ExileCore2 at 4/16/2025 2:15:42 PM ===============
+2025-04-16 14:15:43.583 +07:00 [INF] PerfTimer =-> Load manual fonts (0.5719 ms) Thread #[1]
+2025-04-16 14:15:43.583 +07:00 [INF] PerfTimer =-> DX11 Load (3.2888 ms) Thread #[1]
+2025-04-16 14:15:43.900 +07:00 [INF] ExileCore2 Loaded in 1162.6365 ms.
+2025-04-16 14:15:43.922 +07:00 [INF] Pattern: BlackBarSize -> : Time: 3.6667 ms. Offset:[4510119] Started searching offset with:0
+2025-04-16 14:15:43.923 +07:00 [INF] Pattern: Game State -> : Time: 4.3052 ms. Offset:[933971] Started searching offset with:0
+2025-04-16 14:15:43.940 +07:00 [INF] Pattern: Input Mode -> : Time: 17.1037 ms. Offset:[13521491] Started searching offset with:0
+2025-04-16 14:15:43.958 +07:00 [INF] Pattern: Area change -> : Time: 30.0469 ms. Offset:[13538884] Started searching offset with:0
+2025-04-16 14:15:43.958 +07:00 [INF] Pattern: DiagnosticInfoType -> : Time: 30.2417 ms. Offset:[0] Started searching offset with:0
+2025-04-16 14:15:43.958 +07:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 44.8649 ms. Offset:[25111823] Started searching offset with:0
+2025-04-16 14:15:43.958 +07:00 [INF] Pattern: File Root -> : Time: 44.9249 ms. Offset:[29531523] Started searching offset with:0
+2025-04-16 14:15:43.965 +07:00 [VRB] FileRoot: 7ff60b815ef0
+2025-04-16 14:15:43.965 +07:00 [VRB] AreaChangeCount: 7ff60a9baec0
+2025-04-16 14:15:43.965 +07:00 [VRB] GameStateOffset: 7ff60b6e9ad0
+2025-04-16 14:15:43.966 +07:00 [VRB] DiagnosticInfoTypeOffset: 7ff60892ff0f
+2025-04-16 14:15:43.976 +07:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 47.866 ms. Offset:[25111823] Started searching offset with:0
+2025-04-16 14:15:43.976 +07:00 [INF] Pattern scan done: 00:00:00.0527577
+2025-04-16 14:15:44.065 +07:00 [INF] PerfTimer =-> Load files from memory (57.038 ms) Thread #[6]
+2025-04-16 14:15:44.080 +07:00 [INF] Area refresh triggered
+2025-04-16 14:15:44.112 +07:00 [INF] Plugins from directory DevTree loaded in 29 ms.
+2025-04-16 14:15:44.116 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-16 14:15:44.116 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-16 14:15:44.116 +07:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-04-16 14:15:44.116 +07:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-04-16 14:15:44.116 +07:00 [WRN] 4/16/2025 2:15:44 PM not supported for menu now. Ask developers to add this type.
+2025-04-16 14:15:44.116 +07:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-04-16 14:15:44.132 +07:00 [INF] Plugins from directory PluginUpdater loaded in 6 ms.
+2025-04-16 14:15:44.586 +07:00 [INF] PerfTimer =-> Preload stats and mods (520.2631 ms) Thread #[14]
+2025-04-16 14:16:20.658 +07:00 [WRN] System.String[] not supported for menu now. Ask developers to add this type.
+2025-04-16 14:16:20.748 +07:00 [INF] Found free memory region at: 7FF607920000
+2025-04-16 14:16:20.803 +07:00 [INF] Plugins compiled and loaded in 36680 ms.
+2025-04-16 14:16:20.868 +07:00 [INF] PerfTimer =-> Compile and load source plugins (36787.5873 ms) Thread #[20]
+2025-04-16 14:16:20.874 +07:00 [INF] PerfTimer =-> Plugin loader (36796.1202 ms) Thread #[6]
+2025-04-16 14:16:20.881 +07:00 [INF] Copilot -> Initialise time: 0.0982 ms.
+2025-04-16 14:16:20.881 +07:00 [INF] PluginUpdater -> Initialise time: 0.268 ms.
+2025-04-16 14:16:20.881 +07:00 [INF] ReAgent -> Initialise time: 2.7427 ms.
+2025-04-16 14:16:20.881 +07:00 [INF] WheresMyZoomAt -> Initialise time: 0.006 ms.
+2025-04-16 14:16:20.881 +07:00 [INF] Resize from: {X=0,Y=0,Width=1054,Height=807} to {X=0,Y=0,Width=1054,Height=855}
+2025-04-16 14:16:25.394 +07:00 [INF] Resize from: {X=0,Y=0,Width=1054,Height=855} to {X=8,Y=31,Width=1038,Height=768}
+2025-04-16 14:16:28.642 +07:00 [INF] Resize from: {X=8,Y=31,Width=1038,Height=768} to {X=8,Y=31,Width=1038,Height=816}
+2025-04-16 14:16:28.892 +07:00 [INF] Resize from: {X=8,Y=31,Width=1038,Height=816} to {X=0,Y=0,Width=1054,Height=855}
+2025-04-16 14:18:33.599 +07:00 [INF] Game not found
+2025-04-16 14:18:35.607 +07:00 [INF] Game not found
+2025-04-16 14:18:37.616 +07:00 [INF] Game not found
+2025-04-16 14:18:39.624 +07:00 [INF] Game not found
+2025-04-16 14:18:41.632 +07:00 [INF] Game not found
+2025-04-16 14:18:43.634 +07:00 [INF] Game not found
+2025-04-16 14:18:45.652 +07:00 [INF] Game not found
+2025-04-16 14:18:47.658 +07:00 [INF] Game not found
+2025-04-16 14:18:49.653 +07:00 [INF] Game not found
+2025-04-16 14:18:51.673 +07:00 [INF] Game not found
+2025-04-16 14:18:53.669 +07:00 [INF] Game not found
+2025-04-16 14:18:55.684 +07:00 [INF] Game not found
+2025-04-16 14:18:57.695 +07:00 [INF] Game not found
+2025-04-16 14:18:59.697 +07:00 [INF] Game not found
+2025-04-16 14:19:01.706 +07:00 [INF] Game not found
+2025-04-16 14:19:03.714 +07:00 [INF] Game not found
